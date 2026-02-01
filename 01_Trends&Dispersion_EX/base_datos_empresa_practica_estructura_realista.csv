@@ -1,0 +1,4001 @@
+ID_Empleado,Cargo,Edad,Salario,Horas_trabajadas,Nivel_Educativo
+E00001,CEO,56,200000000,166,Maestría
+E00002,Director,58,25317789,188,Maestría
+E00003,Director,47,24735746,214,Maestría
+E00004,Director,58,28853155,193,Maestría
+E00005,Director,61,27909579,198,Maestría
+E00006,Director,49,30255512,207,Maestría
+E00007,Gerente,53,14384102,180,Maestría
+E00008,Gerente,47,18209781,169,Maestría
+E00009,Gerente,55,18843907,195,Maestría
+E00010,Gerente,41,14569463,218,Maestría
+E00011,Gerente,53,17101435,171,Maestría
+E00012,Gerente,50,16007706,192,Maestría
+E00013,Gerente,58,21747042,226,Maestría
+E00014,Gerente,53,14192397,192,Profesional
+E00015,Gerente,57,16947834,220,Maestría
+E00016,Gerente,58,16387690,215,Maestría
+E00017,Gerente,43,14910228,208,Profesional
+E00018,Gerente,41,19145062,177,Maestría
+E00019,Gerente,40,20427385,195,Maestría
+E00020,Gerente,57,15809871,164,Profesional
+E00021,Gerente,44,12739898,182,Profesional
+E00022,Gerente,40,10091213,176,Profesional
+E00023,Gerente,49,18391998,228,Maestría
+E00024,Gerente,48,18827331,220,Maestría
+E00025,Gerente,59,19591034,169,Maestría
+E00026,Gerente,38,18288621,210,Maestría
+E00027,Gerente,44,17665747,168,Maestría
+E00028,Gerente,38,14338852,223,Profesional
+E00029,Gerente,41,17312134,213,Maestría
+E00030,Gerente,58,18376796,185,Maestría
+E00031,Gerente,51,14499453,171,Profesional
+E00032,Jefe de Área,43,10957165,190,Profesional
+E00033,Jefe de Área,36,13748438,173,Maestría
+E00034,Jefe de Área,41,12547255,228,Maestría
+E00035,Jefe de Área,55,11830512,179,Maestría
+E00036,Jefe de Área,46,10216291,226,Profesional
+E00037,Jefe de Área,55,13360515,187,Maestría
+E00038,Jefe de Área,57,8485922,208,Profesional
+E00039,Jefe de Área,54,9856398,173,Profesional
+E00040,Jefe de Área,43,11481351,175,Maestría
+E00041,Jefe de Área,42,11878687,174,Maestría
+E00042,Jefe de Área,57,10254836,194,Profesional
+E00043,Jefe de Área,57,11841847,212,Maestría
+E00044,Jefe de Área,47,10724788,208,Maestría
+E00045,Jefe de Área,54,11350579,187,Profesional
+E00046,Jefe de Área,48,14627212,186,Maestría
+E00047,Jefe de Área,54,11757680,182,Maestría
+E00048,Jefe de Área,50,13517323,164,Maestría
+E00049,Jefe de Área,45,10361541,172,Profesional
+E00050,Jefe de Área,40,11980861,206,Maestría
+E00051,Jefe de Área,48,9910157,229,Profesional
+E00052,Jefe de Área,40,10889781,224,Maestría
+E00053,Jefe de Área,49,10544549,222,Profesional
+E00054,Jefe de Área,35,11436051,194,Maestría
+E00055,Jefe de Área,39,12744536,219,Maestría
+E00056,Jefe de Área,48,10506348,206,Profesional
+E00057,Jefe de Área,52,12344311,203,Maestría
+E00058,Jefe de Área,37,11628312,181,Profesional
+E00059,Jefe de Área,45,11903267,220,Maestría
+E00060,Jefe de Área,52,12104496,229,Maestría
+E00061,Jefe de Área,54,11266582,199,Profesional
+E00062,Jefe de Área,45,9921870,184,Maestría
+E00063,Jefe de Área,44,10720515,223,Profesional
+E00064,Jefe de Área,43,10983681,212,Profesional
+E00065,Jefe de Área,40,11261355,170,Profesional
+E00066,Jefe de Área,40,12053564,176,Maestría
+E00067,Jefe de Área,46,11276941,204,Maestría
+E00068,Jefe de Área,37,13423148,176,Maestría
+E00069,Jefe de Área,40,12813451,191,Profesional
+E00070,Jefe de Área,43,15159316,188,Maestría
+E00071,Jefe de Área,41,10934804,212,Profesional
+E00072,Jefe de Área,48,11498907,217,Profesional
+E00073,Jefe de Área,53,14913578,164,Maestría
+E00074,Jefe de Área,45,8982416,221,Profesional
+E00075,Jefe de Área,39,12761716,172,Maestría
+E00076,Jefe de Área,48,11202516,202,Profesional
+E00077,Jefe de Área,40,14127997,189,Maestría
+E00078,Jefe de Área,54,10675262,172,Profesional
+E00079,Jefe de Área,46,12206301,170,Maestría
+E00080,Jefe de Área,50,13403133,227,Maestría
+E00081,Jefe de Área,41,12167310,186,Profesional
+E00082,Jefe de Área,35,9339798,167,Profesional
+E00083,Jefe de Área,56,11877235,222,Maestría
+E00084,Jefe de Área,45,12294522,164,Maestría
+E00085,Jefe de Área,42,11616503,170,Maestría
+E00086,Jefe de Área,56,12890907,187,Maestría
+E00087,Jefe de Área,50,12930890,160,Maestría
+E00088,Jefe de Área,36,11427883,183,Profesional
+E00089,Jefe de Área,35,13043424,193,Maestría
+E00090,Jefe de Área,46,13816770,222,Maestría
+E00091,Jefe de Área,48,11709520,194,Profesional
+E00092,Jefe de Área,38,11034137,168,Maestría
+E00093,Jefe de Área,37,11756060,182,Profesional
+E00094,Jefe de Área,35,11585645,190,Profesional
+E00095,Jefe de Área,40,11134464,199,Profesional
+E00096,Jefe de Área,43,12707399,228,Maestría
+E00097,Jefe de Área,57,10608496,221,Profesional
+E00098,Jefe de Área,35,12732854,215,Profesional
+E00099,Jefe de Área,38,11794350,182,Maestría
+E00100,Jefe de Área,52,12174874,171,Profesional
+E00101,Jefe de Área,35,11903098,202,Profesional
+E00102,Jefe de Área,47,11845200,170,Profesional
+E00103,Jefe de Área,52,10123187,225,Profesional
+E00104,Jefe de Área,36,11997973,217,Maestría
+E00105,Jefe de Área,41,9695439,168,Profesional
+E00106,Jefe de Área,42,12180845,160,Profesional
+E00107,Jefe de Área,38,12390444,205,Maestría
+E00108,Jefe de Área,42,8434032,179,Profesional
+E00109,Jefe de Área,56,11429464,162,Maestría
+E00110,Jefe de Área,37,9628699,172,Profesional
+E00111,Jefe de Área,37,12978556,193,Maestría
+E00112,Coordinador,46,8242693,208,Profesional
+E00113,Coordinador,42,8547980,209,Maestría
+E00114,Coordinador,41,10964099,223,Maestría
+E00115,Coordinador,44,9975684,164,Maestría
+E00116,Coordinador,33,9315753,162,Maestría
+E00117,Coordinador,31,9037335,170,Profesional
+E00118,Coordinador,39,11397198,198,Maestría
+E00119,Coordinador,52,9058279,208,Profesional
+E00120,Coordinador,39,9324977,172,Maestría
+E00121,Coordinador,41,8934322,180,Maestría
+E00122,Coordinador,31,8909218,196,Profesional
+E00123,Coordinador,46,8153413,195,Profesional
+E00124,Coordinador,30,7659843,215,Profesional
+E00125,Coordinador,43,9483660,221,Profesional
+E00126,Coordinador,51,8603816,174,Profesional
+E00127,Coordinador,36,8432187,165,Profesional
+E00128,Coordinador,48,10218676,210,Profesional
+E00129,Coordinador,50,10721747,193,Maestría
+E00130,Coordinador,44,10443866,176,Maestría
+E00131,Coordinador,41,9794375,228,Profesional
+E00132,Coordinador,35,11311936,182,Maestría
+E00133,Coordinador,35,9357851,208,Profesional
+E00134,Coordinador,43,9738379,201,Profesional
+E00135,Coordinador,33,8571107,207,Profesional
+E00136,Coordinador,33,7350485,174,Profesional
+E00137,Coordinador,53,7070551,225,Profesional
+E00138,Coordinador,47,10921643,193,Maestría
+E00139,Coordinador,39,11665389,197,Maestría
+E00140,Coordinador,30,10862077,179,Profesional
+E00141,Coordinador,34,9596001,180,Maestría
+E00142,Coordinador,36,10761989,188,Maestría
+E00143,Coordinador,54,9138250,215,Maestría
+E00144,Coordinador,32,8521914,206,Profesional
+E00145,Coordinador,52,9001163,187,Profesional
+E00146,Coordinador,32,9155764,218,Profesional
+E00147,Coordinador,34,11126531,210,Maestría
+E00148,Coordinador,49,9469675,167,Profesional
+E00149,Coordinador,36,8174488,187,Profesional
+E00150,Coordinador,42,7452952,174,Profesional
+E00151,Coordinador,42,8738313,176,Profesional
+E00152,Coordinador,44,11445702,220,Profesional
+E00153,Coordinador,53,10355693,191,Maestría
+E00154,Coordinador,30,8535622,229,Profesional
+E00155,Coordinador,39,10948350,210,Maestría
+E00156,Coordinador,36,9932084,162,Maestría
+E00157,Coordinador,35,8881216,220,Profesional
+E00158,Coordinador,51,10201573,210,Profesional
+E00159,Coordinador,43,8670748,162,Profesional
+E00160,Coordinador,47,9477514,206,Maestría
+E00161,Coordinador,49,8583213,187,Maestría
+E00162,Coordinador,52,10501124,171,Maestría
+E00163,Coordinador,44,8012993,178,Profesional
+E00164,Coordinador,51,9428655,200,Profesional
+E00165,Coordinador,37,10659652,222,Maestría
+E00166,Coordinador,43,8375762,198,Profesional
+E00167,Coordinador,30,8747704,197,Profesional
+E00168,Coordinador,48,9102450,175,Profesional
+E00169,Coordinador,50,8138027,189,Maestría
+E00170,Coordinador,52,8737138,173,Maestría
+E00171,Coordinador,49,7375494,168,Profesional
+E00172,Coordinador,44,10644358,207,Maestría
+E00173,Coordinador,35,9793990,188,Maestría
+E00174,Coordinador,42,10238582,165,Maestría
+E00175,Coordinador,33,8569229,173,Profesional
+E00176,Coordinador,47,9013531,163,Maestría
+E00177,Coordinador,48,8884278,211,Profesional
+E00178,Coordinador,40,10081044,212,Maestría
+E00179,Coordinador,40,10056906,216,Maestría
+E00180,Coordinador,50,8791192,173,Maestría
+E00181,Coordinador,49,8444949,180,Maestría
+E00182,Coordinador,36,8174753,202,Profesional
+E00183,Coordinador,46,10463775,171,Maestría
+E00184,Coordinador,38,6904084,177,Profesional
+E00185,Coordinador,40,8814707,225,Maestría
+E00186,Coordinador,51,9093201,164,Profesional
+E00187,Coordinador,32,8789242,173,Maestría
+E00188,Coordinador,34,8407668,160,Maestría
+E00189,Coordinador,54,8670980,177,Maestría
+E00190,Coordinador,49,9930915,163,Maestría
+E00191,Coordinador,47,9029660,200,Profesional
+E00192,Coordinador,53,8032994,168,Profesional
+E00193,Coordinador,43,11593538,182,Maestría
+E00194,Coordinador,48,9530849,187,Maestría
+E00195,Coordinador,52,11475582,169,Maestría
+E00196,Coordinador,47,9651619,221,Maestría
+E00197,Coordinador,45,9061857,172,Maestría
+E00198,Coordinador,39,10303410,208,Maestría
+E00199,Coordinador,44,9978085,177,Maestría
+E00200,Coordinador,48,8880941,171,Profesional
+E00201,Coordinador,34,11008366,188,Maestría
+E00202,Coordinador,33,8647751,175,Maestría
+E00203,Coordinador,49,10900533,174,Maestría
+E00204,Coordinador,44,9700054,202,Profesional
+E00205,Coordinador,37,10322024,166,Profesional
+E00206,Coordinador,47,7857835,179,Profesional
+E00207,Coordinador,44,8593467,187,Profesional
+E00208,Coordinador,33,9903671,199,Maestría
+E00209,Coordinador,54,8464285,192,Profesional
+E00210,Coordinador,49,7763986,224,Maestría
+E00211,Coordinador,31,8368183,228,Profesional
+E00212,Coordinador,48,10427397,171,Maestría
+E00213,Coordinador,33,8465433,195,Profesional
+E00214,Coordinador,42,7769712,182,Maestría
+E00215,Coordinador,33,9454565,205,Profesional
+E00216,Coordinador,41,7897144,187,Maestría
+E00217,Coordinador,53,10511926,180,Maestría
+E00218,Coordinador,42,10787734,161,Maestría
+E00219,Coordinador,30,10669741,165,Maestría
+E00220,Coordinador,52,11004346,178,Profesional
+E00221,Coordinador,37,8967418,213,Profesional
+E00222,Coordinador,46,9339646,202,Maestría
+E00223,Coordinador,42,8562721,184,Profesional
+E00224,Coordinador,51,11090641,210,Maestría
+E00225,Coordinador,33,9306825,204,Profesional
+E00226,Coordinador,30,7897017,205,Profesional
+E00227,Coordinador,40,11899427,169,Maestría
+E00228,Coordinador,52,10149819,199,Maestría
+E00229,Coordinador,54,9366247,180,Maestría
+E00230,Coordinador,52,9329193,209,Maestría
+E00231,Coordinador,31,9202799,207,Maestría
+E00232,Coordinador,46,9199874,196,Maestría
+E00233,Coordinador,31,9197016,225,Profesional
+E00234,Coordinador,47,8308734,220,Profesional
+E00235,Coordinador,53,8395539,205,Profesional
+E00236,Coordinador,44,9324036,189,Profesional
+E00237,Coordinador,43,9483441,207,Profesional
+E00238,Coordinador,47,7318861,227,Profesional
+E00239,Coordinador,44,10483700,160,Maestría
+E00240,Coordinador,41,7973765,180,Profesional
+E00241,Coordinador,33,10574209,184,Maestría
+E00242,Coordinador,39,10972840,178,Maestría
+E00243,Coordinador,46,9439829,170,Profesional
+E00244,Coordinador,38,8769126,187,Profesional
+E00245,Coordinador,41,9227474,191,Profesional
+E00246,Coordinador,44,8726064,198,Profesional
+E00247,Coordinador,52,10907716,214,Maestría
+E00248,Coordinador,47,12402152,174,Maestría
+E00249,Coordinador,53,9475320,191,Profesional
+E00250,Coordinador,54,9283420,206,Maestría
+E00251,Coordinador,52,9982122,187,Maestría
+E00252,Coordinador,36,6718245,227,Profesional
+E00253,Coordinador,35,9962043,163,Maestría
+E00254,Coordinador,54,11301304,164,Maestría
+E00255,Coordinador,50,8210913,162,Profesional
+E00256,Coordinador,31,11874804,163,Maestría
+E00257,Coordinador,49,10296892,223,Maestría
+E00258,Coordinador,35,8287514,186,Maestría
+E00259,Coordinador,33,10850926,160,Maestría
+E00260,Coordinador,32,9911124,187,Maestría
+E00261,Coordinador,38,8561170,179,Profesional
+E00262,Coordinador,35,8611492,225,Profesional
+E00263,Coordinador,34,9331562,223,Maestría
+E00264,Coordinador,32,8876317,215,Maestría
+E00265,Coordinador,34,9194844,223,Maestría
+E00266,Coordinador,40,10797615,202,Maestría
+E00267,Coordinador,41,7744911,203,Profesional
+E00268,Coordinador,36,7526802,174,Profesional
+E00269,Coordinador,30,7924183,210,Profesional
+E00270,Coordinador,52,8668808,163,Profesional
+E00271,Coordinador,30,9724648,213,Maestría
+E00272,Coordinador,31,11014539,208,Profesional
+E00273,Coordinador,33,8232482,217,Profesional
+E00274,Coordinador,34,9513843,197,Maestría
+E00275,Coordinador,53,9329959,196,Profesional
+E00276,Coordinador,43,7501872,197,Profesional
+E00277,Coordinador,45,8742825,211,Profesional
+E00278,Coordinador,35,8551833,166,Profesional
+E00279,Coordinador,41,9767349,181,Profesional
+E00280,Coordinador,41,10068603,194,Maestría
+E00281,Coordinador,50,9071988,162,Profesional
+E00282,Coordinador,49,10354063,167,Maestría
+E00283,Coordinador,53,10694986,210,Maestría
+E00284,Coordinador,30,10271669,165,Profesional
+E00285,Coordinador,44,9420580,171,Profesional
+E00286,Coordinador,49,9594386,195,Maestría
+E00287,Coordinador,42,7200725,229,Profesional
+E00288,Coordinador,33,11653443,165,Maestría
+E00289,Coordinador,30,9522907,193,Profesional
+E00290,Coordinador,30,10303847,215,Maestría
+E00291,Coordinador,40,9620427,225,Maestría
+E00292,Coordinador,31,8547650,170,Profesional
+E00293,Coordinador,40,8761748,166,Profesional
+E00294,Coordinador,40,10512385,166,Maestría
+E00295,Coordinador,33,10022102,164,Maestría
+E00296,Coordinador,35,8777336,198,Maestría
+E00297,Coordinador,51,8882789,178,Profesional
+E00298,Coordinador,47,12137973,222,Maestría
+E00299,Coordinador,50,8256653,173,Profesional
+E00300,Coordinador,34,10754583,184,Maestría
+E00301,Coordinador,53,9681355,213,Profesional
+E00302,Coordinador,44,8499772,202,Profesional
+E00303,Coordinador,36,9806786,195,Maestría
+E00304,Coordinador,44,11037418,215,Maestría
+E00305,Coordinador,37,9808427,211,Maestría
+E00306,Coordinador,51,8943366,198,Profesional
+E00307,Coordinador,35,9464442,189,Maestría
+E00308,Coordinador,41,10945874,167,Maestría
+E00309,Coordinador,37,11769768,181,Maestría
+E00310,Coordinador,32,7911496,176,Maestría
+E00311,Coordinador,37,11215842,180,Maestría
+E00312,Analista Senior,40,8231950,180,Maestría
+E00313,Analista Senior,46,5444245,212,Profesional
+E00314,Analista Senior,37,7469585,214,Maestría
+E00315,Analista Senior,49,8264899,215,Maestría
+E00316,Analista Senior,37,8481477,196,Profesional
+E00317,Analista Senior,41,6810647,202,Profesional
+E00318,Analista Senior,47,9560177,174,Maestría
+E00319,Analista Senior,42,6978233,196,Profesional
+E00320,Analista Senior,34,7839574,215,Profesional
+E00321,Analista Senior,38,7699110,170,Maestría
+E00322,Analista Senior,43,7497800,200,Profesional
+E00323,Analista Senior,28,7020768,169,Maestría
+E00324,Analista Senior,31,9093724,176,Maestría
+E00325,Analista Senior,33,7193210,167,Maestría
+E00326,Analista Senior,41,8420946,193,Maestría
+E00327,Analista Senior,41,7315040,200,Profesional
+E00328,Analista Senior,45,9816533,227,Maestría
+E00329,Analista Senior,44,7264040,167,Profesional
+E00330,Analista Senior,37,8195941,198,Maestría
+E00331,Analista Senior,47,7764139,207,Maestría
+E00332,Analista Senior,31,8750605,167,Maestría
+E00333,Analista Senior,41,7283035,184,Profesional
+E00334,Analista Senior,32,7801018,206,Maestría
+E00335,Analista Senior,44,6804777,209,Profesional
+E00336,Analista Senior,41,6338606,162,Profesional
+E00337,Analista Senior,28,7067166,219,Profesional
+E00338,Analista Senior,39,4741538,180,Profesional
+E00339,Analista Senior,35,6058323,224,Profesional
+E00340,Analista Senior,47,7455006,182,Profesional
+E00341,Analista Senior,47,7871895,196,Maestría
+E00342,Analista Senior,46,7517707,186,Profesional
+E00343,Analista Senior,46,8028279,222,Profesional
+E00344,Analista Senior,40,8747278,181,Maestría
+E00345,Analista Senior,39,8488047,165,Maestría
+E00346,Analista Senior,32,6809178,204,Profesional
+E00347,Analista Senior,39,8882309,207,Maestría
+E00348,Analista Senior,33,8045472,181,Maestría
+E00349,Analista Senior,44,10062060,184,Maestría
+E00350,Analista Senior,39,6921135,170,Profesional
+E00351,Analista Senior,34,8404803,169,Maestría
+E00352,Analista Senior,32,7776479,220,Profesional
+E00353,Analista Senior,34,8678830,201,Maestría
+E00354,Analista Senior,36,6076228,226,Profesional
+E00355,Analista Senior,37,8114363,194,Maestría
+E00356,Analista Senior,44,6699174,189,Profesional
+E00357,Analista Senior,29,6684189,183,Profesional
+E00358,Analista Senior,35,9100972,161,Maestría
+E00359,Analista Senior,41,8244679,197,Maestría
+E00360,Analista Senior,48,7071789,210,Maestría
+E00361,Analista Senior,33,7837357,208,Profesional
+E00362,Analista Senior,31,7353283,190,Profesional
+E00363,Analista Senior,48,7737399,225,Profesional
+E00364,Analista Senior,38,9526023,215,Maestría
+E00365,Analista Senior,39,7563609,183,Maestría
+E00366,Analista Senior,42,8146769,166,Maestría
+E00367,Analista Senior,47,6965865,173,Profesional
+E00368,Analista Senior,44,8028828,195,Maestría
+E00369,Analista Senior,29,5060769,216,Profesional
+E00370,Analista Senior,38,6580886,219,Maestría
+E00371,Analista Senior,48,7937788,204,Maestría
+E00372,Analista Senior,34,7423094,207,Profesional
+E00373,Analista Senior,33,6583445,188,Profesional
+E00374,Analista Senior,49,7734444,191,Profesional
+E00375,Analista Senior,30,6634814,213,Profesional
+E00376,Analista Senior,42,6835485,173,Profesional
+E00377,Analista Senior,37,8758067,160,Maestría
+E00378,Analista Senior,40,7494499,171,Maestría
+E00379,Analista Senior,37,6595277,184,Profesional
+E00380,Analista Senior,48,7722039,173,Profesional
+E00381,Analista Senior,47,7252876,217,Profesional
+E00382,Analista Senior,49,7525644,172,Maestría
+E00383,Analista Senior,43,5872121,197,Profesional
+E00384,Analista Senior,30,6686332,201,Profesional
+E00385,Analista Senior,29,6955235,213,Profesional
+E00386,Analista Senior,42,6587983,197,Profesional
+E00387,Analista Senior,32,7746739,206,Maestría
+E00388,Analista Senior,28,6864954,181,Profesional
+E00389,Analista Senior,44,7733678,203,Maestría
+E00390,Analista Senior,36,10186585,163,Maestría
+E00391,Analista Senior,33,7517268,168,Maestría
+E00392,Analista Senior,28,5963935,168,Profesional
+E00393,Analista Senior,37,7514075,226,Profesional
+E00394,Analista Senior,30,8389604,168,Maestría
+E00395,Analista Senior,48,9599937,205,Maestría
+E00396,Analista Senior,42,6892196,227,Profesional
+E00397,Analista Senior,42,6102939,178,Profesional
+E00398,Analista Senior,38,7340089,189,Maestría
+E00399,Analista Senior,43,7589269,185,Profesional
+E00400,Analista Senior,29,7655886,179,Profesional
+E00401,Analista Senior,40,7145607,172,Profesional
+E00402,Analista Senior,41,6883104,174,Profesional
+E00403,Analista Senior,40,8584502,198,Maestría
+E00404,Analista Senior,31,9361364,177,Profesional
+E00405,Analista Senior,42,8854137,196,Maestría
+E00406,Analista Senior,34,8702021,170,Maestría
+E00407,Analista Senior,49,7768555,222,Maestría
+E00408,Analista Senior,44,8524983,183,Maestría
+E00409,Analista Senior,46,6289118,174,Profesional
+E00410,Analista Senior,44,7374938,165,Profesional
+E00411,Analista Senior,31,9632561,189,Maestría
+E00412,Analista Senior,45,7535323,202,Profesional
+E00413,Analista Senior,44,6662068,167,Profesional
+E00414,Analista Senior,40,6868176,165,Maestría
+E00415,Analista Senior,37,7603552,163,Profesional
+E00416,Analista Senior,42,6722453,196,Profesional
+E00417,Analista Senior,45,7860863,164,Profesional
+E00418,Analista Senior,43,7206049,185,Profesional
+E00419,Analista Senior,36,6526212,178,Profesional
+E00420,Analista Senior,39,8475405,171,Maestría
+E00421,Analista Senior,34,6837385,161,Profesional
+E00422,Analista Senior,48,8842799,176,Maestría
+E00423,Analista Senior,28,7496199,201,Profesional
+E00424,Analista Senior,36,7660389,201,Maestría
+E00425,Analista Senior,31,7074453,201,Profesional
+E00426,Analista Senior,40,7064769,192,Maestría
+E00427,Analista Senior,37,6740525,172,Profesional
+E00428,Analista Senior,38,7224910,186,Profesional
+E00429,Analista Senior,35,7222905,169,Maestría
+E00430,Analista Senior,37,7012415,217,Profesional
+E00431,Analista Senior,29,7663092,204,Maestría
+E00432,Analista Senior,30,7712402,201,Maestría
+E00433,Analista Senior,49,6679003,181,Profesional
+E00434,Analista Senior,37,8189942,168,Maestría
+E00435,Analista Senior,40,7495502,160,Profesional
+E00436,Analista Senior,44,7188416,182,Maestría
+E00437,Analista Senior,45,7632071,163,Maestría
+E00438,Analista Senior,45,9844227,208,Maestría
+E00439,Analista Senior,33,8423698,204,Maestría
+E00440,Analista Senior,41,5369515,198,Profesional
+E00441,Analista Senior,49,7362959,161,Profesional
+E00442,Analista Senior,32,6894806,186,Profesional
+E00443,Analista Senior,31,7806734,184,Profesional
+E00444,Analista Senior,49,7456276,169,Maestría
+E00445,Analista Senior,40,5405854,191,Profesional
+E00446,Analista Senior,37,8131001,199,Profesional
+E00447,Analista Senior,30,7039200,195,Profesional
+E00448,Analista Senior,48,6268211,213,Profesional
+E00449,Analista Senior,38,6788184,206,Profesional
+E00450,Analista Senior,45,7012154,192,Profesional
+E00451,Analista Senior,48,6897536,198,Profesional
+E00452,Analista Senior,44,8199971,173,Maestría
+E00453,Analista Senior,39,7698004,223,Maestría
+E00454,Analista Senior,49,6519904,189,Profesional
+E00455,Analista Senior,30,8577791,205,Maestría
+E00456,Analista Senior,31,7007462,183,Profesional
+E00457,Analista Senior,49,7612890,219,Maestría
+E00458,Analista Senior,45,8514378,229,Maestría
+E00459,Analista Senior,45,8030740,223,Maestría
+E00460,Analista Senior,48,7939276,167,Profesional
+E00461,Analista Senior,40,8041366,164,Profesional
+E00462,Analista Senior,33,5723548,182,Profesional
+E00463,Analista Senior,48,8002381,203,Profesional
+E00464,Analista Senior,42,8283207,172,Maestría
+E00465,Analista Senior,48,8689729,185,Maestría
+E00466,Analista Senior,34,6489898,178,Profesional
+E00467,Analista Senior,35,7020209,189,Maestría
+E00468,Analista Senior,41,8207554,199,Maestría
+E00469,Analista Senior,49,6812047,228,Profesional
+E00470,Analista Senior,41,10690163,196,Maestría
+E00471,Analista Senior,42,7572439,214,Profesional
+E00472,Analista Senior,29,7992655,183,Maestría
+E00473,Analista Senior,32,7356302,161,Maestría
+E00474,Analista Senior,34,8573704,177,Maestría
+E00475,Analista Senior,28,6265642,205,Profesional
+E00476,Analista Senior,40,9611713,176,Maestría
+E00477,Analista Senior,45,8468244,175,Maestría
+E00478,Analista Senior,42,7374364,209,Profesional
+E00479,Analista Senior,33,7343789,173,Profesional
+E00480,Analista Senior,40,8396589,226,Maestría
+E00481,Analista Senior,30,7837382,218,Maestría
+E00482,Analista Senior,28,9114784,196,Maestría
+E00483,Analista Senior,47,6731059,161,Profesional
+E00484,Analista Senior,40,5873042,206,Profesional
+E00485,Analista Senior,45,8399476,219,Maestría
+E00486,Analista Senior,39,6918555,225,Profesional
+E00487,Analista Senior,41,7860738,168,Maestría
+E00488,Analista Senior,44,5866016,210,Profesional
+E00489,Analista Senior,45,9135964,195,Maestría
+E00490,Analista Senior,33,7686274,185,Maestría
+E00491,Analista Senior,39,6154290,220,Profesional
+E00492,Analista Senior,35,7679106,214,Profesional
+E00493,Analista Senior,39,8188363,193,Maestría
+E00494,Analista Senior,45,9227661,226,Maestría
+E00495,Analista Senior,49,7910939,218,Maestría
+E00496,Analista Senior,44,8177250,190,Profesional
+E00497,Analista Senior,38,8628489,185,Maestría
+E00498,Analista Senior,28,7342509,209,Maestría
+E00499,Analista Senior,47,7868281,207,Maestría
+E00500,Analista Senior,38,6702732,221,Profesional
+E00501,Analista Senior,44,7618478,162,Profesional
+E00502,Analista Senior,46,7499779,209,Maestría
+E00503,Analista Senior,29,7748386,167,Maestría
+E00504,Analista Senior,48,8597255,209,Maestría
+E00505,Analista Senior,33,6853689,169,Profesional
+E00506,Analista Senior,45,9104490,207,Maestría
+E00507,Analista Senior,48,7728662,165,Maestría
+E00508,Analista Senior,31,7923561,171,Profesional
+E00509,Analista Senior,42,9599551,184,Maestría
+E00510,Analista Senior,31,7998143,190,Profesional
+E00511,Analista Senior,29,9218811,189,Maestría
+E00512,Analista Senior,46,9185136,192,Maestría
+E00513,Analista Senior,31,7844349,215,Maestría
+E00514,Analista Senior,29,8226306,194,Maestría
+E00515,Analista Senior,46,8482155,188,Maestría
+E00516,Analista Senior,43,6825707,221,Profesional
+E00517,Analista Senior,46,9123521,192,Maestría
+E00518,Analista Senior,30,7955392,188,Maestría
+E00519,Analista Senior,39,5862835,174,Profesional
+E00520,Analista Senior,42,7667418,168,Profesional
+E00521,Analista Senior,29,8057389,170,Profesional
+E00522,Analista Senior,43,5781839,227,Profesional
+E00523,Analista Senior,32,6706376,196,Profesional
+E00524,Analista Senior,41,7096118,181,Profesional
+E00525,Analista Senior,35,8189747,209,Profesional
+E00526,Analista Senior,37,6220389,208,Profesional
+E00527,Analista Senior,45,8243697,217,Maestría
+E00528,Analista Senior,35,7473444,166,Profesional
+E00529,Analista Senior,39,9803039,217,Maestría
+E00530,Analista Senior,38,8021679,177,Profesional
+E00531,Analista Senior,39,8435839,210,Maestría
+E00532,Analista Senior,38,7373638,169,Profesional
+E00533,Analista Senior,39,6896024,207,Profesional
+E00534,Analista Senior,30,8807567,217,Maestría
+E00535,Analista Senior,48,5767411,167,Profesional
+E00536,Analista Senior,42,7056535,184,Profesional
+E00537,Analista Senior,48,7278406,223,Maestría
+E00538,Analista Senior,30,7862464,213,Profesional
+E00539,Analista Senior,42,5890686,216,Profesional
+E00540,Analista Senior,29,6893078,170,Profesional
+E00541,Analista Senior,33,7145216,176,Maestría
+E00542,Analista Senior,33,6360773,213,Profesional
+E00543,Analista Senior,44,7286606,185,Profesional
+E00544,Analista Senior,34,7602074,187,Profesional
+E00545,Analista Senior,43,8123669,196,Maestría
+E00546,Analista Senior,42,9276013,209,Maestría
+E00547,Analista Senior,30,7213424,179,Maestría
+E00548,Analista Senior,34,6370520,178,Profesional
+E00549,Analista Senior,30,7421418,203,Maestría
+E00550,Analista Senior,38,7547757,208,Maestría
+E00551,Analista Senior,37,5859451,213,Profesional
+E00552,Analista Senior,44,6514087,216,Profesional
+E00553,Analista Senior,33,6299951,219,Profesional
+E00554,Analista Senior,47,8081382,220,Maestría
+E00555,Analista Senior,37,6275552,171,Profesional
+E00556,Analista Senior,29,5198379,207,Profesional
+E00557,Analista Senior,34,8666845,210,Maestría
+E00558,Analista Senior,42,6468750,226,Profesional
+E00559,Analista Senior,38,8109237,166,Profesional
+E00560,Analista Senior,38,7632746,198,Maestría
+E00561,Analista Senior,44,7040561,179,Profesional
+E00562,Analista Senior,38,7136953,173,Profesional
+E00563,Analista Senior,44,8520307,184,Maestría
+E00564,Analista Senior,41,9126578,174,Maestría
+E00565,Analista Senior,32,7257713,162,Profesional
+E00566,Analista Senior,34,6823417,192,Profesional
+E00567,Analista Senior,49,5229423,199,Profesional
+E00568,Analista Senior,30,7216442,208,Profesional
+E00569,Analista Senior,45,7665094,218,Maestría
+E00570,Analista Senior,34,6363066,199,Profesional
+E00571,Analista Senior,37,9029607,160,Profesional
+E00572,Analista Senior,46,6351938,187,Profesional
+E00573,Analista Senior,44,6162675,196,Profesional
+E00574,Analista Senior,35,7570621,191,Profesional
+E00575,Analista Senior,40,9465418,201,Maestría
+E00576,Analista Senior,40,7829950,200,Maestría
+E00577,Analista Senior,33,8111321,228,Maestría
+E00578,Analista Senior,49,8762967,190,Maestría
+E00579,Analista Senior,34,8477494,202,Maestría
+E00580,Analista Senior,36,7966492,167,Maestría
+E00581,Analista Senior,30,7361131,174,Profesional
+E00582,Analista Senior,42,7194483,227,Profesional
+E00583,Analista Senior,29,9719585,175,Maestría
+E00584,Analista Senior,43,6029828,195,Profesional
+E00585,Analista Senior,39,8807452,163,Maestría
+E00586,Analista Senior,36,7531627,216,Maestría
+E00587,Analista Senior,49,6636368,199,Profesional
+E00588,Analista Senior,46,7959396,175,Maestría
+E00589,Analista Senior,44,8147130,204,Maestría
+E00590,Analista Senior,38,8196048,216,Profesional
+E00591,Analista Senior,30,9224954,188,Maestría
+E00592,Analista Senior,40,8490608,166,Maestría
+E00593,Analista Senior,48,8064740,217,Maestría
+E00594,Analista Senior,40,8243548,211,Profesional
+E00595,Analista Senior,46,7144047,217,Profesional
+E00596,Analista Senior,45,6640190,172,Profesional
+E00597,Analista Senior,44,8662547,177,Maestría
+E00598,Analista Senior,37,8546060,195,Maestría
+E00599,Analista Senior,28,7508528,206,Profesional
+E00600,Analista Senior,41,8227765,185,Maestría
+E00601,Analista Senior,41,7089666,210,Profesional
+E00602,Analista Senior,31,8652206,167,Maestría
+E00603,Analista Senior,40,7556744,162,Maestría
+E00604,Analista Senior,33,7477997,196,Maestría
+E00605,Analista Senior,45,9141789,207,Maestría
+E00606,Analista Senior,32,9906657,165,Maestría
+E00607,Analista Senior,43,7822585,197,Profesional
+E00608,Analista Senior,48,7341014,185,Profesional
+E00609,Analista Senior,33,8334934,167,Maestría
+E00610,Analista Senior,47,8864458,213,Maestría
+E00611,Analista Senior,28,7852259,198,Maestría
+E00612,Analista Senior,41,7544241,169,Maestría
+E00613,Analista Senior,33,8990838,196,Maestría
+E00614,Analista Senior,35,7433463,187,Profesional
+E00615,Analista Senior,43,7797243,180,Maestría
+E00616,Analista Senior,32,7813710,162,Maestría
+E00617,Analista Senior,39,8843888,217,Maestría
+E00618,Analista Senior,40,8846499,179,Maestría
+E00619,Analista Senior,33,7208044,185,Maestría
+E00620,Analista Senior,40,6158272,168,Profesional
+E00621,Analista Senior,28,6161022,175,Profesional
+E00622,Analista Senior,29,6564344,202,Profesional
+E00623,Analista Senior,49,7975428,219,Maestría
+E00624,Analista Senior,40,6535831,176,Profesional
+E00625,Analista Senior,48,7273041,162,Profesional
+E00626,Analista Senior,32,8273218,160,Maestría
+E00627,Analista Senior,42,8155838,166,Maestría
+E00628,Analista Senior,41,6793370,163,Profesional
+E00629,Analista Senior,29,7598247,188,Maestría
+E00630,Analista Senior,42,6516938,222,Profesional
+E00631,Analista Senior,39,6957991,188,Profesional
+E00632,Analista Senior,40,7983544,200,Profesional
+E00633,Analista Senior,31,8027459,164,Maestría
+E00634,Analista Senior,35,8952173,164,Maestría
+E00635,Analista Senior,33,8242109,213,Maestría
+E00636,Analista Senior,32,8784159,212,Maestría
+E00637,Analista Senior,42,8405255,226,Maestría
+E00638,Analista Senior,28,8108985,220,Maestría
+E00639,Analista Senior,42,8019156,182,Profesional
+E00640,Analista Senior,37,7839836,167,Profesional
+E00641,Analista Senior,28,6809795,216,Profesional
+E00642,Analista Senior,41,8772114,200,Maestría
+E00643,Analista Senior,43,8147234,180,Maestría
+E00644,Analista Senior,35,7391242,172,Maestría
+E00645,Analista Senior,49,7115138,214,Profesional
+E00646,Analista Senior,39,8657936,184,Maestría
+E00647,Analista Senior,47,6619073,206,Profesional
+E00648,Analista Senior,39,7382748,168,Maestría
+E00649,Analista Senior,33,9364950,199,Maestría
+E00650,Analista Senior,28,8435666,174,Profesional
+E00651,Analista Senior,48,8380952,189,Maestría
+E00652,Analista Senior,28,9378479,166,Maestría
+E00653,Analista Senior,34,8503247,201,Maestría
+E00654,Analista Senior,34,6888730,172,Profesional
+E00655,Analista Senior,39,7192170,201,Maestría
+E00656,Analista Senior,48,7526146,195,Maestría
+E00657,Analista Senior,32,8656948,229,Maestría
+E00658,Analista Senior,49,8786073,223,Maestría
+E00659,Analista Senior,32,6160618,197,Profesional
+E00660,Analista Senior,41,8956103,213,Maestría
+E00661,Analista Senior,41,7299710,202,Profesional
+E00662,Analista Senior,36,8569044,173,Maestría
+E00663,Analista Senior,41,6435392,163,Profesional
+E00664,Analista Senior,32,9420697,165,Maestría
+E00665,Analista Senior,40,9188033,204,Maestría
+E00666,Analista Senior,44,7461548,180,Maestría
+E00667,Analista Senior,46,5769285,192,Profesional
+E00668,Analista Senior,36,6497892,211,Profesional
+E00669,Analista Senior,43,7657537,185,Maestría
+E00670,Analista Senior,31,9604420,167,Maestría
+E00671,Analista Senior,44,8634644,205,Maestría
+E00672,Analista Senior,42,7134451,187,Profesional
+E00673,Analista Senior,29,6376021,222,Profesional
+E00674,Analista Senior,28,7247234,221,Maestría
+E00675,Analista Senior,41,6808131,182,Profesional
+E00676,Analista Senior,33,6704424,221,Maestría
+E00677,Analista Senior,43,8145327,205,Maestría
+E00678,Analista Senior,32,8233833,229,Maestría
+E00679,Analista Senior,44,8029669,181,Maestría
+E00680,Analista Senior,47,8803925,190,Maestría
+E00681,Analista Senior,29,7225156,178,Profesional
+E00682,Analista Senior,31,6921448,169,Maestría
+E00683,Analista Senior,32,8146105,183,Profesional
+E00684,Analista Senior,30,8305800,219,Profesional
+E00685,Analista Senior,35,6605810,201,Profesional
+E00686,Analista Senior,30,7345214,162,Profesional
+E00687,Analista Senior,44,8001937,178,Profesional
+E00688,Analista Senior,30,7550829,170,Maestría
+E00689,Analista Senior,39,8257290,201,Maestría
+E00690,Analista Senior,41,9496156,214,Maestría
+E00691,Analista Senior,38,9270470,183,Maestría
+E00692,Analista Senior,29,8553628,195,Maestría
+E00693,Analista Senior,39,7729231,161,Profesional
+E00694,Analista Senior,45,7541842,211,Profesional
+E00695,Analista Senior,30,8155144,160,Maestría
+E00696,Analista Senior,38,6589917,215,Profesional
+E00697,Analista Senior,41,6660835,210,Profesional
+E00698,Analista Senior,31,8794788,166,Maestría
+E00699,Analista Senior,44,7131035,164,Profesional
+E00700,Analista Senior,49,8061305,174,Maestría
+E00701,Analista Senior,28,7014284,168,Profesional
+E00702,Analista Senior,35,6996635,210,Profesional
+E00703,Analista Senior,42,6657223,190,Profesional
+E00704,Analista Senior,46,8408551,213,Maestría
+E00705,Analista Senior,30,8020460,219,Maestría
+E00706,Analista Senior,47,6368548,216,Profesional
+E00707,Analista Senior,44,6708884,167,Profesional
+E00708,Analista Senior,48,8124256,194,Profesional
+E00709,Analista Senior,33,7747091,213,Profesional
+E00710,Analista Senior,34,7728829,191,Maestría
+E00711,Analista Senior,42,7808850,218,Maestría
+E00712,Analista Senior,39,7328766,213,Profesional
+E00713,Analista Senior,46,8263812,203,Maestría
+E00714,Analista Senior,41,7623204,186,Maestría
+E00715,Analista Senior,43,6773787,217,Maestría
+E00716,Analista Senior,49,6350446,191,Profesional
+E00717,Analista Senior,42,8665873,198,Maestría
+E00718,Analista Senior,36,7947131,207,Maestría
+E00719,Analista Senior,47,7780984,218,Profesional
+E00720,Analista Senior,30,7749498,190,Maestría
+E00721,Analista Senior,31,6829806,214,Profesional
+E00722,Analista Senior,49,6858878,222,Profesional
+E00723,Analista Senior,31,9509852,194,Maestría
+E00724,Analista Senior,48,6922858,228,Profesional
+E00725,Analista Senior,42,6841418,211,Profesional
+E00726,Analista Senior,44,8550938,176,Profesional
+E00727,Analista Senior,28,6435098,223,Profesional
+E00728,Analista Senior,31,7610451,178,Profesional
+E00729,Analista Senior,46,6770436,172,Profesional
+E00730,Analista Senior,35,6435976,160,Profesional
+E00731,Analista Senior,30,6314694,222,Profesional
+E00732,Analista Senior,36,7886742,218,Profesional
+E00733,Analista Senior,35,8489092,219,Maestría
+E00734,Analista Senior,28,6286148,213,Profesional
+E00735,Analista Senior,28,8789943,211,Maestría
+E00736,Analista Senior,39,6178378,218,Profesional
+E00737,Analista Senior,31,6808989,229,Maestría
+E00738,Analista Senior,41,6626448,172,Maestría
+E00739,Analista Senior,44,6041125,205,Profesional
+E00740,Analista Senior,41,7027930,190,Maestría
+E00741,Analista Senior,46,7844670,222,Maestría
+E00742,Analista Senior,41,8327827,220,Maestría
+E00743,Analista Senior,31,7679003,162,Profesional
+E00744,Analista Senior,45,7977199,177,Maestría
+E00745,Analista Senior,34,6872736,175,Profesional
+E00746,Analista Senior,48,8097576,197,Profesional
+E00747,Analista Senior,49,7387061,208,Profesional
+E00748,Analista Senior,43,7076351,198,Profesional
+E00749,Analista Senior,45,7974690,161,Profesional
+E00750,Analista Senior,45,7074118,220,Profesional
+E00751,Analista Senior,29,6648983,189,Profesional
+E00752,Analista Senior,34,9442505,177,Maestría
+E00753,Analista Senior,29,8127652,219,Maestría
+E00754,Analista Senior,39,7116829,199,Maestría
+E00755,Analista Senior,37,6870868,214,Maestría
+E00756,Analista Senior,34,7801278,207,Maestría
+E00757,Analista Senior,41,7015365,202,Profesional
+E00758,Analista Senior,32,9713561,202,Maestría
+E00759,Analista Senior,43,5752036,178,Profesional
+E00760,Analista Senior,32,6097195,185,Profesional
+E00761,Analista Senior,45,8433523,170,Maestría
+E00762,Analista Senior,40,6550862,212,Profesional
+E00763,Analista Senior,35,7685710,225,Profesional
+E00764,Analista Senior,36,5778841,223,Profesional
+E00765,Analista Senior,43,6596066,228,Profesional
+E00766,Analista Senior,32,8456836,185,Maestría
+E00767,Analista Senior,34,8354215,190,Maestría
+E00768,Analista Senior,34,6356435,198,Profesional
+E00769,Analista Senior,36,8715477,206,Maestría
+E00770,Analista Senior,36,8573195,198,Maestría
+E00771,Analista Senior,31,7124966,187,Maestría
+E00772,Analista Senior,32,7757556,186,Maestría
+E00773,Analista Senior,32,6878756,161,Profesional
+E00774,Analista Senior,40,7040341,213,Profesional
+E00775,Analista Senior,30,8175681,182,Maestría
+E00776,Analista Senior,41,7970786,211,Maestría
+E00777,Analista Senior,35,6847911,162,Profesional
+E00778,Analista Senior,36,6400468,213,Profesional
+E00779,Analista Senior,41,7905207,205,Maestría
+E00780,Analista Senior,28,7031371,183,Profesional
+E00781,Analista Senior,39,6700316,201,Profesional
+E00782,Analista Senior,43,8718063,180,Maestría
+E00783,Analista Senior,28,6440764,164,Profesional
+E00784,Analista Senior,48,8247040,199,Maestría
+E00785,Analista Senior,37,8535448,192,Maestría
+E00786,Analista Senior,43,8069290,208,Profesional
+E00787,Analista Senior,39,7826308,222,Profesional
+E00788,Analista Senior,28,9387422,206,Maestría
+E00789,Analista Senior,46,8810235,211,Maestría
+E00790,Analista Senior,39,8251997,177,Maestría
+E00791,Analista Senior,44,6333151,224,Profesional
+E00792,Analista Senior,32,7441468,177,Maestría
+E00793,Analista Senior,36,8946688,220,Maestría
+E00794,Analista Senior,38,6738423,177,Profesional
+E00795,Analista Senior,42,8300593,187,Maestría
+E00796,Analista Senior,44,6047194,201,Profesional
+E00797,Analista Senior,46,7176538,163,Profesional
+E00798,Analista Senior,41,8721404,205,Maestría
+E00799,Analista Senior,39,6429025,183,Profesional
+E00800,Analista Senior,46,7187397,224,Profesional
+E00801,Analista Senior,36,7862712,227,Maestría
+E00802,Analista Senior,31,7872462,179,Profesional
+E00803,Analista Senior,29,8289401,186,Maestría
+E00804,Analista Senior,39,8551060,185,Maestría
+E00805,Analista Senior,36,8138376,165,Maestría
+E00806,Analista Senior,32,7954857,208,Maestría
+E00807,Analista Senior,45,6687276,168,Maestría
+E00808,Analista Senior,35,6160244,166,Profesional
+E00809,Analista Senior,31,6969651,221,Profesional
+E00810,Analista Senior,49,9108027,178,Maestría
+E00811,Analista Senior,49,7041024,204,Maestría
+E00812,Analista,34,3671917,172,Tecnólogo
+E00813,Analista,31,4245604,169,Profesional
+E00814,Analista,25,4602809,172,Profesional
+E00815,Analista,30,4414015,169,Profesional
+E00816,Analista,28,3808388,202,Tecnólogo
+E00817,Analista,30,4801238,161,Tecnólogo
+E00818,Analista,33,3523394,166,Tecnólogo
+E00819,Analista,33,4620699,196,Profesional
+E00820,Analista,30,4443629,202,Profesional
+E00821,Analista,27,4621623,207,Profesional
+E00822,Analista,33,3942623,216,Tecnólogo
+E00823,Analista,35,3542405,201,Tecnólogo
+E00824,Analista,24,4347289,191,Profesional
+E00825,Analista,38,5199995,219,Profesional
+E00826,Analista,26,4542740,180,Profesional
+E00827,Analista,31,3852109,196,Profesional
+E00828,Analista,23,5185115,194,Profesional
+E00829,Analista,24,4760257,185,Profesional
+E00830,Analista,38,3788235,166,Tecnólogo
+E00831,Analista,29,3609223,209,Profesional
+E00832,Analista,32,4287035,198,Profesional
+E00833,Analista,39,5354473,224,Profesional
+E00834,Analista,26,5055623,197,Profesional
+E00835,Analista,25,4104982,228,Profesional
+E00836,Analista,26,4942023,162,Profesional
+E00837,Analista,30,3732736,196,Profesional
+E00838,Analista,27,5103684,164,Profesional
+E00839,Analista,35,3655150,163,Tecnólogo
+E00840,Analista,37,4830948,171,Tecnólogo
+E00841,Analista,38,3725370,208,Tecnólogo
+E00842,Analista,28,4083551,191,Profesional
+E00843,Analista,33,4863991,228,Profesional
+E00844,Analista,38,3596771,199,Tecnólogo
+E00845,Analista,27,3634929,206,Tecnólogo
+E00846,Analista,38,5073603,226,Profesional
+E00847,Analista,39,4899300,179,Profesional
+E00848,Analista,26,4321223,195,Profesional
+E00849,Analista,30,4336409,183,Tecnólogo
+E00850,Analista,39,3458391,161,Tecnólogo
+E00851,Analista,36,5298527,202,Profesional
+E00852,Analista,35,4587097,179,Profesional
+E00853,Analista,37,4894320,220,Profesional
+E00854,Analista,33,4365026,184,Profesional
+E00855,Analista,32,4330604,217,Profesional
+E00856,Analista,35,4538499,194,Profesional
+E00857,Analista,29,3828696,208,Tecnólogo
+E00858,Analista,27,4013501,203,Profesional
+E00859,Analista,24,4469945,197,Profesional
+E00860,Analista,33,3723544,193,Tecnólogo
+E00861,Analista,38,4996283,210,Profesional
+E00862,Analista,34,5482604,228,Profesional
+E00863,Analista,38,3935022,226,Profesional
+E00864,Analista,39,4568528,161,Profesional
+E00865,Analista,35,4362793,173,Profesional
+E00866,Analista,27,4263434,228,Profesional
+E00867,Analista,30,4616415,167,Tecnólogo
+E00868,Analista,39,4073730,187,Tecnólogo
+E00869,Analista,34,3649944,200,Tecnólogo
+E00870,Analista,35,3935033,206,Tecnólogo
+E00871,Analista,38,6026106,216,Profesional
+E00872,Analista,33,5021610,219,Profesional
+E00873,Analista,37,3821773,170,Profesional
+E00874,Analista,30,4991114,164,Profesional
+E00875,Analista,29,3262101,184,Tecnólogo
+E00876,Analista,27,3823221,184,Profesional
+E00877,Analista,29,5000984,200,Tecnólogo
+E00878,Analista,36,3793974,176,Tecnólogo
+E00879,Analista,36,3819136,212,Tecnólogo
+E00880,Analista,23,4906603,225,Profesional
+E00881,Analista,39,4249251,213,Tecnólogo
+E00882,Analista,23,4377142,170,Profesional
+E00883,Analista,26,3502028,169,Tecnólogo
+E00884,Analista,25,4432317,197,Tecnólogo
+E00885,Analista,26,3139515,194,Tecnólogo
+E00886,Analista,23,4591679,222,Profesional
+E00887,Analista,36,3518946,171,Tecnólogo
+E00888,Analista,28,4820993,198,Profesional
+E00889,Analista,34,4065316,216,Profesional
+E00890,Analista,39,4203658,190,Tecnólogo
+E00891,Analista,27,4300277,228,Profesional
+E00892,Analista,39,3506147,165,Profesional
+E00893,Analista,37,3455505,201,Tecnólogo
+E00894,Analista,28,5366458,164,Profesional
+E00895,Analista,27,4253748,211,Tecnólogo
+E00896,Analista,23,4030898,185,Profesional
+E00897,Analista,28,4130713,184,Profesional
+E00898,Analista,24,5130985,210,Profesional
+E00899,Analista,28,4095507,192,Profesional
+E00900,Analista,25,4662947,171,Tecnólogo
+E00901,Analista,33,3381099,226,Tecnólogo
+E00902,Analista,25,4326112,173,Profesional
+E00903,Analista,27,4770695,221,Profesional
+E00904,Analista,34,5209455,171,Profesional
+E00905,Analista,33,4287581,214,Tecnólogo
+E00906,Analista,38,4963733,205,Tecnólogo
+E00907,Analista,27,3945010,227,Tecnólogo
+E00908,Analista,23,4168574,166,Tecnólogo
+E00909,Analista,28,3468491,218,Tecnólogo
+E00910,Analista,28,4829731,207,Profesional
+E00911,Analista,34,4818401,170,Tecnólogo
+E00912,Analista,37,4610284,222,Profesional
+E00913,Analista,24,3811389,160,Tecnólogo
+E00914,Analista,29,4742015,171,Profesional
+E00915,Analista,39,4121956,225,Tecnólogo
+E00916,Analista,29,3666810,211,Tecnólogo
+E00917,Analista,26,3957922,211,Profesional
+E00918,Analista,26,3978420,218,Tecnólogo
+E00919,Analista,26,4949067,171,Profesional
+E00920,Analista,24,4195792,204,Tecnólogo
+E00921,Analista,36,4272317,211,Tecnólogo
+E00922,Analista,33,4721230,174,Profesional
+E00923,Analista,23,3917128,197,Tecnólogo
+E00924,Analista,36,4122192,196,Tecnólogo
+E00925,Analista,35,3424908,215,Profesional
+E00926,Analista,36,3574602,221,Tecnólogo
+E00927,Analista,28,4085007,179,Profesional
+E00928,Analista,37,4844635,187,Profesional
+E00929,Analista,38,4047909,168,Tecnólogo
+E00930,Analista,29,4349437,226,Tecnólogo
+E00931,Analista,38,3160463,221,Tecnólogo
+E00932,Analista,28,4268443,226,Tecnólogo
+E00933,Analista,28,5015438,212,Profesional
+E00934,Analista,38,4513725,213,Tecnólogo
+E00935,Analista,31,4476021,224,Profesional
+E00936,Analista,29,3776686,162,Profesional
+E00937,Analista,24,4436642,187,Tecnólogo
+E00938,Analista,35,4376541,171,Profesional
+E00939,Analista,33,4831264,162,Profesional
+E00940,Analista,38,4316467,177,Profesional
+E00941,Analista,39,4071834,167,Tecnólogo
+E00942,Analista,35,4415848,194,Profesional
+E00943,Analista,37,4407176,187,Profesional
+E00944,Analista,27,4181229,184,Tecnólogo
+E00945,Analista,36,5022316,188,Profesional
+E00946,Analista,26,4851757,207,Profesional
+E00947,Analista,24,4710725,165,Profesional
+E00948,Analista,28,4040714,162,Tecnólogo
+E00949,Analista,34,4336213,203,Tecnólogo
+E00950,Analista,39,4364634,194,Tecnólogo
+E00951,Analista,38,4124189,221,Tecnólogo
+E00952,Analista,23,4463716,167,Profesional
+E00953,Analista,27,3881062,162,Profesional
+E00954,Analista,33,3912714,173,Profesional
+E00955,Analista,34,3656114,220,Profesional
+E00956,Analista,29,4259741,191,Profesional
+E00957,Analista,38,4289035,170,Tecnólogo
+E00958,Analista,27,4352954,188,Tecnólogo
+E00959,Analista,26,4395483,163,Tecnólogo
+E00960,Analista,29,3893054,161,Tecnólogo
+E00961,Analista,39,4810485,213,Profesional
+E00962,Analista,23,4590527,216,Profesional
+E00963,Analista,27,3878306,185,Tecnólogo
+E00964,Analista,32,4020973,217,Tecnólogo
+E00965,Analista,30,4385720,164,Profesional
+E00966,Analista,31,4156013,168,Profesional
+E00967,Analista,39,4866352,200,Profesional
+E00968,Analista,34,3509382,202,Tecnólogo
+E00969,Analista,26,5003230,165,Profesional
+E00970,Analista,30,4312552,178,Tecnólogo
+E00971,Analista,35,4669587,191,Profesional
+E00972,Analista,30,4653745,229,Profesional
+E00973,Analista,36,3835578,215,Tecnólogo
+E00974,Analista,29,4701643,218,Tecnólogo
+E00975,Analista,31,4867817,201,Profesional
+E00976,Analista,34,4289659,188,Tecnólogo
+E00977,Analista,32,4609593,219,Profesional
+E00978,Analista,37,3784379,223,Profesional
+E00979,Analista,38,4364115,214,Tecnólogo
+E00980,Analista,36,4129239,194,Tecnólogo
+E00981,Analista,32,4309318,177,Tecnólogo
+E00982,Analista,33,3177976,199,Tecnólogo
+E00983,Analista,25,3803136,193,Tecnólogo
+E00984,Analista,28,4134859,182,Tecnólogo
+E00985,Analista,33,4160938,169,Tecnólogo
+E00986,Analista,31,3501230,219,Tecnólogo
+E00987,Analista,29,4020909,173,Tecnólogo
+E00988,Analista,37,4188565,180,Tecnólogo
+E00989,Analista,37,4256943,214,Profesional
+E00990,Analista,25,3663099,189,Profesional
+E00991,Analista,35,5018710,197,Profesional
+E00992,Analista,36,4913867,212,Profesional
+E00993,Analista,25,5286831,165,Profesional
+E00994,Analista,35,5134510,222,Profesional
+E00995,Analista,37,4298684,217,Profesional
+E00996,Analista,30,3822273,223,Tecnólogo
+E00997,Analista,36,4573303,180,Profesional
+E00998,Analista,34,4923206,180,Profesional
+E00999,Analista,24,4653539,196,Profesional
+E01000,Analista,34,3851100,190,Profesional
+E01001,Analista,35,4669601,222,Profesional
+E01002,Analista,36,5148982,165,Profesional
+E01003,Analista,30,4258929,190,Profesional
+E01004,Analista,30,4441727,161,Tecnólogo
+E01005,Analista,32,3810723,224,Tecnólogo
+E01006,Analista,37,4013734,181,Tecnólogo
+E01007,Analista,25,4289706,189,Profesional
+E01008,Analista,27,4609695,209,Tecnólogo
+E01009,Analista,25,4383733,186,Profesional
+E01010,Analista,36,4615865,224,Profesional
+E01011,Analista,24,4075019,192,Tecnólogo
+E01012,Analista,25,3804192,177,Tecnólogo
+E01013,Analista,29,4275592,223,Tecnólogo
+E01014,Analista,38,3996676,221,Tecnólogo
+E01015,Analista,25,5289596,226,Profesional
+E01016,Analista,29,4422895,210,Tecnólogo
+E01017,Analista,30,4406558,163,Profesional
+E01018,Analista,32,4846226,226,Profesional
+E01019,Analista,23,4720978,174,Tecnólogo
+E01020,Analista,26,4033973,213,Tecnólogo
+E01021,Analista,29,4802020,206,Profesional
+E01022,Analista,28,5014459,175,Tecnólogo
+E01023,Analista,30,3985955,209,Tecnólogo
+E01024,Analista,34,3660174,221,Tecnólogo
+E01025,Analista,38,4546606,197,Profesional
+E01026,Analista,37,4486977,183,Tecnólogo
+E01027,Analista,36,4258138,164,Tecnólogo
+E01028,Analista,32,4755755,224,Profesional
+E01029,Analista,28,4523839,189,Profesional
+E01030,Analista,24,4067896,173,Profesional
+E01031,Analista,37,4072637,192,Profesional
+E01032,Analista,38,3879297,166,Tecnólogo
+E01033,Analista,32,4101196,204,Tecnólogo
+E01034,Analista,32,4582680,161,Profesional
+E01035,Analista,35,5185226,173,Profesional
+E01036,Analista,24,4417294,212,Tecnólogo
+E01037,Analista,24,4246203,222,Profesional
+E01038,Analista,24,5311901,210,Tecnólogo
+E01039,Analista,36,4513764,212,Tecnólogo
+E01040,Analista,24,4649908,180,Profesional
+E01041,Analista,38,4567375,178,Tecnólogo
+E01042,Analista,36,4956798,194,Profesional
+E01043,Analista,33,3989232,186,Tecnólogo
+E01044,Analista,33,4070704,211,Profesional
+E01045,Analista,31,4402946,164,Profesional
+E01046,Analista,36,4810632,214,Profesional
+E01047,Analista,37,4061611,171,Profesional
+E01048,Analista,35,4832514,219,Profesional
+E01049,Analista,29,3880677,199,Tecnólogo
+E01050,Analista,29,4494115,197,Profesional
+E01051,Analista,35,5627878,189,Profesional
+E01052,Analista,26,3484256,202,Tecnólogo
+E01053,Analista,30,4293351,225,Profesional
+E01054,Analista,39,4668663,215,Tecnólogo
+E01055,Analista,29,5300961,181,Profesional
+E01056,Analista,38,4182961,224,Tecnólogo
+E01057,Analista,28,3842133,169,Tecnólogo
+E01058,Analista,28,4679607,164,Profesional
+E01059,Analista,28,4129058,164,Profesional
+E01060,Analista,35,4756873,186,Tecnólogo
+E01061,Analista,36,4163177,186,Tecnólogo
+E01062,Analista,34,4418511,201,Profesional
+E01063,Analista,31,4160691,176,Tecnólogo
+E01064,Analista,37,4022806,212,Tecnólogo
+E01065,Analista,32,3956903,224,Tecnólogo
+E01066,Analista,38,3790448,202,Tecnólogo
+E01067,Analista,25,4710480,188,Profesional
+E01068,Analista,25,3950277,190,Tecnólogo
+E01069,Analista,29,5393191,198,Profesional
+E01070,Analista,31,5161371,168,Profesional
+E01071,Analista,29,4385918,225,Profesional
+E01072,Analista,27,4722994,206,Profesional
+E01073,Analista,32,4735868,164,Profesional
+E01074,Analista,39,4491104,165,Tecnólogo
+E01075,Analista,26,4103704,196,Tecnólogo
+E01076,Analista,30,4764123,221,Profesional
+E01077,Analista,34,4787641,200,Profesional
+E01078,Analista,35,3751303,209,Tecnólogo
+E01079,Analista,28,3660174,218,Profesional
+E01080,Analista,38,3698092,194,Tecnólogo
+E01081,Analista,31,4351397,188,Tecnólogo
+E01082,Analista,36,3661215,182,Tecnólogo
+E01083,Analista,30,4029365,170,Tecnólogo
+E01084,Analista,23,4256476,204,Tecnólogo
+E01085,Analista,33,4541922,222,Profesional
+E01086,Analista,24,4904688,196,Profesional
+E01087,Analista,37,4311632,221,Tecnólogo
+E01088,Analista,31,4425444,206,Tecnólogo
+E01089,Analista,36,4334055,175,Profesional
+E01090,Analista,32,4248730,222,Tecnólogo
+E01091,Analista,35,4322513,228,Profesional
+E01092,Analista,34,3789744,211,Tecnólogo
+E01093,Analista,38,4659218,216,Profesional
+E01094,Analista,26,4315477,176,Profesional
+E01095,Analista,24,4584571,193,Profesional
+E01096,Analista,24,3664892,179,Tecnólogo
+E01097,Analista,25,4390872,194,Tecnólogo
+E01098,Analista,35,4056834,200,Tecnólogo
+E01099,Analista,38,4526114,226,Profesional
+E01100,Analista,33,3466437,219,Tecnólogo
+E01101,Analista,38,5034334,166,Profesional
+E01102,Analista,37,3869000,162,Tecnólogo
+E01103,Analista,26,4753691,212,Profesional
+E01104,Analista,31,4490000,176,Tecnólogo
+E01105,Analista,30,3839436,229,Profesional
+E01106,Analista,34,4299769,162,Tecnólogo
+E01107,Analista,36,4544166,176,Profesional
+E01108,Analista,24,3498145,188,Tecnólogo
+E01109,Analista,25,3665114,213,Tecnólogo
+E01110,Analista,31,4123879,161,Tecnólogo
+E01111,Analista,23,4599344,216,Tecnólogo
+E01112,Analista,25,3984854,184,Tecnólogo
+E01113,Analista,36,4474487,223,Profesional
+E01114,Analista,30,4028678,229,Profesional
+E01115,Analista,34,4198217,180,Tecnólogo
+E01116,Analista,35,4095054,183,Tecnólogo
+E01117,Analista,29,3720972,198,Profesional
+E01118,Analista,37,4945297,211,Profesional
+E01119,Analista,23,4736855,214,Profesional
+E01120,Analista,38,4472146,172,Profesional
+E01121,Analista,28,4832820,221,Profesional
+E01122,Analista,34,3655714,167,Tecnólogo
+E01123,Analista,38,4592850,213,Profesional
+E01124,Analista,37,4657844,228,Profesional
+E01125,Analista,39,4022805,165,Tecnólogo
+E01126,Analista,33,4428593,172,Profesional
+E01127,Analista,30,3801374,163,Profesional
+E01128,Analista,33,4155024,215,Profesional
+E01129,Analista,28,4890256,168,Tecnólogo
+E01130,Analista,30,4155485,166,Tecnólogo
+E01131,Analista,39,4462668,172,Profesional
+E01132,Analista,32,4814659,176,Profesional
+E01133,Analista,25,4382587,162,Profesional
+E01134,Analista,26,4521977,160,Profesional
+E01135,Analista,32,3487671,176,Tecnólogo
+E01136,Analista,36,4262181,185,Profesional
+E01137,Analista,23,3436865,173,Tecnólogo
+E01138,Analista,31,5173042,228,Profesional
+E01139,Analista,26,4435682,193,Profesional
+E01140,Analista,26,3278341,213,Tecnólogo
+E01141,Analista,32,4019954,169,Tecnólogo
+E01142,Analista,23,3714556,227,Tecnólogo
+E01143,Analista,36,4119959,163,Tecnólogo
+E01144,Analista,32,3683743,184,Tecnólogo
+E01145,Analista,27,3300160,205,Tecnólogo
+E01146,Analista,33,3847864,205,Tecnólogo
+E01147,Analista,39,4201694,215,Tecnólogo
+E01148,Analista,35,4108248,219,Tecnólogo
+E01149,Analista,38,4670577,182,Profesional
+E01150,Analista,32,5658051,204,Profesional
+E01151,Analista,34,3892159,178,Tecnólogo
+E01152,Analista,33,4880879,221,Profesional
+E01153,Analista,26,4020252,207,Profesional
+E01154,Analista,34,3347596,204,Tecnólogo
+E01155,Analista,23,4233669,213,Tecnólogo
+E01156,Analista,35,3686672,201,Tecnólogo
+E01157,Analista,29,4105623,180,Profesional
+E01158,Analista,24,5193136,227,Profesional
+E01159,Analista,37,4549211,175,Profesional
+E01160,Analista,23,4064038,194,Tecnólogo
+E01161,Analista,25,3967512,177,Tecnólogo
+E01162,Analista,27,4162450,179,Tecnólogo
+E01163,Analista,35,4577358,163,Profesional
+E01164,Analista,28,5013642,217,Profesional
+E01165,Analista,31,4447249,187,Profesional
+E01166,Analista,25,3560611,167,Tecnólogo
+E01167,Analista,24,4160734,206,Profesional
+E01168,Analista,36,3982409,192,Profesional
+E01169,Analista,25,4414960,163,Tecnólogo
+E01170,Analista,23,4723243,209,Profesional
+E01171,Analista,28,4048684,212,Tecnólogo
+E01172,Analista,29,4983440,204,Profesional
+E01173,Analista,35,4987838,225,Profesional
+E01174,Analista,26,3946294,228,Tecnólogo
+E01175,Analista,35,4257446,197,Tecnólogo
+E01176,Analista,35,4422511,183,Profesional
+E01177,Analista,30,4622337,169,Profesional
+E01178,Analista,38,4045662,185,Profesional
+E01179,Analista,30,3924150,204,Profesional
+E01180,Analista,38,4463681,220,Profesional
+E01181,Analista,39,5403559,187,Profesional
+E01182,Analista,27,4390162,195,Tecnólogo
+E01183,Analista,30,3790157,167,Tecnólogo
+E01184,Analista,39,4483207,191,Profesional
+E01185,Analista,39,5235432,185,Profesional
+E01186,Analista,23,4289274,182,Tecnólogo
+E01187,Analista,31,3673727,201,Tecnólogo
+E01188,Analista,23,4261342,171,Profesional
+E01189,Analista,26,4211326,162,Tecnólogo
+E01190,Analista,24,3586079,202,Tecnólogo
+E01191,Analista,39,2990133,224,Tecnólogo
+E01192,Analista,25,3753132,181,Profesional
+E01193,Analista,25,3353926,170,Tecnólogo
+E01194,Analista,35,4218289,210,Tecnólogo
+E01195,Analista,29,3718931,199,Tecnólogo
+E01196,Analista,37,4366878,201,Profesional
+E01197,Analista,30,4086353,217,Tecnólogo
+E01198,Analista,23,4133514,208,Profesional
+E01199,Analista,38,4174609,174,Profesional
+E01200,Analista,31,3581693,206,Tecnólogo
+E01201,Analista,24,4696550,160,Profesional
+E01202,Analista,28,5238710,224,Profesional
+E01203,Analista,39,4708285,203,Profesional
+E01204,Analista,24,3544814,176,Tecnólogo
+E01205,Analista,39,3587978,190,Tecnólogo
+E01206,Analista,36,4404361,172,Profesional
+E01207,Analista,33,4210025,218,Profesional
+E01208,Analista,36,4739929,203,Profesional
+E01209,Analista,34,4503360,180,Tecnólogo
+E01210,Analista,27,4113158,195,Profesional
+E01211,Analista,25,3954296,183,Profesional
+E01212,Analista,26,3802480,174,Profesional
+E01213,Analista,34,3809975,163,Profesional
+E01214,Analista,23,4866187,175,Profesional
+E01215,Analista,25,5339213,201,Profesional
+E01216,Analista,32,5283051,167,Profesional
+E01217,Analista,27,4317026,188,Profesional
+E01218,Analista,38,3890276,203,Tecnólogo
+E01219,Analista,31,3500188,186,Tecnólogo
+E01220,Analista,23,3903392,184,Tecnólogo
+E01221,Analista,25,4899882,193,Profesional
+E01222,Analista,25,4214934,215,Profesional
+E01223,Analista,24,4372269,193,Profesional
+E01224,Analista,39,3868863,175,Tecnólogo
+E01225,Analista,23,4485694,195,Tecnólogo
+E01226,Analista,38,4440717,226,Tecnólogo
+E01227,Analista,25,4545888,160,Profesional
+E01228,Analista,27,3896519,200,Tecnólogo
+E01229,Analista,39,4783400,187,Profesional
+E01230,Analista,28,4165901,161,Tecnólogo
+E01231,Analista,39,4172025,185,Tecnólogo
+E01232,Analista,34,5137802,164,Profesional
+E01233,Analista,39,4686804,202,Profesional
+E01234,Analista,25,4524446,174,Profesional
+E01235,Analista,24,3959741,218,Tecnólogo
+E01236,Analista,24,4217175,216,Tecnólogo
+E01237,Analista,32,4744199,166,Profesional
+E01238,Analista,37,5438432,191,Profesional
+E01239,Analista,31,4589539,178,Profesional
+E01240,Analista,32,4365507,216,Profesional
+E01241,Analista,24,4922425,210,Profesional
+E01242,Analista,39,4721786,223,Profesional
+E01243,Analista,26,3968780,179,Tecnólogo
+E01244,Analista,31,3858549,208,Tecnólogo
+E01245,Analista,28,4224463,182,Profesional
+E01246,Analista,39,2959139,220,Profesional
+E01247,Analista,37,3416971,164,Tecnólogo
+E01248,Analista,23,4426451,226,Profesional
+E01249,Analista,31,4479743,217,Profesional
+E01250,Analista,35,3903840,214,Profesional
+E01251,Analista,28,4988628,162,Profesional
+E01252,Analista,38,3228254,226,Tecnólogo
+E01253,Analista,24,3448025,203,Tecnólogo
+E01254,Analista,39,4321076,216,Profesional
+E01255,Analista,37,3753937,223,Tecnólogo
+E01256,Analista,34,4495115,210,Profesional
+E01257,Analista,27,4081235,162,Profesional
+E01258,Analista,31,4765820,221,Profesional
+E01259,Analista,33,3599419,222,Tecnólogo
+E01260,Analista,27,4337331,205,Profesional
+E01261,Analista,37,3608000,180,Tecnólogo
+E01262,Analista,27,4475725,217,Tecnólogo
+E01263,Analista,28,3618921,219,Profesional
+E01264,Analista,38,4320274,224,Tecnólogo
+E01265,Analista,35,4211867,198,Profesional
+E01266,Analista,25,3428104,203,Tecnólogo
+E01267,Analista,24,4852273,185,Tecnólogo
+E01268,Analista,37,4008294,182,Tecnólogo
+E01269,Analista,34,4409534,217,Profesional
+E01270,Analista,32,4238702,194,Profesional
+E01271,Analista,34,4738437,177,Profesional
+E01272,Analista,27,3780954,173,Tecnólogo
+E01273,Analista,38,4151202,172,Tecnólogo
+E01274,Analista,39,4617757,228,Profesional
+E01275,Analista,35,3720118,188,Tecnólogo
+E01276,Analista,25,3953864,202,Tecnólogo
+E01277,Analista,34,4953725,226,Profesional
+E01278,Analista,24,4867604,220,Profesional
+E01279,Analista,34,5694832,165,Profesional
+E01280,Analista,33,4418772,195,Tecnólogo
+E01281,Analista,27,3786527,229,Tecnólogo
+E01282,Analista,38,3935699,174,Tecnólogo
+E01283,Analista,39,4685101,181,Profesional
+E01284,Analista,39,3859528,165,Tecnólogo
+E01285,Analista,35,4403168,227,Profesional
+E01286,Analista,27,4316014,203,Tecnólogo
+E01287,Analista,31,3991191,209,Profesional
+E01288,Analista,34,3624416,181,Tecnólogo
+E01289,Analista,33,4372775,203,Profesional
+E01290,Analista,23,4027808,196,Tecnólogo
+E01291,Analista,28,4917913,192,Profesional
+E01292,Analista,34,4378739,161,Profesional
+E01293,Analista,24,4739799,181,Profesional
+E01294,Analista,34,4595540,205,Profesional
+E01295,Analista,30,4305335,211,Tecnólogo
+E01296,Analista,24,4020320,207,Tecnólogo
+E01297,Analista,29,5401289,195,Profesional
+E01298,Analista,36,4383908,172,Profesional
+E01299,Analista,34,4667410,178,Tecnólogo
+E01300,Analista,28,4361811,195,Profesional
+E01301,Analista,28,5232926,212,Profesional
+E01302,Analista,30,3087604,215,Tecnólogo
+E01303,Analista,28,4600921,221,Profesional
+E01304,Analista,25,4369453,180,Profesional
+E01305,Analista,24,3950995,187,Tecnólogo
+E01306,Analista,36,3886888,189,Tecnólogo
+E01307,Analista,25,4584952,229,Profesional
+E01308,Analista,32,4413355,202,Profesional
+E01309,Analista,26,3498447,218,Tecnólogo
+E01310,Analista,28,4397986,229,Profesional
+E01311,Analista,26,4239730,213,Tecnólogo
+E01312,Analista,34,4033412,181,Tecnólogo
+E01313,Analista,31,4707351,160,Profesional
+E01314,Analista,39,4105659,213,Profesional
+E01315,Analista,31,4878402,194,Profesional
+E01316,Analista,26,3633598,200,Tecnólogo
+E01317,Analista,36,4273047,174,Tecnólogo
+E01318,Analista,27,4974758,229,Profesional
+E01319,Analista,34,4904502,168,Profesional
+E01320,Analista,26,4056510,205,Tecnólogo
+E01321,Analista,32,3302844,189,Tecnólogo
+E01322,Analista,28,4389922,169,Profesional
+E01323,Analista,36,4373086,160,Profesional
+E01324,Analista,28,4379315,194,Tecnólogo
+E01325,Analista,28,2904808,200,Tecnólogo
+E01326,Analista,32,4100279,166,Tecnólogo
+E01327,Analista,24,4077359,174,Tecnólogo
+E01328,Analista,35,3870406,167,Tecnólogo
+E01329,Analista,39,3921135,212,Tecnólogo
+E01330,Analista,38,3899996,166,Tecnólogo
+E01331,Analista,28,4590736,184,Profesional
+E01332,Analista,24,3600312,224,Tecnólogo
+E01333,Analista,31,3753040,223,Profesional
+E01334,Analista,33,3844051,204,Tecnólogo
+E01335,Analista,26,4541993,190,Tecnólogo
+E01336,Analista,26,4647581,227,Tecnólogo
+E01337,Analista,35,5163902,194,Profesional
+E01338,Analista,30,4330216,213,Profesional
+E01339,Analista,29,5756940,183,Profesional
+E01340,Analista,39,3308672,195,Tecnólogo
+E01341,Analista,27,4633582,175,Profesional
+E01342,Analista,29,4860479,175,Profesional
+E01343,Analista,33,3986111,176,Profesional
+E01344,Analista,35,4748134,216,Profesional
+E01345,Analista,28,3932793,211,Tecnólogo
+E01346,Analista,30,5152837,194,Profesional
+E01347,Analista,26,4367672,162,Tecnólogo
+E01348,Analista,32,4605662,202,Profesional
+E01349,Analista,32,5178306,162,Profesional
+E01350,Analista,33,5021071,180,Tecnólogo
+E01351,Analista,37,3956822,188,Tecnólogo
+E01352,Analista,28,4618259,166,Tecnólogo
+E01353,Analista,27,4027960,161,Tecnólogo
+E01354,Analista,36,4731201,213,Profesional
+E01355,Analista,29,4419488,178,Profesional
+E01356,Analista,29,4512410,225,Profesional
+E01357,Analista,37,3772873,200,Tecnólogo
+E01358,Analista,39,4399427,226,Tecnólogo
+E01359,Analista,33,3872620,193,Profesional
+E01360,Analista,35,4216196,165,Profesional
+E01361,Analista,30,4925730,208,Profesional
+E01362,Analista,36,4256908,187,Tecnólogo
+E01363,Analista,34,4382010,190,Profesional
+E01364,Analista,24,3855224,181,Tecnólogo
+E01365,Analista,36,3808296,182,Profesional
+E01366,Analista,37,5342743,190,Profesional
+E01367,Analista,37,5137915,193,Profesional
+E01368,Analista,38,5449806,226,Profesional
+E01369,Analista,28,3699881,198,Tecnólogo
+E01370,Analista,35,4150335,178,Profesional
+E01371,Analista,23,4449408,225,Profesional
+E01372,Analista,27,4333736,221,Tecnólogo
+E01373,Analista,32,4589438,202,Profesional
+E01374,Analista,37,5711216,169,Profesional
+E01375,Analista,37,3567093,197,Tecnólogo
+E01376,Analista,30,3933935,170,Tecnólogo
+E01377,Analista,27,3609596,224,Profesional
+E01378,Analista,33,4157763,211,Tecnólogo
+E01379,Analista,38,3813036,224,Tecnólogo
+E01380,Analista,37,4703477,202,Profesional
+E01381,Analista,26,4198527,162,Tecnólogo
+E01382,Analista,33,3890898,169,Tecnólogo
+E01383,Analista,27,4466798,172,Tecnólogo
+E01384,Analista,28,4013343,184,Tecnólogo
+E01385,Analista,33,4549351,223,Tecnólogo
+E01386,Analista,24,4086720,179,Profesional
+E01387,Analista,35,3932205,214,Profesional
+E01388,Analista,36,3659655,203,Tecnólogo
+E01389,Analista,23,4378420,171,Tecnólogo
+E01390,Analista,37,3809553,227,Tecnólogo
+E01391,Analista,25,4795266,180,Profesional
+E01392,Analista,25,4389474,225,Profesional
+E01393,Analista,31,4230055,203,Profesional
+E01394,Analista,31,4069457,207,Tecnólogo
+E01395,Analista,25,5501413,188,Profesional
+E01396,Analista,38,4492775,201,Profesional
+E01397,Analista,37,4071973,202,Tecnólogo
+E01398,Analista,39,4605369,166,Profesional
+E01399,Analista,31,3474373,193,Tecnólogo
+E01400,Analista,34,4316465,219,Profesional
+E01401,Analista,28,3569844,217,Tecnólogo
+E01402,Analista,31,3755852,197,Tecnólogo
+E01403,Analista,25,4939869,218,Profesional
+E01404,Analista,23,4257272,178,Tecnólogo
+E01405,Analista,37,4623832,199,Profesional
+E01406,Analista,29,4105283,191,Tecnólogo
+E01407,Analista,30,4595629,189,Profesional
+E01408,Analista,25,4013454,200,Profesional
+E01409,Analista,25,4005280,178,Tecnólogo
+E01410,Analista,31,4663872,217,Profesional
+E01411,Analista,36,4052885,172,Tecnólogo
+E01412,Analista,29,4136418,224,Tecnólogo
+E01413,Analista,35,3222952,174,Tecnólogo
+E01414,Analista,33,3628019,226,Tecnólogo
+E01415,Analista,39,4566794,200,Profesional
+E01416,Analista,33,2970369,168,Profesional
+E01417,Analista,25,5215815,190,Profesional
+E01418,Analista,26,4049364,167,Tecnólogo
+E01419,Analista,37,4704023,196,Tecnólogo
+E01420,Analista,34,3500529,198,Tecnólogo
+E01421,Analista,28,4189942,187,Tecnólogo
+E01422,Analista,33,4006781,210,Profesional
+E01423,Analista,29,3949467,167,Tecnólogo
+E01424,Analista,23,3998048,171,Tecnólogo
+E01425,Analista,37,4647527,168,Profesional
+E01426,Analista,36,3673699,163,Tecnólogo
+E01427,Analista,35,4705802,204,Profesional
+E01428,Analista,30,3766669,169,Tecnólogo
+E01429,Analista,29,4853535,190,Profesional
+E01430,Analista,24,3710217,201,Tecnólogo
+E01431,Analista,35,5107085,223,Profesional
+E01432,Analista,26,3694427,181,Tecnólogo
+E01433,Analista,30,4078547,196,Profesional
+E01434,Analista,39,4139189,180,Tecnólogo
+E01435,Analista,36,4911755,161,Profesional
+E01436,Analista,37,3813508,179,Tecnólogo
+E01437,Analista,35,4185803,210,Tecnólogo
+E01438,Analista,29,4465473,221,Profesional
+E01439,Analista,29,4173678,172,Tecnólogo
+E01440,Analista,30,3964539,228,Tecnólogo
+E01441,Analista,38,4914287,196,Profesional
+E01442,Analista,26,3976857,213,Tecnólogo
+E01443,Analista,26,4267144,181,Profesional
+E01444,Analista,37,4722299,188,Profesional
+E01445,Analista,36,4318393,188,Tecnólogo
+E01446,Analista,25,3735960,205,Tecnólogo
+E01447,Analista,27,5316767,220,Profesional
+E01448,Analista,29,4582660,224,Profesional
+E01449,Analista,36,3940183,193,Profesional
+E01450,Analista,23,4785999,192,Tecnólogo
+E01451,Analista,35,4019817,222,Tecnólogo
+E01452,Analista,23,4030611,213,Tecnólogo
+E01453,Analista,39,4676405,177,Profesional
+E01454,Analista,35,4160103,172,Profesional
+E01455,Analista,34,4580533,223,Profesional
+E01456,Analista,26,4193830,209,Tecnólogo
+E01457,Analista,37,3253894,218,Tecnólogo
+E01458,Analista,28,4016634,214,Tecnólogo
+E01459,Analista,38,3136903,203,Tecnólogo
+E01460,Analista,36,3834414,170,Tecnólogo
+E01461,Analista,29,4716027,224,Tecnólogo
+E01462,Analista,37,4507725,193,Profesional
+E01463,Analista,28,3723331,163,Tecnólogo
+E01464,Analista,25,3925809,163,Tecnólogo
+E01465,Analista,26,4738995,176,Profesional
+E01466,Analista,23,4219756,190,Profesional
+E01467,Analista,29,2873605,179,Tecnólogo
+E01468,Analista,28,3548360,191,Tecnólogo
+E01469,Analista,29,4250757,186,Profesional
+E01470,Analista,33,4504250,193,Profesional
+E01471,Analista,39,3660491,161,Tecnólogo
+E01472,Analista,36,3669419,215,Tecnólogo
+E01473,Analista,33,4157223,187,Tecnólogo
+E01474,Analista,35,5094624,220,Profesional
+E01475,Analista,33,3332821,200,Tecnólogo
+E01476,Analista,31,3957709,201,Tecnólogo
+E01477,Analista,38,3745270,208,Tecnólogo
+E01478,Analista,27,4677640,168,Profesional
+E01479,Analista,23,3955805,205,Tecnólogo
+E01480,Analista,32,3594637,212,Tecnólogo
+E01481,Analista,24,4833679,170,Profesional
+E01482,Analista,33,4655858,196,Tecnólogo
+E01483,Analista,32,4185163,190,Profesional
+E01484,Analista,28,3746169,178,Profesional
+E01485,Analista,24,3624838,162,Tecnólogo
+E01486,Analista,23,4602760,210,Profesional
+E01487,Analista,34,4065022,186,Tecnólogo
+E01488,Analista,30,3773402,204,Tecnólogo
+E01489,Analista,39,4653028,182,Profesional
+E01490,Analista,24,4114657,190,Tecnólogo
+E01491,Analista,27,5019081,166,Profesional
+E01492,Analista,27,4295877,224,Profesional
+E01493,Analista,26,4236175,224,Profesional
+E01494,Analista,37,4250333,188,Tecnólogo
+E01495,Analista,24,4850981,187,Profesional
+E01496,Analista,26,3799632,225,Tecnólogo
+E01497,Analista,25,4206557,193,Tecnólogo
+E01498,Analista,26,5306420,173,Profesional
+E01499,Analista,24,4060259,199,Tecnólogo
+E01500,Analista,37,4191447,226,Tecnólogo
+E01501,Analista,31,5075758,180,Profesional
+E01502,Analista,30,4368090,174,Profesional
+E01503,Analista,38,4748241,212,Profesional
+E01504,Analista,29,4537577,223,Profesional
+E01505,Analista,30,5441031,222,Profesional
+E01506,Analista,33,4782802,222,Profesional
+E01507,Analista,37,3724417,187,Profesional
+E01508,Analista,33,3951825,221,Tecnólogo
+E01509,Analista,37,4054481,168,Profesional
+E01510,Analista,31,4259328,213,Tecnólogo
+E01511,Analista,31,4978586,228,Profesional
+E01512,Analista,35,4003277,179,Tecnólogo
+E01513,Analista,24,4512086,197,Profesional
+E01514,Analista,36,4941777,185,Profesional
+E01515,Analista,27,4673295,205,Tecnólogo
+E01516,Analista,34,5316985,187,Profesional
+E01517,Analista,33,4128302,199,Tecnólogo
+E01518,Analista,29,3976750,218,Tecnólogo
+E01519,Analista,39,5021420,202,Profesional
+E01520,Analista,25,4017985,207,Tecnólogo
+E01521,Analista,31,3958261,185,Tecnólogo
+E01522,Analista,26,4992545,211,Profesional
+E01523,Analista,39,5241642,200,Profesional
+E01524,Analista,25,4005857,184,Tecnólogo
+E01525,Analista,28,4183370,218,Profesional
+E01526,Analista,31,3824763,174,Tecnólogo
+E01527,Analista,35,4835875,183,Profesional
+E01528,Analista,29,4535060,182,Tecnólogo
+E01529,Analista,30,4340316,217,Tecnólogo
+E01530,Analista,23,4906580,192,Profesional
+E01531,Analista,30,4597332,223,Profesional
+E01532,Analista,39,4634805,160,Profesional
+E01533,Analista,36,4361306,180,Tecnólogo
+E01534,Analista,35,5283541,193,Profesional
+E01535,Analista,29,3506854,186,Tecnólogo
+E01536,Analista,35,3720310,197,Tecnólogo
+E01537,Analista,23,3593070,227,Tecnólogo
+E01538,Analista,26,4129933,184,Tecnólogo
+E01539,Analista,23,3882803,212,Tecnólogo
+E01540,Analista,38,4323843,222,Tecnólogo
+E01541,Analista,34,4199637,190,Tecnólogo
+E01542,Analista,39,4605584,163,Profesional
+E01543,Analista,24,3968953,198,Profesional
+E01544,Analista,24,4687955,174,Profesional
+E01545,Analista,37,5250118,208,Profesional
+E01546,Analista,27,4538995,177,Profesional
+E01547,Analista,29,3898203,210,Tecnólogo
+E01548,Analista,25,4906911,166,Profesional
+E01549,Analista,32,4107911,169,Tecnólogo
+E01550,Analista,29,4120527,175,Tecnólogo
+E01551,Analista,29,4608792,179,Profesional
+E01552,Analista,38,3823204,187,Tecnólogo
+E01553,Analista,37,3735710,183,Tecnólogo
+E01554,Analista,25,5350353,204,Profesional
+E01555,Analista,31,4290848,213,Profesional
+E01556,Analista,39,3207393,218,Tecnólogo
+E01557,Analista,33,3838236,181,Profesional
+E01558,Analista,39,4480070,214,Profesional
+E01559,Analista,25,3629865,221,Profesional
+E01560,Analista,32,4251673,219,Tecnólogo
+E01561,Analista,23,3993217,210,Profesional
+E01562,Analista,30,3740571,228,Profesional
+E01563,Analista,27,3565681,212,Tecnólogo
+E01564,Analista,33,4695068,219,Tecnólogo
+E01565,Analista,28,4721668,204,Tecnólogo
+E01566,Analista,24,4802185,222,Profesional
+E01567,Analista,23,4415409,226,Profesional
+E01568,Analista,35,4167539,184,Profesional
+E01569,Analista,27,5130731,187,Profesional
+E01570,Analista,35,3408450,163,Profesional
+E01571,Analista,28,4438770,192,Profesional
+E01572,Analista,37,4573882,181,Profesional
+E01573,Analista,25,4450778,178,Profesional
+E01574,Analista,31,5376251,225,Profesional
+E01575,Analista,23,4294133,218,Tecnólogo
+E01576,Analista,36,4089857,219,Profesional
+E01577,Analista,28,3305070,216,Tecnólogo
+E01578,Analista,38,4122445,192,Profesional
+E01579,Analista,29,4420171,200,Tecnólogo
+E01580,Analista,31,4963394,197,Profesional
+E01581,Analista,36,3977817,223,Profesional
+E01582,Analista,38,3629326,164,Tecnólogo
+E01583,Analista,25,4870552,210,Profesional
+E01584,Analista,28,4758645,211,Tecnólogo
+E01585,Analista,37,4350917,174,Profesional
+E01586,Analista,35,3977119,173,Profesional
+E01587,Analista,28,4412114,200,Tecnólogo
+E01588,Analista,23,4583049,200,Tecnólogo
+E01589,Analista,35,4718307,168,Profesional
+E01590,Analista,34,3629600,205,Profesional
+E01591,Analista,24,4443850,223,Tecnólogo
+E01592,Analista,28,4144818,208,Profesional
+E01593,Analista,35,4446435,202,Profesional
+E01594,Analista,35,3323461,204,Tecnólogo
+E01595,Analista,38,4730622,206,Profesional
+E01596,Analista,32,4551876,169,Tecnólogo
+E01597,Analista,37,4916310,197,Profesional
+E01598,Analista,23,3776935,172,Tecnólogo
+E01599,Analista,30,3895157,208,Tecnólogo
+E01600,Analista,29,4746628,204,Profesional
+E01601,Analista,38,3472725,164,Tecnólogo
+E01602,Analista,33,4412331,183,Tecnólogo
+E01603,Analista,35,4915125,172,Tecnólogo
+E01604,Analista,28,4536693,165,Profesional
+E01605,Analista,33,3927928,221,Tecnólogo
+E01606,Analista,26,3654461,212,Profesional
+E01607,Analista,34,4519586,227,Profesional
+E01608,Analista,35,3778268,215,Tecnólogo
+E01609,Analista,36,3863277,178,Profesional
+E01610,Analista,23,4268364,203,Tecnólogo
+E01611,Analista,27,4872637,215,Profesional
+E01612,Analista,36,4133467,182,Tecnólogo
+E01613,Analista,25,4514941,193,Profesional
+E01614,Analista,25,4487620,218,Profesional
+E01615,Analista,38,4095689,160,Tecnólogo
+E01616,Analista,27,4511612,208,Profesional
+E01617,Analista,29,4432473,224,Profesional
+E01618,Analista,29,4369750,215,Profesional
+E01619,Analista,27,4175031,173,Profesional
+E01620,Analista,29,4203924,227,Tecnólogo
+E01621,Analista,36,4208065,161,Tecnólogo
+E01622,Analista,30,4459844,192,Tecnólogo
+E01623,Analista,26,3898424,197,Tecnólogo
+E01624,Analista,25,3721532,216,Tecnólogo
+E01625,Analista,33,4190808,189,Profesional
+E01626,Analista,32,4632786,170,Profesional
+E01627,Analista,31,4697416,166,Tecnólogo
+E01628,Analista,38,4211200,205,Tecnólogo
+E01629,Analista,32,4142370,179,Tecnólogo
+E01630,Analista,25,4864186,201,Profesional
+E01631,Analista,38,4016789,192,Profesional
+E01632,Analista,33,3735744,186,Tecnólogo
+E01633,Analista,27,3755173,217,Profesional
+E01634,Analista,26,4184646,224,Tecnólogo
+E01635,Analista,26,3807802,229,Tecnólogo
+E01636,Analista,37,4560634,179,Profesional
+E01637,Analista,30,3555949,179,Tecnólogo
+E01638,Analista,26,3143251,197,Tecnólogo
+E01639,Analista,28,4368673,189,Profesional
+E01640,Analista,24,4438523,185,Profesional
+E01641,Analista,27,5335168,192,Profesional
+E01642,Analista,37,3983213,163,Profesional
+E01643,Analista,37,3473815,171,Tecnólogo
+E01644,Analista,38,4444804,181,Profesional
+E01645,Analista,34,4636457,215,Profesional
+E01646,Analista,24,4728293,218,Profesional
+E01647,Analista,27,3671592,191,Tecnólogo
+E01648,Analista,25,4471506,214,Profesional
+E01649,Analista,37,3659652,162,Profesional
+E01650,Analista,24,4472981,186,Profesional
+E01651,Analista,25,4448345,216,Tecnólogo
+E01652,Analista,30,4701823,220,Profesional
+E01653,Analista,36,4547093,177,Profesional
+E01654,Analista,37,4469651,186,Tecnólogo
+E01655,Analista,38,4911783,164,Profesional
+E01656,Analista,32,4675142,210,Profesional
+E01657,Analista,32,4519723,177,Profesional
+E01658,Analista,26,4884218,186,Profesional
+E01659,Analista,32,3824535,202,Tecnólogo
+E01660,Analista,31,4916599,227,Profesional
+E01661,Analista,38,3600291,223,Profesional
+E01662,Analista,25,3931949,222,Profesional
+E01663,Analista,35,4162950,162,Tecnólogo
+E01664,Analista,31,4416757,221,Profesional
+E01665,Analista,26,3802299,196,Tecnólogo
+E01666,Analista,34,5434880,174,Profesional
+E01667,Analista,29,4710425,161,Profesional
+E01668,Analista,26,4491755,166,Tecnólogo
+E01669,Analista,35,3596039,193,Tecnólogo
+E01670,Analista,38,4747603,200,Profesional
+E01671,Analista,24,3773378,229,Tecnólogo
+E01672,Analista,23,4117957,165,Profesional
+E01673,Analista,24,4676476,198,Tecnólogo
+E01674,Analista,37,4771332,225,Tecnólogo
+E01675,Analista,37,3187259,227,Tecnólogo
+E01676,Analista,38,3871390,206,Tecnólogo
+E01677,Analista,31,4476143,226,Profesional
+E01678,Analista,39,3631677,209,Tecnólogo
+E01679,Analista,31,4677365,212,Tecnólogo
+E01680,Analista,28,4182554,189,Tecnólogo
+E01681,Analista,27,3783638,188,Tecnólogo
+E01682,Analista,24,4646085,186,Profesional
+E01683,Analista,32,3956329,191,Tecnólogo
+E01684,Analista,37,4234760,226,Profesional
+E01685,Analista,34,3917195,165,Tecnólogo
+E01686,Analista,25,3832821,181,Tecnólogo
+E01687,Analista,26,4965055,196,Profesional
+E01688,Analista,37,4707411,229,Profesional
+E01689,Analista,39,4540967,161,Tecnólogo
+E01690,Analista,38,3909535,160,Tecnólogo
+E01691,Analista,26,5043924,211,Profesional
+E01692,Analista,38,4477364,186,Profesional
+E01693,Analista,28,4244095,186,Profesional
+E01694,Analista,30,3950929,210,Tecnólogo
+E01695,Analista,37,4050342,179,Profesional
+E01696,Analista,36,4186679,193,Tecnólogo
+E01697,Analista,26,4047517,178,Tecnólogo
+E01698,Analista,38,4443406,215,Tecnólogo
+E01699,Analista,39,3859254,198,Tecnólogo
+E01700,Analista,24,5919515,194,Profesional
+E01701,Analista,29,4228353,198,Tecnólogo
+E01702,Analista,32,4720151,179,Profesional
+E01703,Analista,26,3867019,212,Tecnólogo
+E01704,Analista,24,4748020,216,Profesional
+E01705,Analista,28,4876416,226,Profesional
+E01706,Analista,31,3750030,167,Tecnólogo
+E01707,Analista,24,5453653,210,Profesional
+E01708,Analista,36,3919466,166,Tecnólogo
+E01709,Analista,33,4775475,203,Profesional
+E01710,Analista,32,3652434,192,Tecnólogo
+E01711,Analista,32,4861829,185,Tecnólogo
+E01712,Analista,33,3925251,210,Tecnólogo
+E01713,Analista,31,4287697,192,Tecnólogo
+E01714,Analista,38,4580692,171,Tecnólogo
+E01715,Analista,34,3655187,163,Tecnólogo
+E01716,Analista,25,4418197,187,Profesional
+E01717,Analista,33,4403945,192,Tecnólogo
+E01718,Analista,34,4474631,226,Profesional
+E01719,Analista,32,4630533,185,Profesional
+E01720,Analista,32,4953057,160,Profesional
+E01721,Analista,33,4100593,164,Tecnólogo
+E01722,Analista,37,3898035,187,Tecnólogo
+E01723,Analista,33,3905604,166,Profesional
+E01724,Analista,30,4753965,210,Profesional
+E01725,Analista,26,5095023,182,Profesional
+E01726,Analista,31,3933946,163,Tecnólogo
+E01727,Analista,27,3762204,177,Tecnólogo
+E01728,Analista,27,3568804,182,Tecnólogo
+E01729,Analista,23,3924151,228,Tecnólogo
+E01730,Analista,28,3705984,213,Tecnólogo
+E01731,Analista,28,4492793,201,Profesional
+E01732,Analista,28,4157975,195,Tecnólogo
+E01733,Analista,33,5142728,177,Profesional
+E01734,Analista,36,3683392,200,Tecnólogo
+E01735,Analista,25,3944187,215,Tecnólogo
+E01736,Analista,37,3945620,214,Profesional
+E01737,Analista,24,4491685,224,Profesional
+E01738,Analista,35,4182730,214,Tecnólogo
+E01739,Analista,28,4746620,202,Profesional
+E01740,Analista,37,4914080,204,Profesional
+E01741,Analista,30,4742427,229,Profesional
+E01742,Analista,27,4364105,194,Tecnólogo
+E01743,Analista,30,4759916,188,Profesional
+E01744,Analista,25,4434067,198,Profesional
+E01745,Analista,24,5206442,161,Profesional
+E01746,Analista,36,5004947,202,Profesional
+E01747,Analista,31,4517303,220,Profesional
+E01748,Analista,31,3692352,216,Tecnólogo
+E01749,Analista,34,4073613,197,Tecnólogo
+E01750,Analista,36,4740305,207,Profesional
+E01751,Analista,31,4613675,178,Profesional
+E01752,Analista,26,3899004,208,Tecnólogo
+E01753,Analista,36,4559148,182,Profesional
+E01754,Analista,30,3866890,188,Tecnólogo
+E01755,Analista,24,5117375,173,Profesional
+E01756,Analista,35,4142048,185,Tecnólogo
+E01757,Analista,36,3669048,211,Tecnólogo
+E01758,Analista,33,4912753,228,Profesional
+E01759,Analista,24,4919992,201,Profesional
+E01760,Analista,34,3716878,187,Profesional
+E01761,Analista,33,4413818,199,Tecnólogo
+E01762,Analista,39,3062346,214,Tecnólogo
+E01763,Analista,27,4179711,169,Profesional
+E01764,Analista,26,4443118,174,Tecnólogo
+E01765,Analista,37,3517452,164,Tecnólogo
+E01766,Analista,35,4228987,163,Profesional
+E01767,Analista,39,4468844,164,Profesional
+E01768,Analista,36,4323375,228,Profesional
+E01769,Analista,29,3867364,215,Tecnólogo
+E01770,Analista,27,4529793,194,Profesional
+E01771,Analista,31,4766329,169,Profesional
+E01772,Analista,37,3566984,183,Profesional
+E01773,Analista,30,4479977,206,Tecnólogo
+E01774,Analista,36,4270135,172,Tecnólogo
+E01775,Analista,28,4955475,212,Profesional
+E01776,Analista,32,4156631,228,Tecnólogo
+E01777,Analista,30,4221257,188,Tecnólogo
+E01778,Analista,37,4259271,186,Tecnólogo
+E01779,Analista,35,5321879,184,Profesional
+E01780,Analista,37,4083670,214,Tecnólogo
+E01781,Analista,25,5131424,196,Profesional
+E01782,Analista,37,3050513,228,Tecnólogo
+E01783,Analista,34,3505496,205,Tecnólogo
+E01784,Analista,33,3652876,193,Tecnólogo
+E01785,Analista,38,4014090,170,Tecnólogo
+E01786,Analista,23,5287253,180,Profesional
+E01787,Analista,25,4526624,180,Profesional
+E01788,Analista,24,3964038,172,Tecnólogo
+E01789,Analista,39,4071927,216,Tecnólogo
+E01790,Analista,32,4194125,208,Tecnólogo
+E01791,Analista,26,3949188,213,Tecnólogo
+E01792,Analista,31,3579996,178,Tecnólogo
+E01793,Analista,25,3733997,161,Profesional
+E01794,Analista,31,3340457,228,Tecnólogo
+E01795,Analista,36,4183088,185,Tecnólogo
+E01796,Analista,33,3784254,181,Tecnólogo
+E01797,Analista,33,4783149,188,Profesional
+E01798,Analista,27,5136002,192,Profesional
+E01799,Analista,28,4069017,160,Tecnólogo
+E01800,Analista,27,5224786,185,Profesional
+E01801,Analista,26,4444804,207,Tecnólogo
+E01802,Analista,25,4234745,165,Profesional
+E01803,Analista,31,4486805,201,Tecnólogo
+E01804,Analista,25,3649688,221,Tecnólogo
+E01805,Analista,28,4348805,205,Tecnólogo
+E01806,Analista,33,4465344,193,Profesional
+E01807,Analista,23,3650948,189,Tecnólogo
+E01808,Analista,27,4772436,183,Profesional
+E01809,Analista,30,4276659,172,Tecnólogo
+E01810,Analista,37,4355026,229,Tecnólogo
+E01811,Analista,27,4322478,223,Profesional
+E01812,Analista,26,4476713,169,Profesional
+E01813,Analista,36,3704865,219,Tecnólogo
+E01814,Analista,25,3973431,197,Tecnólogo
+E01815,Analista,25,4433668,213,Profesional
+E01816,Analista,31,4737075,204,Profesional
+E01817,Analista,38,5153723,209,Profesional
+E01818,Analista,36,3724489,190,Tecnólogo
+E01819,Analista,36,4193666,167,Tecnólogo
+E01820,Analista,23,5045420,209,Profesional
+E01821,Analista,39,3752506,193,Tecnólogo
+E01822,Analista,29,3774294,212,Tecnólogo
+E01823,Analista,35,3961614,227,Profesional
+E01824,Analista,39,4547760,204,Profesional
+E01825,Analista,31,4467906,228,Profesional
+E01826,Analista,29,4183500,173,Tecnólogo
+E01827,Analista,28,5425224,222,Profesional
+E01828,Analista,24,5029194,163,Profesional
+E01829,Analista,34,4514544,215,Tecnólogo
+E01830,Analista,28,4219819,187,Tecnólogo
+E01831,Analista,33,4601861,182,Profesional
+E01832,Analista,30,3685718,183,Tecnólogo
+E01833,Analista,34,5304491,170,Profesional
+E01834,Analista,28,4604798,182,Profesional
+E01835,Analista,30,4542525,229,Profesional
+E01836,Analista,28,4835232,188,Profesional
+E01837,Analista,35,3413751,176,Tecnólogo
+E01838,Analista,27,4276529,210,Tecnólogo
+E01839,Analista,39,4564541,184,Tecnólogo
+E01840,Analista,29,4666590,209,Tecnólogo
+E01841,Analista,39,4382948,219,Profesional
+E01842,Analista,35,4272049,160,Tecnólogo
+E01843,Analista,33,4197051,199,Profesional
+E01844,Analista,34,4557288,226,Profesional
+E01845,Analista,24,4495908,223,Tecnólogo
+E01846,Analista,28,2831220,175,Tecnólogo
+E01847,Analista,26,5195266,174,Profesional
+E01848,Analista,35,5102871,186,Profesional
+E01849,Analista,30,4611155,202,Tecnólogo
+E01850,Analista,38,3550441,228,Profesional
+E01851,Analista,25,4501327,224,Tecnólogo
+E01852,Analista,33,5534354,202,Profesional
+E01853,Analista,30,5223632,192,Profesional
+E01854,Analista,27,5174796,224,Profesional
+E01855,Analista,33,4532708,176,Tecnólogo
+E01856,Analista,37,5151207,228,Profesional
+E01857,Analista,24,4138685,182,Tecnólogo
+E01858,Analista,29,4026682,211,Tecnólogo
+E01859,Analista,34,3300824,226,Tecnólogo
+E01860,Analista,30,4016533,227,Tecnólogo
+E01861,Analista,33,3614000,205,Tecnólogo
+E01862,Analista,34,3698663,207,Tecnólogo
+E01863,Analista,28,4223392,175,Tecnólogo
+E01864,Analista,28,3487235,198,Tecnólogo
+E01865,Analista,24,4747129,215,Profesional
+E01866,Analista,30,4421685,199,Tecnólogo
+E01867,Analista,33,3557070,171,Tecnólogo
+E01868,Analista,32,4528350,192,Profesional
+E01869,Analista,35,3896820,219,Tecnólogo
+E01870,Analista,25,4717357,224,Profesional
+E01871,Analista,35,4395596,194,Profesional
+E01872,Analista,27,4437524,173,Tecnólogo
+E01873,Analista,39,3967772,181,Profesional
+E01874,Analista,31,4097173,175,Tecnólogo
+E01875,Analista,35,4116061,212,Tecnólogo
+E01876,Analista,28,4304806,223,Profesional
+E01877,Analista,37,4673690,220,Profesional
+E01878,Analista,35,3665798,190,Tecnólogo
+E01879,Analista,23,3815383,190,Tecnólogo
+E01880,Analista,29,4924270,209,Profesional
+E01881,Analista,38,3801052,206,Tecnólogo
+E01882,Analista,31,4370864,218,Tecnólogo
+E01883,Analista,25,3250419,213,Tecnólogo
+E01884,Analista,39,5472404,186,Profesional
+E01885,Analista,39,4675438,218,Tecnólogo
+E01886,Analista,33,3867721,173,Tecnólogo
+E01887,Analista,27,5366021,192,Profesional
+E01888,Analista,23,4066563,204,Profesional
+E01889,Analista,28,4028050,205,Profesional
+E01890,Analista,38,4860999,187,Profesional
+E01891,Analista,39,4780279,178,Profesional
+E01892,Analista,33,5002117,179,Profesional
+E01893,Analista,29,4603184,203,Profesional
+E01894,Analista,37,3746553,178,Tecnólogo
+E01895,Analista,24,4075506,189,Profesional
+E01896,Analista,36,3652515,176,Tecnólogo
+E01897,Analista,34,4930222,203,Profesional
+E01898,Analista,30,4685618,193,Profesional
+E01899,Analista,37,4065740,194,Tecnólogo
+E01900,Analista,38,4470773,178,Profesional
+E01901,Analista,28,4548975,227,Tecnólogo
+E01902,Analista,26,4482705,167,Profesional
+E01903,Analista,36,4007624,219,Profesional
+E01904,Analista,25,3397066,196,Tecnólogo
+E01905,Analista,26,4774875,188,Profesional
+E01906,Analista,36,3985018,210,Tecnólogo
+E01907,Analista,29,4328307,182,Profesional
+E01908,Analista,34,5017513,171,Profesional
+E01909,Analista,29,3844743,220,Tecnólogo
+E01910,Analista,31,3705820,221,Tecnólogo
+E01911,Analista,26,3778081,190,Tecnólogo
+E01912,Analista,39,4454894,182,Tecnólogo
+E01913,Analista,37,3448569,207,Tecnólogo
+E01914,Analista,37,4740726,171,Profesional
+E01915,Analista,35,4275424,163,Profesional
+E01916,Analista,31,4245461,174,Profesional
+E01917,Analista,39,4504204,208,Profesional
+E01918,Analista,24,3144051,201,Tecnólogo
+E01919,Analista,36,4089061,211,Tecnólogo
+E01920,Analista,30,3944638,210,Tecnólogo
+E01921,Analista,38,3989911,206,Tecnólogo
+E01922,Analista,33,4744025,172,Tecnólogo
+E01923,Analista,23,3808692,228,Tecnólogo
+E01924,Analista,39,3902457,220,Tecnólogo
+E01925,Analista,35,4322758,220,Tecnólogo
+E01926,Analista,28,4573396,229,Profesional
+E01927,Analista,31,3892653,186,Tecnólogo
+E01928,Analista,33,4254957,160,Profesional
+E01929,Analista,39,3474089,187,Tecnólogo
+E01930,Analista,31,4448791,219,Tecnólogo
+E01931,Analista,30,4339996,186,Profesional
+E01932,Analista,24,4071664,169,Tecnólogo
+E01933,Analista,29,4561291,200,Profesional
+E01934,Analista,31,4547528,215,Profesional
+E01935,Analista,30,4285431,214,Profesional
+E01936,Analista,27,3825026,192,Tecnólogo
+E01937,Analista,26,5121905,180,Profesional
+E01938,Analista,24,3745409,166,Profesional
+E01939,Analista,34,5250867,218,Profesional
+E01940,Analista,26,3812445,226,Profesional
+E01941,Analista,30,3752035,227,Tecnólogo
+E01942,Analista,32,5143713,172,Tecnólogo
+E01943,Analista,39,4429677,191,Tecnólogo
+E01944,Analista,28,3792283,198,Tecnólogo
+E01945,Analista,36,5419655,202,Profesional
+E01946,Analista,24,4241802,214,Profesional
+E01947,Analista,26,4393652,217,Profesional
+E01948,Analista,24,4245346,182,Tecnólogo
+E01949,Analista,33,5093029,181,Profesional
+E01950,Analista,30,2760850,192,Tecnólogo
+E01951,Analista,37,4677751,177,Profesional
+E01952,Analista,37,3891636,163,Profesional
+E01953,Analista,36,4621704,173,Profesional
+E01954,Analista,32,5202103,197,Profesional
+E01955,Analista,35,3979035,178,Tecnólogo
+E01956,Analista,28,4652358,218,Profesional
+E01957,Analista,36,4930720,213,Profesional
+E01958,Analista,24,3737517,201,Tecnólogo
+E01959,Analista,31,4307224,223,Tecnólogo
+E01960,Analista,24,3544004,218,Tecnólogo
+E01961,Analista,29,4822018,226,Profesional
+E01962,Analista,39,4136380,201,Tecnólogo
+E01963,Analista,34,4223343,170,Tecnólogo
+E01964,Analista,25,3873895,176,Tecnólogo
+E01965,Analista,31,4739847,190,Profesional
+E01966,Analista,27,4620348,219,Profesional
+E01967,Analista,23,3901729,164,Tecnólogo
+E01968,Analista,36,3886233,219,Profesional
+E01969,Analista,38,3934784,226,Tecnólogo
+E01970,Analista,31,4639254,217,Profesional
+E01971,Analista,35,4138313,166,Tecnólogo
+E01972,Analista,36,3519604,191,Tecnólogo
+E01973,Analista,27,4835132,162,Profesional
+E01974,Analista,32,4947534,217,Profesional
+E01975,Analista,31,3814582,219,Tecnólogo
+E01976,Analista,34,4502985,209,Profesional
+E01977,Analista,35,3391761,195,Tecnólogo
+E01978,Analista,23,4628826,202,Profesional
+E01979,Analista,35,3324615,225,Tecnólogo
+E01980,Analista,26,3411310,180,Tecnólogo
+E01981,Analista,29,3521930,221,Tecnólogo
+E01982,Analista,27,3984337,222,Profesional
+E01983,Analista,34,4135377,219,Profesional
+E01984,Analista,35,3738439,179,Tecnólogo
+E01985,Analista,37,3688752,220,Tecnólogo
+E01986,Analista,34,4378159,212,Profesional
+E01987,Analista,33,4144049,164,Tecnólogo
+E01988,Analista,30,3768459,174,Tecnólogo
+E01989,Analista,32,5016297,223,Profesional
+E01990,Analista,37,4072215,192,Tecnólogo
+E01991,Analista,36,4153227,198,Tecnólogo
+E01992,Analista,28,5067901,178,Profesional
+E01993,Analista,32,3744518,201,Tecnólogo
+E01994,Analista,39,4851729,228,Profesional
+E01995,Analista,25,3855736,210,Tecnólogo
+E01996,Analista,38,4964298,185,Profesional
+E01997,Analista,26,4263023,169,Profesional
+E01998,Analista,29,2919273,221,Profesional
+E01999,Analista,34,3891482,217,Tecnólogo
+E02000,Analista,24,4568835,199,Profesional
+E02001,Analista,32,4835017,173,Profesional
+E02002,Analista,36,4570626,161,Tecnólogo
+E02003,Analista,36,4503611,191,Profesional
+E02004,Analista,23,3450412,208,Tecnólogo
+E02005,Analista,39,4180824,221,Tecnólogo
+E02006,Analista,28,4247338,171,Tecnólogo
+E02007,Analista,28,3434113,222,Profesional
+E02008,Analista,25,3675075,219,Tecnólogo
+E02009,Analista,27,4389046,223,Profesional
+E02010,Analista,30,4197890,209,Tecnólogo
+E02011,Analista,23,3676884,206,Profesional
+E02012,Asistente Administrativo,29,1916354,212,Técnico
+E02013,Asistente Administrativo,31,2160449,192,Técnico
+E02014,Asistente Administrativo,32,2498050,180,Tecnólogo
+E02015,Asistente Administrativo,41,1842972,196,Técnico
+E02016,Asistente Administrativo,42,2650089,212,Tecnólogo
+E02017,Asistente Administrativo,24,2215113,205,Técnico
+E02018,Asistente Administrativo,32,2453000,163,Tecnólogo
+E02019,Asistente Administrativo,31,2655496,162,Tecnólogo
+E02020,Asistente Administrativo,39,2336819,176,Tecnólogo
+E02021,Asistente Administrativo,28,2598675,194,Tecnólogo
+E02022,Asistente Administrativo,30,2498250,195,Técnico
+E02023,Asistente Administrativo,23,2046172,196,Técnico
+E02024,Asistente Administrativo,27,2464933,168,Técnico
+E02025,Asistente Administrativo,35,2131334,228,Técnico
+E02026,Asistente Administrativo,34,2466070,166,Técnico
+E02027,Asistente Administrativo,36,2125643,180,Tecnólogo
+E02028,Asistente Administrativo,24,2610604,185,Tecnólogo
+E02029,Asistente Administrativo,44,2809576,161,Tecnólogo
+E02030,Asistente Administrativo,42,2192725,187,Tecnólogo
+E02031,Asistente Administrativo,33,2326982,212,Tecnólogo
+E02032,Asistente Administrativo,31,2222760,187,Técnico
+E02033,Asistente Administrativo,35,2320563,229,Técnico
+E02034,Asistente Administrativo,38,2540849,200,Tecnólogo
+E02035,Asistente Administrativo,26,2230073,226,Técnico
+E02036,Asistente Administrativo,24,2428932,211,Tecnólogo
+E02037,Asistente Administrativo,24,2262559,198,Tecnólogo
+E02038,Asistente Administrativo,24,2301125,189,Técnico
+E02039,Asistente Administrativo,25,2041636,191,Tecnólogo
+E02040,Asistente Administrativo,34,2183533,219,Técnico
+E02041,Asistente Administrativo,43,2397610,218,Tecnólogo
+E02042,Asistente Administrativo,41,2390189,182,Técnico
+E02043,Asistente Administrativo,43,2505960,160,Tecnólogo
+E02044,Asistente Administrativo,24,2301162,163,Técnico
+E02045,Asistente Administrativo,32,2212761,211,Técnico
+E02046,Asistente Administrativo,25,2588489,196,Técnico
+E02047,Asistente Administrativo,27,2058766,207,Técnico
+E02048,Asistente Administrativo,32,2109812,170,Tecnólogo
+E02049,Asistente Administrativo,27,2030902,205,Tecnólogo
+E02050,Asistente Administrativo,40,2936746,189,Tecnólogo
+E02051,Asistente Administrativo,41,2806795,211,Tecnólogo
+E02052,Asistente Administrativo,33,2192110,225,Técnico
+E02053,Asistente Administrativo,35,2342339,162,Tecnólogo
+E02054,Asistente Administrativo,41,2491337,178,Tecnólogo
+E02055,Asistente Administrativo,39,2284799,212,Tecnólogo
+E02056,Asistente Administrativo,25,1805015,227,Tecnólogo
+E02057,Asistente Administrativo,31,2347615,183,Tecnólogo
+E02058,Asistente Administrativo,24,2513395,195,Tecnólogo
+E02059,Asistente Administrativo,35,1891541,217,Técnico
+E02060,Asistente Administrativo,25,2008904,216,Técnico
+E02061,Asistente Administrativo,40,2436166,219,Tecnólogo
+E02062,Asistente Administrativo,38,2039228,197,Técnico
+E02063,Asistente Administrativo,36,2425694,190,Tecnólogo
+E02064,Asistente Administrativo,26,2287461,182,Tecnólogo
+E02065,Asistente Administrativo,28,2133727,227,Tecnólogo
+E02066,Asistente Administrativo,28,2263899,216,Técnico
+E02067,Asistente Administrativo,43,2482994,217,Técnico
+E02068,Asistente Administrativo,26,2752642,160,Técnico
+E02069,Asistente Administrativo,42,2570853,194,Tecnólogo
+E02070,Asistente Administrativo,30,2391338,224,Tecnólogo
+E02071,Asistente Administrativo,38,1896703,200,Técnico
+E02072,Asistente Administrativo,30,2477292,181,Tecnólogo
+E02073,Asistente Administrativo,30,2396355,191,Tecnólogo
+E02074,Asistente Administrativo,34,2292410,225,Tecnólogo
+E02075,Asistente Administrativo,28,2349223,211,Técnico
+E02076,Asistente Administrativo,26,2342002,170,Técnico
+E02077,Asistente Administrativo,35,2497107,174,Tecnólogo
+E02078,Asistente Administrativo,25,2339074,208,Técnico
+E02079,Asistente Administrativo,42,2081082,228,Técnico
+E02080,Asistente Administrativo,23,2197389,189,Técnico
+E02081,Asistente Administrativo,42,2177511,166,Técnico
+E02082,Asistente Administrativo,29,2078499,195,Tecnólogo
+E02083,Asistente Administrativo,34,2097169,162,Técnico
+E02084,Asistente Administrativo,28,2257126,225,Tecnólogo
+E02085,Asistente Administrativo,35,1833526,175,Técnico
+E02086,Asistente Administrativo,27,2268110,196,Técnico
+E02087,Asistente Administrativo,35,2428263,210,Técnico
+E02088,Asistente Administrativo,24,1952977,165,Tecnólogo
+E02089,Asistente Administrativo,30,2282640,195,Técnico
+E02090,Asistente Administrativo,24,2008702,178,Técnico
+E02091,Asistente Administrativo,40,1703263,191,Técnico
+E02092,Asistente Administrativo,33,1936804,183,Técnico
+E02093,Asistente Administrativo,34,2350562,223,Tecnólogo
+E02094,Asistente Administrativo,31,2072701,162,Tecnólogo
+E02095,Asistente Administrativo,22,2721555,211,Tecnólogo
+E02096,Asistente Administrativo,35,2594867,197,Tecnólogo
+E02097,Asistente Administrativo,29,2135558,229,Técnico
+E02098,Asistente Administrativo,44,2305288,222,Tecnólogo
+E02099,Asistente Administrativo,44,2401129,224,Tecnólogo
+E02100,Asistente Administrativo,42,2126556,164,Tecnólogo
+E02101,Asistente Administrativo,43,2523239,197,Tecnólogo
+E02102,Asistente Administrativo,28,1796075,183,Técnico
+E02103,Asistente Administrativo,41,2253998,204,Tecnólogo
+E02104,Asistente Administrativo,22,1667417,227,Técnico
+E02105,Asistente Administrativo,43,1974549,191,Técnico
+E02106,Asistente Administrativo,25,2618919,220,Tecnólogo
+E02107,Asistente Administrativo,40,1553856,161,Técnico
+E02108,Asistente Administrativo,35,2080353,171,Técnico
+E02109,Asistente Administrativo,24,2006733,200,Técnico
+E02110,Asistente Administrativo,41,2487601,174,Técnico
+E02111,Asistente Administrativo,36,2097710,225,Técnico
+E02112,Asistente Administrativo,36,2414550,171,Técnico
+E02113,Asistente Administrativo,34,2119746,223,Técnico
+E02114,Asistente Administrativo,24,2370265,193,Técnico
+E02115,Asistente Administrativo,35,2424509,198,Tecnólogo
+E02116,Asistente Administrativo,27,2517027,181,Técnico
+E02117,Asistente Administrativo,31,2398428,199,Tecnólogo
+E02118,Asistente Administrativo,39,2922053,202,Tecnólogo
+E02119,Asistente Administrativo,28,2366292,206,Técnico
+E02120,Asistente Administrativo,43,2332222,164,Tecnólogo
+E02121,Asistente Administrativo,41,2425560,165,Técnico
+E02122,Asistente Administrativo,24,2016307,191,Tecnólogo
+E02123,Asistente Administrativo,30,2306758,217,Tecnólogo
+E02124,Asistente Administrativo,31,1844571,176,Técnico
+E02125,Asistente Administrativo,35,2250468,219,Técnico
+E02126,Asistente Administrativo,40,2256129,220,Técnico
+E02127,Asistente Administrativo,22,2759940,196,Técnico
+E02128,Asistente Administrativo,42,2256066,203,Tecnólogo
+E02129,Asistente Administrativo,32,2175588,185,Tecnólogo
+E02130,Asistente Administrativo,39,1918704,185,Tecnólogo
+E02131,Asistente Administrativo,24,2377980,200,Tecnólogo
+E02132,Asistente Administrativo,42,2505981,220,Tecnólogo
+E02133,Asistente Administrativo,39,2570871,219,Tecnólogo
+E02134,Asistente Administrativo,23,2281714,207,Técnico
+E02135,Asistente Administrativo,28,2401657,181,Tecnólogo
+E02136,Asistente Administrativo,39,2104986,229,Técnico
+E02137,Asistente Administrativo,26,2610386,227,Tecnólogo
+E02138,Asistente Administrativo,35,1829182,179,Técnico
+E02139,Asistente Administrativo,33,2082545,216,Técnico
+E02140,Asistente Administrativo,37,2340898,196,Tecnólogo
+E02141,Asistente Administrativo,22,2184017,165,Técnico
+E02142,Asistente Administrativo,35,2660330,210,Técnico
+E02143,Asistente Administrativo,33,2527893,218,Técnico
+E02144,Asistente Administrativo,43,2507677,190,Técnico
+E02145,Asistente Administrativo,33,2060671,211,Tecnólogo
+E02146,Asistente Administrativo,26,2124343,185,Tecnólogo
+E02147,Asistente Administrativo,44,2532939,193,Tecnólogo
+E02148,Asistente Administrativo,43,2023606,186,Técnico
+E02149,Asistente Administrativo,37,2580300,166,Tecnólogo
+E02150,Asistente Administrativo,23,2301510,223,Tecnólogo
+E02151,Asistente Administrativo,32,2201139,196,Técnico
+E02152,Asistente Administrativo,32,1961009,211,Técnico
+E02153,Asistente Administrativo,43,2231633,163,Técnico
+E02154,Asistente Administrativo,31,2090156,227,Tecnólogo
+E02155,Asistente Administrativo,24,2383918,201,Técnico
+E02156,Asistente Administrativo,29,2042244,209,Técnico
+E02157,Asistente Administrativo,43,2682415,185,Tecnólogo
+E02158,Asistente Administrativo,36,1976751,219,Tecnólogo
+E02159,Asistente Administrativo,26,2573511,188,Tecnólogo
+E02160,Asistente Administrativo,22,2144987,205,Técnico
+E02161,Asistente Administrativo,33,2364925,166,Tecnólogo
+E02162,Asistente Administrativo,32,2024604,194,Técnico
+E02163,Asistente Administrativo,32,2273824,170,Tecnólogo
+E02164,Asistente Administrativo,41,2095575,200,Tecnólogo
+E02165,Asistente Administrativo,41,2255790,173,Técnico
+E02166,Asistente Administrativo,33,2217190,225,Técnico
+E02167,Asistente Administrativo,41,2276804,188,Tecnólogo
+E02168,Asistente Administrativo,26,2400849,160,Técnico
+E02169,Asistente Administrativo,33,1964247,197,Tecnólogo
+E02170,Asistente Administrativo,24,2719631,224,Tecnólogo
+E02171,Asistente Administrativo,30,2034376,182,Técnico
+E02172,Asistente Administrativo,31,2402727,166,Técnico
+E02173,Asistente Administrativo,26,1861707,223,Técnico
+E02174,Asistente Administrativo,25,2136218,163,Técnico
+E02175,Asistente Administrativo,27,2100308,223,Tecnólogo
+E02176,Asistente Administrativo,24,2151554,175,Técnico
+E02177,Asistente Administrativo,40,2439019,160,Técnico
+E02178,Asistente Administrativo,42,2365766,201,Tecnólogo
+E02179,Asistente Administrativo,25,2581306,161,Tecnólogo
+E02180,Asistente Administrativo,35,2192190,226,Tecnólogo
+E02181,Asistente Administrativo,32,2166853,201,Técnico
+E02182,Asistente Administrativo,31,2184315,209,Técnico
+E02183,Asistente Administrativo,41,2169415,214,Tecnólogo
+E02184,Asistente Administrativo,34,2245994,185,Técnico
+E02185,Asistente Administrativo,33,2393938,223,Tecnólogo
+E02186,Asistente Administrativo,23,2369822,193,Técnico
+E02187,Asistente Administrativo,43,2613828,223,Técnico
+E02188,Asistente Administrativo,36,2321162,217,Tecnólogo
+E02189,Asistente Administrativo,25,2248031,187,Tecnólogo
+E02190,Asistente Administrativo,33,2267483,228,Tecnólogo
+E02191,Asistente Administrativo,42,2303701,175,Técnico
+E02192,Asistente Administrativo,44,2509550,162,Técnico
+E02193,Asistente Administrativo,27,2402299,170,Tecnólogo
+E02194,Asistente Administrativo,36,2000431,227,Técnico
+E02195,Asistente Administrativo,38,2181935,171,Tecnólogo
+E02196,Asistente Administrativo,23,2338715,175,Tecnólogo
+E02197,Asistente Administrativo,37,2521307,185,Tecnólogo
+E02198,Asistente Administrativo,31,1835111,165,Técnico
+E02199,Asistente Administrativo,22,2020094,208,Técnico
+E02200,Asistente Administrativo,32,2167214,170,Técnico
+E02201,Asistente Administrativo,25,2410819,166,Tecnólogo
+E02202,Asistente Administrativo,40,2511365,177,Técnico
+E02203,Asistente Administrativo,44,2138967,185,Técnico
+E02204,Asistente Administrativo,36,2111436,203,Tecnólogo
+E02205,Asistente Administrativo,24,2463493,211,Tecnólogo
+E02206,Asistente Administrativo,29,2423462,226,Técnico
+E02207,Asistente Administrativo,35,2794381,222,Tecnólogo
+E02208,Asistente Administrativo,40,2141693,194,Técnico
+E02209,Asistente Administrativo,35,1916977,216,Técnico
+E02210,Asistente Administrativo,37,2760194,173,Tecnólogo
+E02211,Asistente Administrativo,31,2591419,160,Tecnólogo
+E02212,Asistente Administrativo,31,1980267,183,Técnico
+E02213,Asistente Administrativo,38,2484147,174,Técnico
+E02214,Asistente Administrativo,22,1786545,161,Técnico
+E02215,Asistente Administrativo,29,2513450,209,Técnico
+E02216,Asistente Administrativo,27,2532744,204,Tecnólogo
+E02217,Asistente Administrativo,24,1915961,181,Técnico
+E02218,Asistente Administrativo,31,2186595,189,Tecnólogo
+E02219,Asistente Administrativo,37,2331794,229,Tecnólogo
+E02220,Asistente Administrativo,43,2285645,171,Técnico
+E02221,Asistente Administrativo,40,2102526,226,Técnico
+E02222,Asistente Administrativo,32,2349775,166,Tecnólogo
+E02223,Asistente Administrativo,32,2135441,204,Técnico
+E02224,Asistente Administrativo,40,2364599,221,Técnico
+E02225,Asistente Administrativo,42,2019027,178,Técnico
+E02226,Asistente Administrativo,42,2692519,219,Tecnólogo
+E02227,Asistente Administrativo,26,2152208,221,Técnico
+E02228,Asistente Administrativo,36,2276475,193,Tecnólogo
+E02229,Asistente Administrativo,29,1750755,188,Técnico
+E02230,Asistente Administrativo,28,2300156,211,Técnico
+E02231,Asistente Administrativo,32,2140920,203,Técnico
+E02232,Asistente Administrativo,43,2328698,205,Técnico
+E02233,Asistente Administrativo,40,2172193,222,Técnico
+E02234,Asistente Administrativo,43,2547769,201,Técnico
+E02235,Asistente Administrativo,23,2115321,207,Técnico
+E02236,Asistente Administrativo,23,2156150,218,Técnico
+E02237,Asistente Administrativo,34,2311938,190,Técnico
+E02238,Asistente Administrativo,26,2106629,168,Técnico
+E02239,Asistente Administrativo,44,2477762,206,Técnico
+E02240,Asistente Administrativo,43,2135829,202,Técnico
+E02241,Asistente Administrativo,35,2086661,200,Técnico
+E02242,Asistente Administrativo,33,2281682,175,Tecnólogo
+E02243,Asistente Administrativo,39,2343441,223,Técnico
+E02244,Asistente Administrativo,36,2274119,193,Técnico
+E02245,Asistente Administrativo,30,2436685,165,Tecnólogo
+E02246,Asistente Administrativo,32,2642294,187,Técnico
+E02247,Asistente Administrativo,43,2305122,198,Técnico
+E02248,Asistente Administrativo,29,2357348,211,Tecnólogo
+E02249,Asistente Administrativo,43,2577709,226,Técnico
+E02250,Asistente Administrativo,39,1866047,184,Técnico
+E02251,Asistente Administrativo,37,1768708,197,Técnico
+E02252,Asistente Administrativo,28,2051249,162,Tecnólogo
+E02253,Asistente Administrativo,43,2688904,160,Tecnólogo
+E02254,Asistente Administrativo,34,2443083,201,Técnico
+E02255,Asistente Administrativo,35,2050806,190,Tecnólogo
+E02256,Asistente Administrativo,31,2320098,211,Tecnólogo
+E02257,Asistente Administrativo,44,2156694,214,Técnico
+E02258,Asistente Administrativo,41,2650342,222,Tecnólogo
+E02259,Asistente Administrativo,33,2702343,168,Técnico
+E02260,Asistente Administrativo,42,2221367,195,Tecnólogo
+E02261,Asistente Administrativo,41,2330662,206,Técnico
+E02262,Asistente Administrativo,26,2400771,183,Tecnólogo
+E02263,Asistente Administrativo,31,2006466,185,Tecnólogo
+E02264,Asistente Administrativo,43,1908131,176,Tecnólogo
+E02265,Asistente Administrativo,30,2071131,220,Tecnólogo
+E02266,Asistente Administrativo,32,2219421,160,Técnico
+E02267,Asistente Administrativo,36,2791126,217,Tecnólogo
+E02268,Asistente Administrativo,27,2128079,190,Técnico
+E02269,Asistente Administrativo,43,2180359,212,Tecnólogo
+E02270,Asistente Administrativo,31,1991572,224,Técnico
+E02271,Asistente Administrativo,43,2541047,162,Tecnólogo
+E02272,Asistente Administrativo,32,2434986,182,Tecnólogo
+E02273,Asistente Administrativo,33,1879177,162,Técnico
+E02274,Asistente Administrativo,26,2211226,190,Tecnólogo
+E02275,Asistente Administrativo,26,2558423,207,Tecnólogo
+E02276,Asistente Administrativo,24,2169668,207,Técnico
+E02277,Asistente Administrativo,44,2333373,201,Tecnólogo
+E02278,Asistente Administrativo,26,2294212,226,Tecnólogo
+E02279,Asistente Administrativo,43,2279441,167,Tecnólogo
+E02280,Asistente Administrativo,26,2455334,185,Técnico
+E02281,Asistente Administrativo,38,2104459,209,Técnico
+E02282,Asistente Administrativo,31,2474051,200,Técnico
+E02283,Asistente Administrativo,31,2240776,207,Técnico
+E02284,Asistente Administrativo,37,2477163,214,Tecnólogo
+E02285,Asistente Administrativo,28,2310793,217,Tecnólogo
+E02286,Asistente Administrativo,33,2346651,183,Técnico
+E02287,Asistente Administrativo,30,2329834,201,Técnico
+E02288,Asistente Administrativo,22,2613099,166,Tecnólogo
+E02289,Asistente Administrativo,35,2514164,178,Técnico
+E02290,Asistente Administrativo,39,2580735,212,Técnico
+E02291,Asistente Administrativo,28,2550947,173,Tecnólogo
+E02292,Asistente Administrativo,44,2074075,225,Técnico
+E02293,Asistente Administrativo,43,2405864,216,Técnico
+E02294,Asistente Administrativo,27,2646819,188,Tecnólogo
+E02295,Asistente Administrativo,38,2032490,225,Técnico
+E02296,Asistente Administrativo,44,2070748,184,Técnico
+E02297,Asistente Administrativo,32,2680505,204,Tecnólogo
+E02298,Asistente Administrativo,28,2578600,211,Tecnólogo
+E02299,Asistente Administrativo,31,2233200,225,Técnico
+E02300,Asistente Administrativo,41,2429979,177,Técnico
+E02301,Asistente Administrativo,28,2112412,169,Técnico
+E02302,Asistente Administrativo,40,1896350,219,Tecnólogo
+E02303,Asistente Administrativo,24,2666047,188,Técnico
+E02304,Asistente Administrativo,39,2407766,212,Técnico
+E02305,Asistente Administrativo,35,2469198,170,Tecnólogo
+E02306,Asistente Administrativo,24,2258698,193,Tecnólogo
+E02307,Asistente Administrativo,42,2494332,228,Tecnólogo
+E02308,Asistente Administrativo,33,2593793,198,Tecnólogo
+E02309,Asistente Administrativo,39,2060680,169,Tecnólogo
+E02310,Asistente Administrativo,31,2505372,224,Tecnólogo
+E02311,Asistente Administrativo,41,2298040,228,Tecnólogo
+E02312,Asistente Administrativo,32,2709776,191,Tecnólogo
+E02313,Asistente Administrativo,34,2331480,215,Técnico
+E02314,Asistente Administrativo,43,2352742,192,Técnico
+E02315,Asistente Administrativo,41,2688101,197,Tecnólogo
+E02316,Asistente Administrativo,44,2057338,168,Técnico
+E02317,Asistente Administrativo,42,2487423,165,Tecnólogo
+E02318,Asistente Administrativo,26,2411517,213,Técnico
+E02319,Asistente Administrativo,29,2192299,204,Técnico
+E02320,Asistente Administrativo,29,2127817,223,Técnico
+E02321,Asistente Administrativo,41,2248811,208,Tecnólogo
+E02322,Asistente Administrativo,35,2127119,180,Tecnólogo
+E02323,Asistente Administrativo,42,1917205,168,Tecnólogo
+E02324,Asistente Administrativo,43,1790666,221,Técnico
+E02325,Asistente Administrativo,37,2025761,219,Tecnólogo
+E02326,Asistente Administrativo,31,2114253,200,Tecnólogo
+E02327,Asistente Administrativo,24,2541946,203,Técnico
+E02328,Asistente Administrativo,32,2277796,200,Técnico
+E02329,Asistente Administrativo,34,2285073,209,Técnico
+E02330,Asistente Administrativo,28,2470771,207,Tecnólogo
+E02331,Asistente Administrativo,33,1828516,196,Técnico
+E02332,Asistente Administrativo,35,2193361,179,Técnico
+E02333,Asistente Administrativo,29,1875724,212,Técnico
+E02334,Asistente Administrativo,43,2266409,205,Tecnólogo
+E02335,Asistente Administrativo,30,2290725,168,Técnico
+E02336,Asistente Administrativo,25,2260723,190,Técnico
+E02337,Asistente Administrativo,39,2490216,188,Técnico
+E02338,Asistente Administrativo,40,1980445,172,Técnico
+E02339,Asistente Administrativo,39,1837385,191,Técnico
+E02340,Asistente Administrativo,27,2243563,224,Técnico
+E02341,Asistente Administrativo,36,2575922,176,Tecnólogo
+E02342,Asistente Administrativo,33,2820246,203,Tecnólogo
+E02343,Asistente Administrativo,36,2450802,172,Técnico
+E02344,Asistente Administrativo,33,2742023,211,Tecnólogo
+E02345,Asistente Administrativo,34,2065979,176,Técnico
+E02346,Asistente Administrativo,23,2642576,226,Tecnólogo
+E02347,Asistente Administrativo,30,2228149,169,Tecnólogo
+E02348,Asistente Administrativo,25,2207438,195,Técnico
+E02349,Asistente Administrativo,43,2431628,170,Técnico
+E02350,Asistente Administrativo,39,2584362,193,Técnico
+E02351,Asistente Administrativo,32,2208122,163,Técnico
+E02352,Asistente Administrativo,38,2361016,203,Técnico
+E02353,Asistente Administrativo,24,2312167,211,Técnico
+E02354,Asistente Administrativo,23,2577103,188,Técnico
+E02355,Asistente Administrativo,24,2588904,223,Tecnólogo
+E02356,Asistente Administrativo,36,2053078,193,Técnico
+E02357,Asistente Administrativo,38,1902646,198,Tecnólogo
+E02358,Asistente Administrativo,43,2117564,228,Técnico
+E02359,Asistente Administrativo,44,1930845,206,Técnico
+E02360,Asistente Administrativo,31,2689211,160,Tecnólogo
+E02361,Asistente Administrativo,24,2734575,179,Tecnólogo
+E02362,Asistente Administrativo,43,2408378,218,Tecnólogo
+E02363,Asistente Administrativo,23,2753468,182,Tecnólogo
+E02364,Asistente Administrativo,38,2009674,220,Técnico
+E02365,Asistente Administrativo,42,2466495,190,Técnico
+E02366,Asistente Administrativo,25,2905852,172,Tecnólogo
+E02367,Asistente Administrativo,44,2344338,166,Técnico
+E02368,Asistente Administrativo,24,2218455,199,Tecnólogo
+E02369,Asistente Administrativo,24,2168012,218,Técnico
+E02370,Asistente Administrativo,35,2294367,216,Tecnólogo
+E02371,Asistente Administrativo,39,2289939,211,Técnico
+E02372,Asistente Administrativo,43,2280669,201,Técnico
+E02373,Asistente Administrativo,34,2361578,179,Técnico
+E02374,Asistente Administrativo,23,2446515,204,Tecnólogo
+E02375,Asistente Administrativo,38,2087298,195,Tecnólogo
+E02376,Asistente Administrativo,25,2041944,161,Técnico
+E02377,Asistente Administrativo,33,2087943,217,Tecnólogo
+E02378,Asistente Administrativo,42,2019419,165,Técnico
+E02379,Asistente Administrativo,40,2470215,217,Tecnólogo
+E02380,Asistente Administrativo,39,2237727,221,Técnico
+E02381,Asistente Administrativo,26,2402876,185,Técnico
+E02382,Asistente Administrativo,37,2316238,180,Tecnólogo
+E02383,Asistente Administrativo,31,2254047,188,Técnico
+E02384,Asistente Administrativo,27,2115171,210,Técnico
+E02385,Asistente Administrativo,44,2331897,165,Tecnólogo
+E02386,Asistente Administrativo,32,2460898,213,Tecnólogo
+E02387,Asistente Administrativo,44,2316921,181,Técnico
+E02388,Asistente Administrativo,38,2200050,214,Tecnólogo
+E02389,Asistente Administrativo,22,2394736,173,Tecnólogo
+E02390,Asistente Administrativo,37,2006448,204,Técnico
+E02391,Asistente Administrativo,37,2729990,184,Tecnólogo
+E02392,Asistente Administrativo,23,2417771,178,Técnico
+E02393,Asistente Administrativo,41,2202928,198,Tecnólogo
+E02394,Asistente Administrativo,36,2153713,196,Técnico
+E02395,Asistente Administrativo,27,2103128,211,Tecnólogo
+E02396,Asistente Administrativo,42,2025797,204,Técnico
+E02397,Asistente Administrativo,35,2202256,223,Técnico
+E02398,Asistente Administrativo,40,2170467,167,Técnico
+E02399,Asistente Administrativo,27,2460076,209,Técnico
+E02400,Asistente Administrativo,38,2282772,203,Técnico
+E02401,Asistente Administrativo,25,2267699,179,Tecnólogo
+E02402,Asistente Administrativo,22,2437592,212,Tecnólogo
+E02403,Asistente Administrativo,35,2606038,190,Tecnólogo
+E02404,Asistente Administrativo,43,2553366,160,Técnico
+E02405,Asistente Administrativo,25,2363064,162,Tecnólogo
+E02406,Asistente Administrativo,26,2256730,192,Técnico
+E02407,Asistente Administrativo,42,2231038,217,Técnico
+E02408,Asistente Administrativo,44,2221772,195,Técnico
+E02409,Asistente Administrativo,22,1931229,202,Técnico
+E02410,Asistente Administrativo,23,2215012,202,Técnico
+E02411,Asistente Administrativo,41,2495927,177,Tecnólogo
+E02412,Asistente Administrativo,41,2443015,180,Técnico
+E02413,Asistente Administrativo,44,2439093,180,Tecnólogo
+E02414,Asistente Administrativo,26,2615075,185,Tecnólogo
+E02415,Asistente Administrativo,44,2046364,168,Técnico
+E02416,Asistente Administrativo,39,2619072,224,Técnico
+E02417,Asistente Administrativo,33,2264697,222,Tecnólogo
+E02418,Asistente Administrativo,34,2295429,164,Técnico
+E02419,Asistente Administrativo,43,2470965,215,Técnico
+E02420,Asistente Administrativo,37,2361458,164,Tecnólogo
+E02421,Asistente Administrativo,30,2527527,219,Tecnólogo
+E02422,Asistente Administrativo,25,2595023,172,Tecnólogo
+E02423,Asistente Administrativo,25,2187385,161,Técnico
+E02424,Asistente Administrativo,37,2401408,208,Técnico
+E02425,Asistente Administrativo,35,2160935,170,Técnico
+E02426,Asistente Administrativo,39,2299047,190,Técnico
+E02427,Asistente Administrativo,41,2734586,217,Tecnólogo
+E02428,Asistente Administrativo,22,2123238,210,Técnico
+E02429,Asistente Administrativo,43,2801942,209,Tecnólogo
+E02430,Asistente Administrativo,29,1862827,191,Tecnólogo
+E02431,Asistente Administrativo,44,2472759,164,Tecnólogo
+E02432,Asistente Administrativo,22,2027769,191,Técnico
+E02433,Asistente Administrativo,34,2336002,191,Tecnólogo
+E02434,Asistente Administrativo,42,2510596,217,Tecnólogo
+E02435,Asistente Administrativo,22,2340729,168,Tecnólogo
+E02436,Asistente Administrativo,39,2064879,218,Técnico
+E02437,Asistente Administrativo,29,2606481,206,Técnico
+E02438,Asistente Administrativo,29,2213853,211,Tecnólogo
+E02439,Asistente Administrativo,36,2500218,183,Tecnólogo
+E02440,Asistente Administrativo,37,2737388,188,Tecnólogo
+E02441,Asistente Administrativo,37,2479585,169,Técnico
+E02442,Asistente Administrativo,43,2177096,175,Técnico
+E02443,Asistente Administrativo,40,2649940,174,Tecnólogo
+E02444,Asistente Administrativo,30,2332817,167,Tecnólogo
+E02445,Asistente Administrativo,22,2529463,167,Tecnólogo
+E02446,Asistente Administrativo,37,1971209,214,Técnico
+E02447,Asistente Administrativo,26,2467910,160,Tecnólogo
+E02448,Asistente Administrativo,41,1999886,204,Técnico
+E02449,Asistente Administrativo,41,1998109,197,Técnico
+E02450,Asistente Administrativo,42,2524100,209,Tecnólogo
+E02451,Asistente Administrativo,27,2648994,198,Tecnólogo
+E02452,Asistente Administrativo,32,2904213,207,Tecnólogo
+E02453,Asistente Administrativo,30,2238352,195,Técnico
+E02454,Asistente Administrativo,31,2387648,163,Tecnólogo
+E02455,Asistente Administrativo,25,2612941,188,Técnico
+E02456,Asistente Administrativo,24,2276320,205,Técnico
+E02457,Asistente Administrativo,30,2156191,163,Técnico
+E02458,Asistente Administrativo,40,2928408,203,Tecnólogo
+E02459,Asistente Administrativo,43,2238797,163,Tecnólogo
+E02460,Asistente Administrativo,44,1899595,206,Técnico
+E02461,Asistente Administrativo,24,2257435,211,Técnico
+E02462,Asistente Administrativo,41,1973330,212,Técnico
+E02463,Asistente Administrativo,42,2305164,213,Tecnólogo
+E02464,Asistente Administrativo,23,2343269,176,Técnico
+E02465,Asistente Administrativo,26,2234034,184,Tecnólogo
+E02466,Asistente Administrativo,33,2035518,200,Técnico
+E02467,Asistente Administrativo,40,2128620,214,Técnico
+E02468,Asistente Administrativo,40,1949687,173,Técnico
+E02469,Asistente Administrativo,22,2342621,169,Tecnólogo
+E02470,Asistente Administrativo,43,1810099,200,Técnico
+E02471,Asistente Administrativo,34,2294960,195,Técnico
+E02472,Asistente Administrativo,23,2307950,169,Técnico
+E02473,Asistente Administrativo,26,2002365,181,Tecnólogo
+E02474,Asistente Administrativo,37,2414843,208,Tecnólogo
+E02475,Asistente Administrativo,39,2380364,184,Técnico
+E02476,Asistente Administrativo,41,2275645,185,Técnico
+E02477,Asistente Administrativo,29,1995750,194,Tecnólogo
+E02478,Asistente Administrativo,34,2434233,184,Técnico
+E02479,Asistente Administrativo,34,2534496,173,Tecnólogo
+E02480,Asistente Administrativo,37,2223888,229,Tecnólogo
+E02481,Asistente Administrativo,34,2790894,207,Tecnólogo
+E02482,Asistente Administrativo,25,2215788,162,Tecnólogo
+E02483,Asistente Administrativo,44,2397786,174,Técnico
+E02484,Asistente Administrativo,42,2466033,221,Técnico
+E02485,Asistente Administrativo,32,2048436,164,Técnico
+E02486,Asistente Administrativo,34,1921695,211,Técnico
+E02487,Asistente Administrativo,30,2369460,200,Técnico
+E02488,Asistente Administrativo,43,2266108,160,Tecnólogo
+E02489,Asistente Administrativo,41,2286634,184,Técnico
+E02490,Asistente Administrativo,30,2588232,210,Tecnólogo
+E02491,Asistente Administrativo,26,1985137,202,Técnico
+E02492,Asistente Administrativo,26,1720414,215,Técnico
+E02493,Asistente Administrativo,37,2665192,218,Tecnólogo
+E02494,Asistente Administrativo,24,2529018,188,Técnico
+E02495,Asistente Administrativo,24,2736035,195,Tecnólogo
+E02496,Asistente Administrativo,28,2546041,201,Tecnólogo
+E02497,Asistente Administrativo,44,2643281,212,Tecnólogo
+E02498,Asistente Administrativo,28,2465162,163,Tecnólogo
+E02499,Asistente Administrativo,37,2072362,172,Técnico
+E02500,Asistente Administrativo,38,1940306,165,Técnico
+E02501,Asistente Administrativo,24,2336588,219,Tecnólogo
+E02502,Asistente Administrativo,38,2168912,170,Tecnólogo
+E02503,Asistente Administrativo,22,2778963,208,Tecnólogo
+E02504,Asistente Administrativo,26,1941446,223,Técnico
+E02505,Asistente Administrativo,41,1981345,197,Tecnólogo
+E02506,Asistente Administrativo,27,2772604,185,Tecnólogo
+E02507,Asistente Administrativo,32,2401352,229,Tecnólogo
+E02508,Asistente Administrativo,36,2311958,214,Tecnólogo
+E02509,Asistente Administrativo,43,2183823,160,Técnico
+E02510,Asistente Administrativo,33,1855079,169,Tecnólogo
+E02511,Asistente Administrativo,39,2613091,196,Tecnólogo
+E02512,Asistente Administrativo,38,2597141,215,Tecnólogo
+E02513,Asistente Administrativo,40,2538100,167,Técnico
+E02514,Asistente Administrativo,37,2364491,166,Técnico
+E02515,Asistente Administrativo,42,2452978,160,Técnico
+E02516,Asistente Administrativo,33,2158664,206,Tecnólogo
+E02517,Asistente Administrativo,28,2622937,206,Técnico
+E02518,Asistente Administrativo,31,2138776,168,Técnico
+E02519,Asistente Administrativo,40,2309101,163,Técnico
+E02520,Asistente Administrativo,37,2053900,207,Técnico
+E02521,Asistente Administrativo,39,2374549,163,Técnico
+E02522,Asistente Administrativo,40,2282861,220,Técnico
+E02523,Asistente Administrativo,24,2323711,216,Tecnólogo
+E02524,Asistente Administrativo,24,2768765,206,Tecnólogo
+E02525,Asistente Administrativo,35,2446286,170,Tecnólogo
+E02526,Asistente Administrativo,41,2152739,192,Tecnólogo
+E02527,Asistente Administrativo,31,2080375,192,Técnico
+E02528,Asistente Administrativo,29,1673180,189,Tecnólogo
+E02529,Asistente Administrativo,29,2610201,160,Tecnólogo
+E02530,Asistente Administrativo,30,1917355,220,Técnico
+E02531,Asistente Administrativo,22,2252370,161,Técnico
+E02532,Asistente Administrativo,44,2099100,217,Técnico
+E02533,Asistente Administrativo,43,2143795,219,Tecnólogo
+E02534,Asistente Administrativo,40,2540078,162,Tecnólogo
+E02535,Asistente Administrativo,38,2588315,193,Tecnólogo
+E02536,Asistente Administrativo,23,2160548,164,Tecnólogo
+E02537,Asistente Administrativo,34,2338073,173,Tecnólogo
+E02538,Asistente Administrativo,30,2426832,200,Técnico
+E02539,Asistente Administrativo,33,2364840,222,Técnico
+E02540,Asistente Administrativo,39,2090835,178,Tecnólogo
+E02541,Asistente Administrativo,44,2430713,212,Tecnólogo
+E02542,Asistente Administrativo,42,2169109,178,Técnico
+E02543,Asistente Administrativo,33,2821415,227,Técnico
+E02544,Asistente Administrativo,35,2062263,206,Técnico
+E02545,Asistente Administrativo,32,2061613,186,Técnico
+E02546,Asistente Administrativo,35,2168121,178,Técnico
+E02547,Asistente Administrativo,35,2046105,161,Técnico
+E02548,Asistente Administrativo,34,2522825,168,Tecnólogo
+E02549,Asistente Administrativo,25,2223311,217,Técnico
+E02550,Asistente Administrativo,42,2102840,205,Técnico
+E02551,Asistente Administrativo,24,1754157,226,Técnico
+E02552,Asistente Administrativo,41,2164923,178,Tecnólogo
+E02553,Asistente Administrativo,24,2503740,190,Tecnólogo
+E02554,Asistente Administrativo,24,2144295,173,Técnico
+E02555,Asistente Administrativo,26,2252925,227,Técnico
+E02556,Asistente Administrativo,41,2320594,222,Técnico
+E02557,Asistente Administrativo,39,2119382,168,Técnico
+E02558,Asistente Administrativo,33,1907233,164,Técnico
+E02559,Asistente Administrativo,27,2343100,206,Tecnólogo
+E02560,Asistente Administrativo,40,2057448,187,Técnico
+E02561,Asistente Administrativo,27,2323898,180,Técnico
+E02562,Asistente Administrativo,41,2250164,160,Tecnólogo
+E02563,Asistente Administrativo,41,2490746,169,Tecnólogo
+E02564,Asistente Administrativo,27,2500083,162,Tecnólogo
+E02565,Asistente Administrativo,31,2168160,220,Tecnólogo
+E02566,Asistente Administrativo,42,2600985,204,Técnico
+E02567,Asistente Administrativo,41,2633832,177,Tecnólogo
+E02568,Asistente Administrativo,42,2721746,181,Tecnólogo
+E02569,Asistente Administrativo,25,2373849,201,Tecnólogo
+E02570,Asistente Administrativo,33,2002363,178,Técnico
+E02571,Asistente Administrativo,28,2342554,178,Tecnólogo
+E02572,Asistente Administrativo,24,2224569,207,Tecnólogo
+E02573,Asistente Administrativo,30,1996149,215,Tecnólogo
+E02574,Asistente Administrativo,31,1939355,203,Tecnólogo
+E02575,Asistente Administrativo,35,2094366,214,Técnico
+E02576,Asistente Administrativo,37,2028280,226,Técnico
+E02577,Asistente Administrativo,36,2239414,178,Tecnólogo
+E02578,Asistente Administrativo,24,2171064,163,Técnico
+E02579,Asistente Administrativo,29,1971240,185,Tecnólogo
+E02580,Asistente Administrativo,40,2433870,160,Tecnólogo
+E02581,Asistente Administrativo,37,2432232,220,Tecnólogo
+E02582,Asistente Administrativo,23,2634534,191,Tecnólogo
+E02583,Asistente Administrativo,42,2178949,189,Tecnólogo
+E02584,Asistente Administrativo,29,2244059,171,Tecnólogo
+E02585,Asistente Administrativo,23,2279556,165,Tecnólogo
+E02586,Asistente Administrativo,30,2411645,194,Tecnólogo
+E02587,Asistente Administrativo,29,1873013,214,Técnico
+E02588,Asistente Administrativo,27,2638589,199,Tecnólogo
+E02589,Asistente Administrativo,39,2313340,180,Tecnólogo
+E02590,Asistente Administrativo,42,2369000,160,Tecnólogo
+E02591,Asistente Administrativo,43,2097066,177,Técnico
+E02592,Asistente Administrativo,22,2955023,203,Tecnólogo
+E02593,Asistente Administrativo,25,2519164,218,Tecnólogo
+E02594,Asistente Administrativo,43,2745628,162,Tecnólogo
+E02595,Asistente Administrativo,32,2478141,162,Técnico
+E02596,Asistente Administrativo,44,2029264,229,Técnico
+E02597,Asistente Administrativo,27,2542240,204,Técnico
+E02598,Asistente Administrativo,30,2561686,225,Tecnólogo
+E02599,Asistente Administrativo,41,2184263,225,Tecnólogo
+E02600,Asistente Administrativo,42,2572200,181,Técnico
+E02601,Asistente Administrativo,44,2382248,168,Tecnólogo
+E02602,Asistente Administrativo,31,2616016,166,Tecnólogo
+E02603,Asistente Administrativo,25,1933137,220,Técnico
+E02604,Asistente Administrativo,40,2017038,177,Técnico
+E02605,Asistente Administrativo,36,2508104,193,Tecnólogo
+E02606,Asistente Administrativo,35,2211243,166,Tecnólogo
+E02607,Asistente Administrativo,22,2087453,211,Técnico
+E02608,Asistente Administrativo,22,2374846,180,Tecnólogo
+E02609,Asistente Administrativo,32,2351727,222,Tecnólogo
+E02610,Asistente Administrativo,43,2528896,226,Tecnólogo
+E02611,Asistente Administrativo,27,2685902,175,Tecnólogo
+E02612,Asistente Administrativo,31,1656428,229,Técnico
+E02613,Asistente Administrativo,23,2101068,175,Técnico
+E02614,Asistente Administrativo,35,2345027,191,Tecnólogo
+E02615,Asistente Administrativo,39,2019497,218,Técnico
+E02616,Asistente Administrativo,41,2494916,162,Tecnólogo
+E02617,Asistente Administrativo,41,1750027,194,Tecnólogo
+E02618,Asistente Administrativo,26,1973236,193,Técnico
+E02619,Asistente Administrativo,40,2411953,208,Tecnólogo
+E02620,Asistente Administrativo,34,2423215,188,Tecnólogo
+E02621,Asistente Administrativo,32,2668544,183,Tecnólogo
+E02622,Asistente Administrativo,42,2721620,196,Tecnólogo
+E02623,Asistente Administrativo,29,2807327,223,Tecnólogo
+E02624,Asistente Administrativo,44,2218446,183,Técnico
+E02625,Asistente Administrativo,31,2284805,203,Técnico
+E02626,Asistente Administrativo,31,2135319,168,Técnico
+E02627,Asistente Administrativo,31,2313096,199,Tecnólogo
+E02628,Asistente Administrativo,26,2759440,167,Tecnólogo
+E02629,Asistente Administrativo,44,2375011,223,Tecnólogo
+E02630,Asistente Administrativo,25,2472400,198,Tecnólogo
+E02631,Asistente Administrativo,38,2074910,196,Tecnólogo
+E02632,Asistente Administrativo,39,2431394,206,Tecnólogo
+E02633,Asistente Administrativo,35,2087825,218,Técnico
+E02634,Asistente Administrativo,42,2315223,220,Tecnólogo
+E02635,Asistente Administrativo,25,2459948,220,Técnico
+E02636,Asistente Administrativo,36,1984945,170,Técnico
+E02637,Asistente Administrativo,29,1899812,203,Técnico
+E02638,Asistente Administrativo,22,2291558,217,Técnico
+E02639,Asistente Administrativo,28,2070657,215,Técnico
+E02640,Asistente Administrativo,29,2149868,187,Técnico
+E02641,Asistente Administrativo,34,1929934,196,Técnico
+E02642,Asistente Administrativo,33,1978709,206,Tecnólogo
+E02643,Asistente Administrativo,29,2072283,186,Tecnólogo
+E02644,Asistente Administrativo,44,2300720,216,Tecnólogo
+E02645,Asistente Administrativo,34,1808154,206,Técnico
+E02646,Asistente Administrativo,36,2359385,203,Tecnólogo
+E02647,Asistente Administrativo,36,2111291,190,Técnico
+E02648,Asistente Administrativo,33,2732013,193,Tecnólogo
+E02649,Asistente Administrativo,36,2294359,219,Técnico
+E02650,Asistente Administrativo,26,2177239,214,Tecnólogo
+E02651,Asistente Administrativo,40,2371165,215,Tecnólogo
+E02652,Asistente Administrativo,23,2106228,186,Técnico
+E02653,Asistente Administrativo,26,2125635,203,Tecnólogo
+E02654,Asistente Administrativo,34,2033462,215,Técnico
+E02655,Asistente Administrativo,35,2240231,198,Técnico
+E02656,Asistente Administrativo,31,1994480,205,Tecnólogo
+E02657,Asistente Administrativo,41,2380967,225,Técnico
+E02658,Asistente Administrativo,36,2463217,225,Tecnólogo
+E02659,Asistente Administrativo,27,2791338,193,Tecnólogo
+E02660,Asistente Administrativo,27,2389527,187,Tecnólogo
+E02661,Asistente Administrativo,37,2460010,191,Técnico
+E02662,Asistente Administrativo,39,1951349,196,Técnico
+E02663,Asistente Administrativo,36,2262357,219,Técnico
+E02664,Asistente Administrativo,39,2069966,195,Tecnólogo
+E02665,Asistente Administrativo,38,2108342,182,Técnico
+E02666,Asistente Administrativo,22,2346131,229,Técnico
+E02667,Asistente Administrativo,25,1945268,223,Técnico
+E02668,Asistente Administrativo,33,2391979,179,Técnico
+E02669,Asistente Administrativo,26,2602608,203,Técnico
+E02670,Asistente Administrativo,24,2165022,198,Técnico
+E02671,Asistente Administrativo,25,2007309,186,Tecnólogo
+E02672,Asistente Administrativo,43,1943385,223,Técnico
+E02673,Asistente Administrativo,43,2542314,203,Tecnólogo
+E02674,Asistente Administrativo,29,2522774,216,Tecnólogo
+E02675,Asistente Administrativo,31,2510749,182,Técnico
+E02676,Asistente Administrativo,38,2359464,208,Tecnólogo
+E02677,Asistente Administrativo,23,2368227,211,Técnico
+E02678,Asistente Administrativo,44,2265291,221,Técnico
+E02679,Asistente Administrativo,37,2279258,199,Técnico
+E02680,Asistente Administrativo,39,2345550,189,Técnico
+E02681,Asistente Administrativo,22,1757017,227,Técnico
+E02682,Asistente Administrativo,22,2453133,172,Tecnólogo
+E02683,Asistente Administrativo,39,2376859,226,Tecnólogo
+E02684,Asistente Administrativo,36,2290399,167,Técnico
+E02685,Asistente Administrativo,30,2332318,223,Técnico
+E02686,Asistente Administrativo,26,2340950,185,Tecnólogo
+E02687,Asistente Administrativo,41,2315730,184,Tecnólogo
+E02688,Asistente Administrativo,35,2446643,214,Técnico
+E02689,Asistente Administrativo,22,2422959,197,Tecnólogo
+E02690,Asistente Administrativo,32,2474438,212,Técnico
+E02691,Asistente Administrativo,36,2251885,160,Tecnólogo
+E02692,Asistente Administrativo,40,2128804,176,Técnico
+E02693,Asistente Administrativo,30,2155675,176,Técnico
+E02694,Asistente Administrativo,41,2277220,171,Técnico
+E02695,Asistente Administrativo,26,2419784,177,Tecnólogo
+E02696,Asistente Administrativo,34,2662956,201,Tecnólogo
+E02697,Asistente Administrativo,39,2254082,196,Tecnólogo
+E02698,Asistente Administrativo,41,2165752,172,Técnico
+E02699,Asistente Administrativo,30,2602385,162,Tecnólogo
+E02700,Asistente Administrativo,22,2648008,222,Tecnólogo
+E02701,Asistente Administrativo,23,2466988,207,Técnico
+E02702,Asistente Administrativo,34,2269967,222,Tecnólogo
+E02703,Asistente Administrativo,41,1975128,171,Tecnólogo
+E02704,Asistente Administrativo,43,2285223,219,Técnico
+E02705,Asistente Administrativo,37,2726818,172,Tecnólogo
+E02706,Asistente Administrativo,37,2328570,182,Tecnólogo
+E02707,Asistente Administrativo,41,2194811,164,Técnico
+E02708,Asistente Administrativo,22,2657988,198,Tecnólogo
+E02709,Asistente Administrativo,32,2641619,194,Tecnólogo
+E02710,Asistente Administrativo,35,2345331,160,Técnico
+E02711,Asistente Administrativo,30,2689639,165,Tecnólogo
+E02712,Asistente Administrativo,41,2265822,208,Tecnólogo
+E02713,Asistente Administrativo,44,2413130,186,Tecnólogo
+E02714,Asistente Administrativo,33,2219499,176,Tecnólogo
+E02715,Asistente Administrativo,25,2722975,221,Tecnólogo
+E02716,Asistente Administrativo,24,2435628,202,Técnico
+E02717,Asistente Administrativo,36,2472676,170,Tecnólogo
+E02718,Asistente Administrativo,24,2299150,202,Tecnólogo
+E02719,Asistente Administrativo,34,2548375,229,Tecnólogo
+E02720,Asistente Administrativo,22,2433563,215,Técnico
+E02721,Asistente Administrativo,42,2285113,201,Técnico
+E02722,Asistente Administrativo,31,2603355,194,Tecnólogo
+E02723,Asistente Administrativo,40,2360715,179,Técnico
+E02724,Asistente Administrativo,29,2429450,215,Tecnólogo
+E02725,Asistente Administrativo,27,2208432,212,Técnico
+E02726,Asistente Administrativo,23,2384777,226,Tecnólogo
+E02727,Asistente Administrativo,40,2090502,175,Tecnólogo
+E02728,Asistente Administrativo,28,2370587,216,Técnico
+E02729,Asistente Administrativo,26,2354582,161,Técnico
+E02730,Asistente Administrativo,40,2525894,187,Tecnólogo
+E02731,Asistente Administrativo,33,2261984,192,Tecnólogo
+E02732,Asistente Administrativo,42,2323148,220,Tecnólogo
+E02733,Asistente Administrativo,33,1860855,206,Técnico
+E02734,Asistente Administrativo,27,2078981,198,Técnico
+E02735,Asistente Administrativo,43,2348889,164,Tecnólogo
+E02736,Asistente Administrativo,29,2093096,212,Técnico
+E02737,Asistente Administrativo,31,2272428,218,Tecnólogo
+E02738,Asistente Administrativo,31,2313935,160,Técnico
+E02739,Asistente Administrativo,23,2841633,164,Tecnólogo
+E02740,Asistente Administrativo,37,2111016,183,Técnico
+E02741,Asistente Administrativo,22,2379562,173,Tecnólogo
+E02742,Asistente Administrativo,32,2158381,172,Técnico
+E02743,Asistente Administrativo,39,2144161,193,Técnico
+E02744,Asistente Administrativo,40,2202784,220,Técnico
+E02745,Asistente Administrativo,35,2141412,172,Tecnólogo
+E02746,Asistente Administrativo,25,2479559,163,Técnico
+E02747,Asistente Administrativo,24,2371987,172,Tecnólogo
+E02748,Asistente Administrativo,44,2421488,194,Técnico
+E02749,Asistente Administrativo,40,2134539,176,Técnico
+E02750,Asistente Administrativo,43,2158127,177,Tecnólogo
+E02751,Asistente Administrativo,35,2819442,160,Tecnólogo
+E02752,Asistente Administrativo,39,2120428,164,Técnico
+E02753,Asistente Administrativo,24,2172549,225,Técnico
+E02754,Asistente Administrativo,29,2587461,176,Tecnólogo
+E02755,Asistente Administrativo,35,2542175,175,Tecnólogo
+E02756,Asistente Administrativo,29,2799215,181,Tecnólogo
+E02757,Asistente Administrativo,24,2621162,181,Técnico
+E02758,Asistente Administrativo,30,2443577,208,Tecnólogo
+E02759,Asistente Administrativo,22,2706400,168,Técnico
+E02760,Asistente Administrativo,25,2949132,164,Tecnólogo
+E02761,Asistente Administrativo,38,2230516,199,Técnico
+E02762,Asistente Administrativo,24,2228692,206,Técnico
+E02763,Asistente Administrativo,38,2382428,211,Tecnólogo
+E02764,Asistente Administrativo,28,2636601,181,Técnico
+E02765,Asistente Administrativo,32,2013127,169,Técnico
+E02766,Asistente Administrativo,39,2432464,191,Técnico
+E02767,Asistente Administrativo,31,2428178,207,Tecnólogo
+E02768,Asistente Administrativo,43,1907667,206,Técnico
+E02769,Asistente Administrativo,29,2217079,218,Tecnólogo
+E02770,Asistente Administrativo,30,2438175,190,Tecnólogo
+E02771,Asistente Administrativo,38,2702285,190,Tecnólogo
+E02772,Asistente Administrativo,24,2371080,179,Tecnólogo
+E02773,Asistente Administrativo,44,2401027,224,Tecnólogo
+E02774,Asistente Administrativo,31,2266226,210,Técnico
+E02775,Asistente Administrativo,32,2368070,215,Tecnólogo
+E02776,Asistente Administrativo,23,2228042,170,Técnico
+E02777,Asistente Administrativo,33,2168051,183,Técnico
+E02778,Asistente Administrativo,31,2492405,165,Tecnólogo
+E02779,Asistente Administrativo,43,2202290,163,Tecnólogo
+E02780,Asistente Administrativo,23,2100788,208,Técnico
+E02781,Asistente Administrativo,37,2460274,184,Tecnólogo
+E02782,Asistente Administrativo,28,2403805,176,Técnico
+E02783,Asistente Administrativo,35,2223065,206,Tecnólogo
+E02784,Asistente Administrativo,42,1956172,174,Técnico
+E02785,Asistente Administrativo,41,2665806,225,Tecnólogo
+E02786,Asistente Administrativo,27,2414232,173,Tecnólogo
+E02787,Asistente Administrativo,38,2027846,161,Tecnólogo
+E02788,Asistente Administrativo,43,2275360,162,Técnico
+E02789,Asistente Administrativo,38,2227763,182,Técnico
+E02790,Asistente Administrativo,30,2280566,182,Técnico
+E02791,Asistente Administrativo,23,2018443,185,Técnico
+E02792,Asistente Administrativo,33,1882893,167,Técnico
+E02793,Asistente Administrativo,29,2267860,182,Técnico
+E02794,Asistente Administrativo,42,2209758,208,Tecnólogo
+E02795,Asistente Administrativo,34,2111388,178,Técnico
+E02796,Asistente Administrativo,33,2032735,191,Técnico
+E02797,Asistente Administrativo,26,2478265,226,Tecnólogo
+E02798,Asistente Administrativo,32,1904938,191,Técnico
+E02799,Asistente Administrativo,43,1993177,190,Tecnólogo
+E02800,Asistente Administrativo,42,2205896,185,Técnico
+E02801,Asistente Administrativo,44,2099811,193,Tecnólogo
+E02802,Asistente Administrativo,22,2054486,220,Técnico
+E02803,Asistente Administrativo,24,2284616,223,Técnico
+E02804,Asistente Administrativo,24,2623337,171,Tecnólogo
+E02805,Asistente Administrativo,38,2228576,194,Técnico
+E02806,Asistente Administrativo,35,2734584,183,Tecnólogo
+E02807,Asistente Administrativo,30,2701782,217,Tecnólogo
+E02808,Asistente Administrativo,22,2673309,168,Tecnólogo
+E02809,Asistente Administrativo,31,2099735,182,Técnico
+E02810,Asistente Administrativo,40,1966014,200,Técnico
+E02811,Asistente Administrativo,38,1943260,205,Técnico
+E02812,Asistente Administrativo,41,2175389,186,Técnico
+E02813,Asistente Administrativo,25,2343917,219,Técnico
+E02814,Asistente Administrativo,32,2447867,193,Tecnólogo
+E02815,Asistente Administrativo,33,2343326,163,Tecnólogo
+E02816,Asistente Administrativo,29,2458114,207,Tecnólogo
+E02817,Asistente Administrativo,27,2149753,188,Tecnólogo
+E02818,Asistente Administrativo,36,1909055,199,Técnico
+E02819,Asistente Administrativo,31,2223979,212,Técnico
+E02820,Asistente Administrativo,28,2305541,200,Tecnólogo
+E02821,Asistente Administrativo,42,2577056,218,Técnico
+E02822,Asistente Administrativo,43,1992949,216,Técnico
+E02823,Asistente Administrativo,22,2231063,227,Técnico
+E02824,Asistente Administrativo,35,2296971,190,Técnico
+E02825,Asistente Administrativo,38,1868799,182,Tecnólogo
+E02826,Asistente Administrativo,39,2227963,205,Tecnólogo
+E02827,Asistente Administrativo,32,2029681,220,Técnico
+E02828,Asistente Administrativo,44,1783321,190,Técnico
+E02829,Asistente Administrativo,24,1936450,197,Técnico
+E02830,Asistente Administrativo,29,2115346,177,Técnico
+E02831,Asistente Administrativo,31,2359690,199,Técnico
+E02832,Asistente Administrativo,41,2448273,160,Técnico
+E02833,Asistente Administrativo,44,2361600,175,Técnico
+E02834,Asistente Administrativo,28,2306244,169,Tecnólogo
+E02835,Asistente Administrativo,43,2508378,214,Tecnólogo
+E02836,Asistente Administrativo,36,2183852,203,Tecnólogo
+E02837,Asistente Administrativo,34,3023454,196,Tecnólogo
+E02838,Asistente Administrativo,30,1823776,211,Tecnólogo
+E02839,Asistente Administrativo,39,2372837,214,Técnico
+E02840,Asistente Administrativo,23,2143666,214,Tecnólogo
+E02841,Asistente Administrativo,24,2549861,190,Tecnólogo
+E02842,Asistente Administrativo,41,2608356,218,Técnico
+E02843,Asistente Administrativo,42,2746664,224,Tecnólogo
+E02844,Asistente Administrativo,36,2194014,196,Técnico
+E02845,Asistente Administrativo,33,2268977,225,Técnico
+E02846,Asistente Administrativo,33,2415249,199,Tecnólogo
+E02847,Asistente Administrativo,37,2667347,177,Tecnólogo
+E02848,Asistente Administrativo,34,2588249,170,Tecnólogo
+E02849,Asistente Administrativo,33,2554873,223,Técnico
+E02850,Asistente Administrativo,23,2656613,187,Tecnólogo
+E02851,Asistente Administrativo,36,2024553,200,Técnico
+E02852,Asistente Administrativo,34,2135086,197,Tecnólogo
+E02853,Asistente Administrativo,34,2362628,186,Tecnólogo
+E02854,Asistente Administrativo,29,2514860,221,Tecnólogo
+E02855,Asistente Administrativo,34,2676121,192,Técnico
+E02856,Asistente Administrativo,36,2140460,205,Tecnólogo
+E02857,Asistente Administrativo,28,2314569,172,Tecnólogo
+E02858,Asistente Administrativo,40,2836060,209,Tecnólogo
+E02859,Asistente Administrativo,23,2731543,163,Tecnólogo
+E02860,Asistente Administrativo,25,1897627,187,Técnico
+E02861,Asistente Administrativo,24,2184678,226,Técnico
+E02862,Asistente Administrativo,30,2109144,174,Técnico
+E02863,Asistente Administrativo,39,2630905,209,Tecnólogo
+E02864,Asistente Administrativo,31,1751469,208,Técnico
+E02865,Asistente Administrativo,33,2276636,174,Tecnólogo
+E02866,Asistente Administrativo,44,2263347,209,Técnico
+E02867,Asistente Administrativo,39,2281221,222,Técnico
+E02868,Asistente Administrativo,22,2561311,165,Tecnólogo
+E02869,Asistente Administrativo,35,2394947,199,Tecnólogo
+E02870,Asistente Administrativo,43,2234573,185,Tecnólogo
+E02871,Asistente Administrativo,31,2148712,212,Técnico
+E02872,Asistente Administrativo,34,2215928,174,Técnico
+E02873,Asistente Administrativo,26,2536827,211,Tecnólogo
+E02874,Asistente Administrativo,28,1894409,220,Técnico
+E02875,Asistente Administrativo,22,2484619,181,Tecnólogo
+E02876,Asistente Administrativo,23,2281092,226,Tecnólogo
+E02877,Asistente Administrativo,38,2495494,168,Técnico
+E02878,Asistente Administrativo,39,2426683,205,Tecnólogo
+E02879,Asistente Administrativo,34,1957408,222,Tecnólogo
+E02880,Asistente Administrativo,27,2082627,220,Técnico
+E02881,Asistente Administrativo,32,2463020,167,Técnico
+E02882,Asistente Administrativo,41,2675953,175,Tecnólogo
+E02883,Asistente Administrativo,24,2026550,176,Técnico
+E02884,Asistente Administrativo,26,2108903,184,Tecnólogo
+E02885,Asistente Administrativo,24,1916294,218,Técnico
+E02886,Asistente Administrativo,31,2709472,228,Tecnólogo
+E02887,Asistente Administrativo,41,1970274,177,Técnico
+E02888,Asistente Administrativo,34,1937168,225,Tecnólogo
+E02889,Asistente Administrativo,30,2085632,217,Técnico
+E02890,Asistente Administrativo,36,2503812,222,Tecnólogo
+E02891,Asistente Administrativo,23,2329223,181,Tecnólogo
+E02892,Asistente Administrativo,25,1978048,217,Técnico
+E02893,Asistente Administrativo,33,2615448,188,Tecnólogo
+E02894,Asistente Administrativo,43,2069167,212,Técnico
+E02895,Asistente Administrativo,40,2372829,214,Tecnólogo
+E02896,Asistente Administrativo,28,2391856,191,Técnico
+E02897,Asistente Administrativo,37,2305747,189,Tecnólogo
+E02898,Asistente Administrativo,31,2073087,220,Técnico
+E02899,Asistente Administrativo,42,2646793,227,Tecnólogo
+E02900,Asistente Administrativo,22,2725765,166,Tecnólogo
+E02901,Asistente Administrativo,41,2380264,204,Técnico
+E02902,Asistente Administrativo,41,1991992,190,Técnico
+E02903,Asistente Administrativo,42,2073932,172,Técnico
+E02904,Asistente Administrativo,22,2406840,208,Tecnólogo
+E02905,Asistente Administrativo,37,2328675,224,Tecnólogo
+E02906,Asistente Administrativo,31,2201608,187,Técnico
+E02907,Asistente Administrativo,30,2175864,171,Tecnólogo
+E02908,Asistente Administrativo,36,2576816,195,Tecnólogo
+E02909,Asistente Administrativo,44,2190060,191,Tecnólogo
+E02910,Asistente Administrativo,34,1855872,207,Técnico
+E02911,Asistente Administrativo,37,1731266,199,Técnico
+E02912,Auxiliar Operativo,23,1349062,198,Bachiller
+E02913,Auxiliar Operativo,21,1586060,213,Técnico
+E02914,Auxiliar Operativo,34,1493944,177,Bachiller
+E02915,Auxiliar Operativo,21,1300000,177,Bachiller
+E02916,Auxiliar Operativo,25,1563352,179,Técnico
+E02917,Auxiliar Operativo,31,1400061,188,Técnico
+E02918,Auxiliar Operativo,37,1300000,222,Bachiller
+E02919,Auxiliar Operativo,26,1453742,171,Bachiller
+E02920,Auxiliar Operativo,36,1348600,182,Técnico
+E02921,Auxiliar Operativo,25,1688469,199,Técnico
+E02922,Auxiliar Operativo,38,1300000,214,Bachiller
+E02923,Auxiliar Operativo,24,1357548,179,Bachiller
+E02924,Auxiliar Operativo,21,1476578,228,Bachiller
+E02925,Auxiliar Operativo,36,1499402,223,Bachiller
+E02926,Auxiliar Operativo,34,1440607,180,Bachiller
+E02927,Auxiliar Operativo,30,1451644,200,Técnico
+E02928,Auxiliar Operativo,27,1502977,177,Bachiller
+E02929,Auxiliar Operativo,32,1356801,217,Bachiller
+E02930,Auxiliar Operativo,38,1428570,199,Bachiller
+E02931,Auxiliar Operativo,26,1623327,198,Técnico
+E02932,Auxiliar Operativo,31,1374464,183,Bachiller
+E02933,Auxiliar Operativo,28,1567423,185,Bachiller
+E02934,Auxiliar Operativo,30,1359872,181,Bachiller
+E02935,Auxiliar Operativo,26,1300000,219,Bachiller
+E02936,Auxiliar Operativo,30,1491889,209,Bachiller
+E02937,Auxiliar Operativo,36,1300000,214,Bachiller
+E02938,Auxiliar Operativo,26,1300000,220,Bachiller
+E02939,Auxiliar Operativo,31,1327541,176,Bachiller
+E02940,Auxiliar Operativo,30,1418861,184,Técnico
+E02941,Auxiliar Operativo,38,1539138,210,Técnico
+E02942,Auxiliar Operativo,37,1330532,162,Bachiller
+E02943,Auxiliar Operativo,27,1474328,217,Bachiller
+E02944,Auxiliar Operativo,34,1581711,168,Técnico
+E02945,Auxiliar Operativo,30,1307526,211,Bachiller
+E02946,Auxiliar Operativo,27,1360273,205,Bachiller
+E02947,Auxiliar Operativo,25,1434322,174,Técnico
+E02948,Auxiliar Operativo,26,1365871,162,Bachiller
+E02949,Auxiliar Operativo,37,1406267,189,Técnico
+E02950,Auxiliar Operativo,22,1419210,178,Técnico
+E02951,Auxiliar Operativo,29,1454695,200,Bachiller
+E02952,Auxiliar Operativo,24,1461811,228,Técnico
+E02953,Auxiliar Operativo,28,1306935,180,Técnico
+E02954,Auxiliar Operativo,22,1559252,218,Técnico
+E02955,Auxiliar Operativo,21,1300000,192,Bachiller
+E02956,Auxiliar Operativo,37,1447838,181,Técnico
+E02957,Auxiliar Operativo,38,1508869,220,Técnico
+E02958,Auxiliar Operativo,22,1433179,189,Bachiller
+E02959,Auxiliar Operativo,21,1699012,198,Técnico
+E02960,Auxiliar Operativo,33,1317509,204,Bachiller
+E02961,Auxiliar Operativo,26,1527727,227,Bachiller
+E02962,Auxiliar Operativo,38,1459301,203,Técnico
+E02963,Auxiliar Operativo,37,1300000,210,Bachiller
+E02964,Auxiliar Operativo,33,1491448,201,Técnico
+E02965,Auxiliar Operativo,35,1600307,209,Técnico
+E02966,Auxiliar Operativo,36,1346773,198,Bachiller
+E02967,Auxiliar Operativo,39,1434549,160,Bachiller
+E02968,Auxiliar Operativo,20,1300000,203,Bachiller
+E02969,Auxiliar Operativo,36,1682231,191,Técnico
+E02970,Auxiliar Operativo,24,1719246,221,Técnico
+E02971,Auxiliar Operativo,22,1300000,196,Bachiller
+E02972,Auxiliar Operativo,31,1318422,220,Bachiller
+E02973,Auxiliar Operativo,28,1673215,217,Técnico
+E02974,Auxiliar Operativo,37,1730080,213,Técnico
+E02975,Auxiliar Operativo,24,1458871,223,Bachiller
+E02976,Auxiliar Operativo,37,1354931,173,Bachiller
+E02977,Auxiliar Operativo,22,1536845,215,Técnico
+E02978,Auxiliar Operativo,22,1383165,184,Técnico
+E02979,Auxiliar Operativo,24,1444960,213,Técnico
+E02980,Auxiliar Operativo,28,1620973,177,Técnico
+E02981,Auxiliar Operativo,34,1715517,186,Técnico
+E02982,Auxiliar Operativo,23,1349803,208,Técnico
+E02983,Auxiliar Operativo,27,1318694,228,Bachiller
+E02984,Auxiliar Operativo,20,1405648,186,Bachiller
+E02985,Auxiliar Operativo,36,1618175,178,Técnico
+E02986,Auxiliar Operativo,23,1300000,220,Técnico
+E02987,Auxiliar Operativo,37,1614884,182,Técnico
+E02988,Auxiliar Operativo,39,1428347,228,Bachiller
+E02989,Auxiliar Operativo,20,1300000,197,Técnico
+E02990,Auxiliar Operativo,32,1559986,173,Bachiller
+E02991,Auxiliar Operativo,33,1300000,197,Bachiller
+E02992,Auxiliar Operativo,38,1300000,186,Técnico
+E02993,Auxiliar Operativo,39,1573468,211,Bachiller
+E02994,Auxiliar Operativo,29,1645019,161,Técnico
+E02995,Auxiliar Operativo,39,1585554,172,Técnico
+E02996,Auxiliar Operativo,21,1300000,187,Bachiller
+E02997,Auxiliar Operativo,20,1521122,200,Técnico
+E02998,Auxiliar Operativo,20,1300440,184,Bachiller
+E02999,Auxiliar Operativo,34,1346021,168,Bachiller
+E03000,Auxiliar Operativo,23,1507188,168,Técnico
+E03001,Auxiliar Operativo,28,1502864,180,Técnico
+E03002,Auxiliar Operativo,22,1311545,162,Bachiller
+E03003,Auxiliar Operativo,25,1765677,199,Técnico
+E03004,Auxiliar Operativo,23,1402060,203,Técnico
+E03005,Auxiliar Operativo,25,1342965,222,Bachiller
+E03006,Auxiliar Operativo,36,1383950,179,Bachiller
+E03007,Auxiliar Operativo,34,1475376,211,Técnico
+E03008,Auxiliar Operativo,39,1631894,204,Técnico
+E03009,Auxiliar Operativo,39,1337653,184,Técnico
+E03010,Auxiliar Operativo,32,1300000,221,Bachiller
+E03011,Auxiliar Operativo,23,1339467,184,Bachiller
+E03012,Auxiliar Operativo,36,1509001,182,Bachiller
+E03013,Auxiliar Operativo,30,1313328,196,Bachiller
+E03014,Auxiliar Operativo,33,1630487,193,Técnico
+E03015,Auxiliar Operativo,35,1553209,217,Técnico
+E03016,Auxiliar Operativo,28,1381945,162,Bachiller
+E03017,Auxiliar Operativo,35,1483646,160,Bachiller
+E03018,Auxiliar Operativo,34,1527240,187,Bachiller
+E03019,Auxiliar Operativo,30,1419032,209,Técnico
+E03020,Auxiliar Operativo,27,1533503,175,Técnico
+E03021,Auxiliar Operativo,27,1364135,190,Bachiller
+E03022,Auxiliar Operativo,26,1596899,226,Técnico
+E03023,Auxiliar Operativo,38,1572168,162,Bachiller
+E03024,Auxiliar Operativo,30,1481980,224,Técnico
+E03025,Auxiliar Operativo,22,1300000,199,Técnico
+E03026,Auxiliar Operativo,23,1519070,164,Técnico
+E03027,Auxiliar Operativo,36,1606137,225,Técnico
+E03028,Auxiliar Operativo,36,1562506,165,Bachiller
+E03029,Auxiliar Operativo,39,1466228,200,Bachiller
+E03030,Auxiliar Operativo,30,1796387,220,Técnico
+E03031,Auxiliar Operativo,31,1769256,182,Técnico
+E03032,Auxiliar Operativo,29,1397428,200,Bachiller
+E03033,Auxiliar Operativo,29,1351861,183,Bachiller
+E03034,Auxiliar Operativo,38,1330245,166,Bachiller
+E03035,Auxiliar Operativo,22,1389155,160,Bachiller
+E03036,Auxiliar Operativo,37,1300000,179,Bachiller
+E03037,Auxiliar Operativo,32,1592195,175,Técnico
+E03038,Auxiliar Operativo,20,1736226,208,Bachiller
+E03039,Auxiliar Operativo,36,1300000,213,Técnico
+E03040,Auxiliar Operativo,29,1374077,177,Técnico
+E03041,Auxiliar Operativo,33,1300000,194,Bachiller
+E03042,Auxiliar Operativo,28,1749992,222,Técnico
+E03043,Auxiliar Operativo,23,1563119,215,Técnico
+E03044,Auxiliar Operativo,29,1405654,194,Técnico
+E03045,Auxiliar Operativo,25,1478179,196,Técnico
+E03046,Auxiliar Operativo,21,1666209,228,Técnico
+E03047,Auxiliar Operativo,22,1300909,185,Bachiller
+E03048,Auxiliar Operativo,23,1703642,165,Técnico
+E03049,Auxiliar Operativo,38,1300000,222,Bachiller
+E03050,Auxiliar Operativo,34,1442028,219,Bachiller
+E03051,Auxiliar Operativo,36,1381911,170,Bachiller
+E03052,Auxiliar Operativo,32,1495388,188,Técnico
+E03053,Auxiliar Operativo,24,1300000,182,Bachiller
+E03054,Auxiliar Operativo,32,1592996,206,Técnico
+E03055,Auxiliar Operativo,32,1307789,160,Bachiller
+E03056,Auxiliar Operativo,35,1499542,161,Bachiller
+E03057,Auxiliar Operativo,36,1575437,225,Técnico
+E03058,Auxiliar Operativo,34,1507800,184,Bachiller
+E03059,Auxiliar Operativo,24,1485629,216,Bachiller
+E03060,Auxiliar Operativo,30,1472422,228,Bachiller
+E03061,Auxiliar Operativo,22,1399713,188,Bachiller
+E03062,Auxiliar Operativo,35,1622928,205,Técnico
+E03063,Auxiliar Operativo,22,1300000,170,Bachiller
+E03064,Auxiliar Operativo,28,1300000,180,Bachiller
+E03065,Auxiliar Operativo,30,1553240,171,Bachiller
+E03066,Auxiliar Operativo,38,1513133,179,Técnico
+E03067,Auxiliar Operativo,38,1665063,185,Técnico
+E03068,Auxiliar Operativo,35,1436452,190,Bachiller
+E03069,Auxiliar Operativo,36,1300000,209,Bachiller
+E03070,Auxiliar Operativo,38,1471938,201,Técnico
+E03071,Auxiliar Operativo,31,1545449,166,Técnico
+E03072,Auxiliar Operativo,22,1594804,170,Técnico
+E03073,Auxiliar Operativo,31,1646352,204,Técnico
+E03074,Auxiliar Operativo,26,1356902,168,Técnico
+E03075,Auxiliar Operativo,22,1650052,208,Técnico
+E03076,Auxiliar Operativo,23,1300000,180,Bachiller
+E03077,Auxiliar Operativo,31,1400325,228,Técnico
+E03078,Auxiliar Operativo,35,1638151,211,Técnico
+E03079,Auxiliar Operativo,29,1371338,167,Bachiller
+E03080,Auxiliar Operativo,25,1556825,172,Técnico
+E03081,Auxiliar Operativo,30,1306722,199,Bachiller
+E03082,Auxiliar Operativo,23,1639737,195,Técnico
+E03083,Auxiliar Operativo,32,1446125,195,Técnico
+E03084,Auxiliar Operativo,31,1551137,170,Técnico
+E03085,Auxiliar Operativo,28,1484870,169,Bachiller
+E03086,Auxiliar Operativo,26,1531075,202,Técnico
+E03087,Auxiliar Operativo,34,1435415,220,Técnico
+E03088,Auxiliar Operativo,27,1540093,184,Bachiller
+E03089,Auxiliar Operativo,30,1461499,198,Técnico
+E03090,Auxiliar Operativo,37,1740628,227,Bachiller
+E03091,Auxiliar Operativo,37,1449669,182,Técnico
+E03092,Auxiliar Operativo,31,1406343,201,Bachiller
+E03093,Auxiliar Operativo,27,1468242,163,Bachiller
+E03094,Auxiliar Operativo,35,1419420,177,Bachiller
+E03095,Auxiliar Operativo,36,1513386,187,Técnico
+E03096,Auxiliar Operativo,30,1300000,187,Bachiller
+E03097,Auxiliar Operativo,37,1356195,217,Bachiller
+E03098,Auxiliar Operativo,32,1397947,227,Bachiller
+E03099,Auxiliar Operativo,39,1481887,201,Técnico
+E03100,Auxiliar Operativo,29,1300000,181,Bachiller
+E03101,Auxiliar Operativo,23,1346507,209,Técnico
+E03102,Auxiliar Operativo,31,1687362,189,Técnico
+E03103,Auxiliar Operativo,20,1379297,224,Técnico
+E03104,Auxiliar Operativo,23,1352577,191,Bachiller
+E03105,Auxiliar Operativo,39,1580197,206,Técnico
+E03106,Auxiliar Operativo,38,1300000,168,Bachiller
+E03107,Auxiliar Operativo,24,1431626,182,Técnico
+E03108,Auxiliar Operativo,24,1438626,217,Técnico
+E03109,Auxiliar Operativo,22,1303868,182,Técnico
+E03110,Auxiliar Operativo,30,1506817,215,Técnico
+E03111,Auxiliar Operativo,32,1300000,215,Bachiller
+E03112,Auxiliar Operativo,28,1477019,217,Técnico
+E03113,Auxiliar Operativo,25,1482911,180,Bachiller
+E03114,Auxiliar Operativo,29,1490448,183,Bachiller
+E03115,Auxiliar Operativo,23,1300000,192,Técnico
+E03116,Auxiliar Operativo,38,1546032,169,Técnico
+E03117,Auxiliar Operativo,32,1585087,172,Técnico
+E03118,Auxiliar Operativo,22,1662388,184,Técnico
+E03119,Auxiliar Operativo,20,1484113,204,Técnico
+E03120,Auxiliar Operativo,21,1300000,217,Técnico
+E03121,Auxiliar Operativo,36,1547993,208,Técnico
+E03122,Auxiliar Operativo,35,1327650,216,Bachiller
+E03123,Auxiliar Operativo,27,1521890,206,Bachiller
+E03124,Auxiliar Operativo,31,1649756,168,Técnico
+E03125,Auxiliar Operativo,39,1506641,228,Bachiller
+E03126,Auxiliar Operativo,30,1300000,199,Bachiller
+E03127,Auxiliar Operativo,39,1300000,194,Bachiller
+E03128,Auxiliar Operativo,30,1406681,210,Técnico
+E03129,Auxiliar Operativo,38,1401818,169,Técnico
+E03130,Auxiliar Operativo,39,1300000,162,Bachiller
+E03131,Auxiliar Operativo,31,1371676,192,Técnico
+E03132,Auxiliar Operativo,27,1463939,181,Técnico
+E03133,Auxiliar Operativo,34,1354847,169,Técnico
+E03134,Auxiliar Operativo,21,1511394,225,Técnico
+E03135,Auxiliar Operativo,37,1436908,177,Técnico
+E03136,Auxiliar Operativo,34,1470283,177,Técnico
+E03137,Auxiliar Operativo,27,1530185,170,Bachiller
+E03138,Auxiliar Operativo,22,1363554,198,Técnico
+E03139,Auxiliar Operativo,23,1328867,200,Bachiller
+E03140,Auxiliar Operativo,38,1687103,195,Técnico
+E03141,Auxiliar Operativo,21,1404318,185,Técnico
+E03142,Auxiliar Operativo,22,1522559,211,Técnico
+E03143,Auxiliar Operativo,24,1451340,212,Bachiller
+E03144,Auxiliar Operativo,32,1662302,175,Técnico
+E03145,Auxiliar Operativo,38,1606590,173,Técnico
+E03146,Auxiliar Operativo,33,1309660,190,Bachiller
+E03147,Auxiliar Operativo,31,1672284,229,Técnico
+E03148,Auxiliar Operativo,24,1409566,216,Técnico
+E03149,Auxiliar Operativo,28,1517574,187,Técnico
+E03150,Auxiliar Operativo,23,1499487,206,Técnico
+E03151,Auxiliar Operativo,30,1550564,179,Técnico
+E03152,Auxiliar Operativo,33,1300000,205,Técnico
+E03153,Auxiliar Operativo,20,1638625,202,Bachiller
+E03154,Auxiliar Operativo,28,1620765,229,Técnico
+E03155,Auxiliar Operativo,27,1300000,221,Técnico
+E03156,Auxiliar Operativo,20,1537885,227,Técnico
+E03157,Auxiliar Operativo,31,1300000,163,Bachiller
+E03158,Auxiliar Operativo,32,1557644,212,Bachiller
+E03159,Auxiliar Operativo,24,1301041,192,Bachiller
+E03160,Auxiliar Operativo,25,1685520,218,Técnico
+E03161,Auxiliar Operativo,24,1300000,175,Bachiller
+E03162,Auxiliar Operativo,21,1314686,174,Técnico
+E03163,Auxiliar Operativo,33,1416621,178,Técnico
+E03164,Auxiliar Operativo,30,1593134,176,Técnico
+E03165,Auxiliar Operativo,39,1511731,187,Bachiller
+E03166,Auxiliar Operativo,31,1496438,167,Bachiller
+E03167,Auxiliar Operativo,28,1836726,207,Técnico
+E03168,Auxiliar Operativo,37,1345781,217,Técnico
+E03169,Auxiliar Operativo,39,1550800,179,Técnico
+E03170,Auxiliar Operativo,32,1441431,183,Bachiller
+E03171,Auxiliar Operativo,27,1300000,226,Bachiller
+E03172,Auxiliar Operativo,20,1664451,199,Técnico
+E03173,Auxiliar Operativo,39,1596944,183,Bachiller
+E03174,Auxiliar Operativo,35,1300000,189,Bachiller
+E03175,Auxiliar Operativo,32,1300000,204,Bachiller
+E03176,Auxiliar Operativo,25,1685511,202,Técnico
+E03177,Auxiliar Operativo,22,1420265,173,Técnico
+E03178,Auxiliar Operativo,23,1637678,206,Técnico
+E03179,Auxiliar Operativo,39,1324738,202,Bachiller
+E03180,Auxiliar Operativo,27,1379065,197,Técnico
+E03181,Auxiliar Operativo,33,1310910,190,Bachiller
+E03182,Auxiliar Operativo,31,1403131,221,Bachiller
+E03183,Auxiliar Operativo,29,1584185,191,Bachiller
+E03184,Auxiliar Operativo,27,1551004,165,Técnico
+E03185,Auxiliar Operativo,34,1500672,161,Técnico
+E03186,Auxiliar Operativo,31,1336070,177,Bachiller
+E03187,Auxiliar Operativo,38,1300000,195,Técnico
+E03188,Auxiliar Operativo,30,1300000,190,Bachiller
+E03189,Auxiliar Operativo,21,1300000,200,Técnico
+E03190,Auxiliar Operativo,26,1328137,185,Bachiller
+E03191,Auxiliar Operativo,29,1322098,196,Bachiller
+E03192,Auxiliar Operativo,29,1367331,169,Técnico
+E03193,Auxiliar Operativo,29,1376723,179,Técnico
+E03194,Auxiliar Operativo,37,1606776,202,Técnico
+E03195,Auxiliar Operativo,39,1576057,222,Técnico
+E03196,Auxiliar Operativo,34,1378159,215,Bachiller
+E03197,Auxiliar Operativo,22,1457944,216,Técnico
+E03198,Auxiliar Operativo,31,1373440,184,Técnico
+E03199,Auxiliar Operativo,27,1493079,205,Bachiller
+E03200,Auxiliar Operativo,35,1413039,190,Bachiller
+E03201,Auxiliar Operativo,35,1597046,213,Técnico
+E03202,Auxiliar Operativo,31,1469827,188,Bachiller
+E03203,Auxiliar Operativo,26,1300000,166,Bachiller
+E03204,Auxiliar Operativo,24,1626357,193,Técnico
+E03205,Auxiliar Operativo,20,1541331,228,Técnico
+E03206,Auxiliar Operativo,29,1714666,186,Técnico
+E03207,Auxiliar Operativo,36,1506779,162,Técnico
+E03208,Auxiliar Operativo,31,1310518,194,Bachiller
+E03209,Auxiliar Operativo,31,1466782,185,Técnico
+E03210,Auxiliar Operativo,26,1513304,215,Bachiller
+E03211,Auxiliar Operativo,32,1335147,204,Bachiller
+E03212,Auxiliar Operativo,24,1347198,176,Bachiller
+E03213,Auxiliar Operativo,28,1323055,174,Bachiller
+E03214,Auxiliar Operativo,23,1300000,189,Bachiller
+E03215,Auxiliar Operativo,28,1479086,196,Técnico
+E03216,Auxiliar Operativo,30,1300000,174,Bachiller
+E03217,Auxiliar Operativo,38,1507236,216,Bachiller
+E03218,Auxiliar Operativo,27,1474758,165,Bachiller
+E03219,Auxiliar Operativo,32,1455048,207,Técnico
+E03220,Auxiliar Operativo,33,1628333,206,Técnico
+E03221,Auxiliar Operativo,24,1538455,215,Bachiller
+E03222,Auxiliar Operativo,20,1300000,160,Bachiller
+E03223,Auxiliar Operativo,20,1583886,208,Técnico
+E03224,Auxiliar Operativo,29,1300000,217,Bachiller
+E03225,Auxiliar Operativo,27,1649994,220,Técnico
+E03226,Auxiliar Operativo,31,1578735,186,Técnico
+E03227,Auxiliar Operativo,32,1481101,204,Técnico
+E03228,Auxiliar Operativo,21,1580437,206,Técnico
+E03229,Auxiliar Operativo,22,1702398,204,Técnico
+E03230,Auxiliar Operativo,23,1582191,193,Técnico
+E03231,Auxiliar Operativo,31,1589079,167,Técnico
+E03232,Auxiliar Operativo,32,1400348,180,Técnico
+E03233,Auxiliar Operativo,29,1378836,207,Técnico
+E03234,Auxiliar Operativo,32,1300000,176,Bachiller
+E03235,Auxiliar Operativo,29,1578112,196,Técnico
+E03236,Auxiliar Operativo,36,1603838,223,Técnico
+E03237,Auxiliar Operativo,20,1484096,221,Bachiller
+E03238,Auxiliar Operativo,20,1488499,196,Bachiller
+E03239,Auxiliar Operativo,35,1300000,193,Bachiller
+E03240,Auxiliar Operativo,32,1653746,202,Técnico
+E03241,Auxiliar Operativo,27,1626446,181,Técnico
+E03242,Auxiliar Operativo,28,1416040,200,Bachiller
+E03243,Auxiliar Operativo,39,1611861,180,Técnico
+E03244,Auxiliar Operativo,35,1363936,209,Técnico
+E03245,Auxiliar Operativo,23,1506750,182,Técnico
+E03246,Auxiliar Operativo,39,1610055,175,Bachiller
+E03247,Auxiliar Operativo,37,1664217,177,Bachiller
+E03248,Auxiliar Operativo,29,1450796,207,Técnico
+E03249,Auxiliar Operativo,21,1321242,228,Bachiller
+E03250,Auxiliar Operativo,25,1519284,198,Bachiller
+E03251,Auxiliar Operativo,21,1699955,165,Técnico
+E03252,Auxiliar Operativo,38,1492551,211,Bachiller
+E03253,Auxiliar Operativo,27,1515684,191,Técnico
+E03254,Auxiliar Operativo,29,1437264,185,Bachiller
+E03255,Auxiliar Operativo,29,1300000,160,Técnico
+E03256,Auxiliar Operativo,30,1300000,180,Bachiller
+E03257,Auxiliar Operativo,38,1521065,223,Bachiller
+E03258,Auxiliar Operativo,39,1544735,218,Bachiller
+E03259,Auxiliar Operativo,20,1400029,188,Bachiller
+E03260,Auxiliar Operativo,32,1385828,172,Bachiller
+E03261,Auxiliar Operativo,37,1678285,229,Técnico
+E03262,Auxiliar Operativo,28,1550259,202,Técnico
+E03263,Auxiliar Operativo,20,1911613,201,Bachiller
+E03264,Auxiliar Operativo,25,1559145,201,Técnico
+E03265,Auxiliar Operativo,29,1441851,206,Bachiller
+E03266,Auxiliar Operativo,29,1466525,207,Técnico
+E03267,Auxiliar Operativo,25,1337738,195,Bachiller
+E03268,Auxiliar Operativo,28,1590842,223,Técnico
+E03269,Auxiliar Operativo,33,1516231,177,Técnico
+E03270,Auxiliar Operativo,29,1511353,185,Bachiller
+E03271,Auxiliar Operativo,35,1519130,175,Técnico
+E03272,Auxiliar Operativo,26,1315044,198,Bachiller
+E03273,Auxiliar Operativo,24,1300000,196,Bachiller
+E03274,Auxiliar Operativo,25,1451631,219,Bachiller
+E03275,Auxiliar Operativo,37,1413147,166,Técnico
+E03276,Auxiliar Operativo,23,1663691,226,Técnico
+E03277,Auxiliar Operativo,33,1752074,199,Técnico
+E03278,Auxiliar Operativo,38,1429507,223,Técnico
+E03279,Auxiliar Operativo,23,1620855,187,Técnico
+E03280,Auxiliar Operativo,28,1300000,188,Bachiller
+E03281,Auxiliar Operativo,34,1432556,190,Bachiller
+E03282,Auxiliar Operativo,24,1300000,211,Técnico
+E03283,Auxiliar Operativo,25,1438828,210,Técnico
+E03284,Auxiliar Operativo,28,1300000,227,Bachiller
+E03285,Auxiliar Operativo,27,1300000,194,Bachiller
+E03286,Auxiliar Operativo,21,1738744,161,Técnico
+E03287,Auxiliar Operativo,31,1420113,214,Técnico
+E03288,Auxiliar Operativo,27,1317785,212,Bachiller
+E03289,Auxiliar Operativo,39,1374140,170,Bachiller
+E03290,Auxiliar Operativo,20,1300000,228,Bachiller
+E03291,Auxiliar Operativo,33,1300000,171,Técnico
+E03292,Auxiliar Operativo,23,1407750,172,Bachiller
+E03293,Auxiliar Operativo,32,1504567,219,Bachiller
+E03294,Auxiliar Operativo,21,1300000,179,Bachiller
+E03295,Auxiliar Operativo,20,1404317,222,Bachiller
+E03296,Auxiliar Operativo,27,1300000,190,Bachiller
+E03297,Auxiliar Operativo,39,1375700,182,Bachiller
+E03298,Auxiliar Operativo,29,1571665,164,Técnico
+E03299,Auxiliar Operativo,32,1417283,222,Técnico
+E03300,Auxiliar Operativo,39,1345104,200,Bachiller
+E03301,Auxiliar Operativo,29,1691586,172,Bachiller
+E03302,Auxiliar Operativo,23,1511788,213,Técnico
+E03303,Auxiliar Operativo,39,1486369,208,Técnico
+E03304,Auxiliar Operativo,37,1478077,198,Bachiller
+E03305,Auxiliar Operativo,26,1422401,206,Bachiller
+E03306,Auxiliar Operativo,24,1580809,167,Bachiller
+E03307,Auxiliar Operativo,36,1718843,169,Técnico
+E03308,Auxiliar Operativo,21,1391873,211,Técnico
+E03309,Auxiliar Operativo,36,1780911,168,Técnico
+E03310,Auxiliar Operativo,30,1300000,227,Bachiller
+E03311,Auxiliar Operativo,31,1394568,208,Técnico
+E03312,Auxiliar Operativo,20,1386403,219,Técnico
+E03313,Auxiliar Operativo,28,1452101,206,Técnico
+E03314,Auxiliar Operativo,26,1300000,207,Bachiller
+E03315,Auxiliar Operativo,22,1300000,160,Bachiller
+E03316,Auxiliar Operativo,20,1300000,214,Bachiller
+E03317,Auxiliar Operativo,37,1300000,165,Bachiller
+E03318,Auxiliar Operativo,22,1510311,204,Técnico
+E03319,Auxiliar Operativo,38,1357926,190,Bachiller
+E03320,Auxiliar Operativo,23,1488044,221,Bachiller
+E03321,Auxiliar Operativo,25,1423804,208,Bachiller
+E03322,Auxiliar Operativo,38,1578077,195,Técnico
+E03323,Auxiliar Operativo,30,1300000,178,Técnico
+E03324,Auxiliar Operativo,27,1300000,173,Bachiller
+E03325,Auxiliar Operativo,28,1460779,161,Técnico
+E03326,Auxiliar Operativo,26,1537777,192,Técnico
+E03327,Auxiliar Operativo,39,1616236,215,Técnico
+E03328,Auxiliar Operativo,30,1418338,224,Técnico
+E03329,Auxiliar Operativo,26,1300000,215,Bachiller
+E03330,Auxiliar Operativo,36,1300000,160,Bachiller
+E03331,Auxiliar Operativo,39,1437433,168,Bachiller
+E03332,Auxiliar Operativo,30,1300000,160,Bachiller
+E03333,Auxiliar Operativo,30,1382507,198,Bachiller
+E03334,Auxiliar Operativo,32,1366294,176,Bachiller
+E03335,Auxiliar Operativo,33,1727204,202,Técnico
+E03336,Auxiliar Operativo,33,1562097,228,Técnico
+E03337,Auxiliar Operativo,24,1651296,204,Técnico
+E03338,Auxiliar Operativo,36,1380105,208,Bachiller
+E03339,Auxiliar Operativo,27,1388314,173,Bachiller
+E03340,Auxiliar Operativo,20,1471780,216,Bachiller
+E03341,Auxiliar Operativo,39,1300000,206,Bachiller
+E03342,Auxiliar Operativo,34,1469134,192,Bachiller
+E03343,Auxiliar Operativo,27,1361473,222,Técnico
+E03344,Auxiliar Operativo,37,1642219,190,Técnico
+E03345,Auxiliar Operativo,31,1606984,206,Técnico
+E03346,Auxiliar Operativo,25,1621242,191,Técnico
+E03347,Auxiliar Operativo,36,1343135,169,Bachiller
+E03348,Auxiliar Operativo,30,1366583,214,Bachiller
+E03349,Auxiliar Operativo,25,1726285,199,Técnico
+E03350,Auxiliar Operativo,35,1553683,179,Bachiller
+E03351,Auxiliar Operativo,29,1682005,229,Bachiller
+E03352,Auxiliar Operativo,28,1544864,212,Bachiller
+E03353,Auxiliar Operativo,27,1476512,222,Técnico
+E03354,Auxiliar Operativo,20,1558355,199,Técnico
+E03355,Auxiliar Operativo,25,1425809,170,Bachiller
+E03356,Auxiliar Operativo,35,1406693,178,Bachiller
+E03357,Auxiliar Operativo,27,1378749,201,Bachiller
+E03358,Auxiliar Operativo,23,1598047,162,Bachiller
+E03359,Auxiliar Operativo,25,1426403,168,Bachiller
+E03360,Auxiliar Operativo,32,1300000,194,Bachiller
+E03361,Auxiliar Operativo,33,1541447,163,Bachiller
+E03362,Auxiliar Operativo,27,1464673,218,Técnico
+E03363,Auxiliar Operativo,23,1368466,214,Técnico
+E03364,Auxiliar Operativo,30,1724071,203,Técnico
+E03365,Auxiliar Operativo,30,1728660,160,Técnico
+E03366,Auxiliar Operativo,39,1535360,219,Técnico
+E03367,Auxiliar Operativo,39,1300000,197,Técnico
+E03368,Auxiliar Operativo,29,1483768,167,Técnico
+E03369,Auxiliar Operativo,36,1446229,185,Bachiller
+E03370,Auxiliar Operativo,39,1300000,160,Bachiller
+E03371,Auxiliar Operativo,22,1481063,226,Bachiller
+E03372,Auxiliar Operativo,37,1300000,223,Bachiller
+E03373,Auxiliar Operativo,34,1326129,211,Bachiller
+E03374,Auxiliar Operativo,29,1300000,224,Técnico
+E03375,Auxiliar Operativo,24,1528864,190,Técnico
+E03376,Auxiliar Operativo,29,1493180,187,Bachiller
+E03377,Auxiliar Operativo,23,1716444,168,Técnico
+E03378,Auxiliar Operativo,27,1348761,200,Bachiller
+E03379,Auxiliar Operativo,39,1469931,206,Técnico
+E03380,Auxiliar Operativo,27,1479045,179,Técnico
+E03381,Auxiliar Operativo,37,1737434,217,Técnico
+E03382,Auxiliar Operativo,21,1340981,191,Bachiller
+E03383,Auxiliar Operativo,32,1300000,161,Bachiller
+E03384,Auxiliar Operativo,35,1350065,218,Bachiller
+E03385,Auxiliar Operativo,21,1484290,215,Técnico
+E03386,Auxiliar Operativo,29,1543852,193,Técnico
+E03387,Auxiliar Operativo,29,1585728,198,Técnico
+E03388,Auxiliar Operativo,29,1662899,164,Técnico
+E03389,Auxiliar Operativo,20,1300000,200,Bachiller
+E03390,Auxiliar Operativo,34,1475567,166,Bachiller
+E03391,Auxiliar Operativo,22,1590949,165,Bachiller
+E03392,Auxiliar Operativo,27,1359927,192,Bachiller
+E03393,Auxiliar Operativo,35,1812395,184,Técnico
+E03394,Auxiliar Operativo,20,1300000,174,Bachiller
+E03395,Auxiliar Operativo,31,1454919,218,Bachiller
+E03396,Auxiliar Operativo,20,1496215,167,Bachiller
+E03397,Auxiliar Operativo,34,1300000,209,Bachiller
+E03398,Auxiliar Operativo,32,1589445,168,Técnico
+E03399,Auxiliar Operativo,33,1727912,199,Técnico
+E03400,Auxiliar Operativo,20,1710652,169,Técnico
+E03401,Auxiliar Operativo,31,1717874,219,Técnico
+E03402,Auxiliar Operativo,38,1717189,185,Técnico
+E03403,Auxiliar Operativo,23,1422637,211,Bachiller
+E03404,Auxiliar Operativo,33,1548116,194,Técnico
+E03405,Auxiliar Operativo,31,1520086,228,Técnico
+E03406,Auxiliar Operativo,31,1381783,229,Bachiller
+E03407,Auxiliar Operativo,21,1452926,213,Bachiller
+E03408,Auxiliar Operativo,21,1350197,176,Bachiller
+E03409,Auxiliar Operativo,20,1471947,215,Técnico
+E03410,Auxiliar Operativo,35,1376946,162,Bachiller
+E03411,Auxiliar Operativo,29,1573514,227,Técnico
+E03412,Auxiliar Operativo,28,1300000,189,Técnico
+E03413,Auxiliar Operativo,28,1507868,178,Bachiller
+E03414,Auxiliar Operativo,30,1492242,226,Técnico
+E03415,Auxiliar Operativo,26,1774342,171,Técnico
+E03416,Auxiliar Operativo,35,1536332,195,Técnico
+E03417,Auxiliar Operativo,26,1356910,180,Bachiller
+E03418,Auxiliar Operativo,37,1424931,188,Técnico
+E03419,Auxiliar Operativo,32,1469688,225,Bachiller
+E03420,Auxiliar Operativo,23,1745016,223,Bachiller
+E03421,Auxiliar Operativo,26,1340413,163,Bachiller
+E03422,Auxiliar Operativo,21,1605133,213,Técnico
+E03423,Auxiliar Operativo,32,1471764,164,Técnico
+E03424,Auxiliar Operativo,24,1300000,208,Bachiller
+E03425,Auxiliar Operativo,23,1647282,194,Bachiller
+E03426,Auxiliar Operativo,34,1318782,161,Bachiller
+E03427,Auxiliar Operativo,34,1750038,202,Técnico
+E03428,Auxiliar Operativo,33,1546190,189,Técnico
+E03429,Auxiliar Operativo,24,1300000,221,Bachiller
+E03430,Auxiliar Operativo,20,1384425,160,Bachiller
+E03431,Auxiliar Operativo,24,1407089,212,Técnico
+E03432,Auxiliar Operativo,28,1597762,178,Técnico
+E03433,Auxiliar Operativo,28,1443702,163,Bachiller
+E03434,Auxiliar Operativo,23,1508092,214,Bachiller
+E03435,Auxiliar Operativo,25,1431416,191,Técnico
+E03436,Auxiliar Operativo,20,1526113,193,Técnico
+E03437,Auxiliar Operativo,34,1535919,178,Técnico
+E03438,Auxiliar Operativo,31,1443846,185,Bachiller
+E03439,Auxiliar Operativo,22,1416077,186,Bachiller
+E03440,Auxiliar Operativo,37,1381488,186,Técnico
+E03441,Auxiliar Operativo,28,1413671,196,Bachiller
+E03442,Auxiliar Operativo,35,1512035,178,Técnico
+E03443,Auxiliar Operativo,33,1590705,161,Técnico
+E03444,Auxiliar Operativo,29,1300000,210,Bachiller
+E03445,Auxiliar Operativo,37,1431069,178,Bachiller
+E03446,Auxiliar Operativo,29,1350036,187,Bachiller
+E03447,Auxiliar Operativo,33,1389122,179,Bachiller
+E03448,Auxiliar Operativo,22,1667774,218,Técnico
+E03449,Auxiliar Operativo,29,1550771,202,Técnico
+E03450,Auxiliar Operativo,21,1300000,174,Técnico
+E03451,Auxiliar Operativo,37,1300000,206,Bachiller
+E03452,Auxiliar Operativo,23,1674461,229,Técnico
+E03453,Auxiliar Operativo,36,1560314,161,Técnico
+E03454,Auxiliar Operativo,25,1389783,166,Técnico
+E03455,Auxiliar Operativo,26,1382667,182,Bachiller
+E03456,Auxiliar Operativo,33,1372854,174,Bachiller
+E03457,Auxiliar Operativo,27,1675585,161,Técnico
+E03458,Auxiliar Operativo,23,1300000,211,Bachiller
+E03459,Auxiliar Operativo,33,1300000,168,Bachiller
+E03460,Auxiliar Operativo,21,1743120,192,Técnico
+E03461,Auxiliar Operativo,32,1421221,191,Bachiller
+E03462,Auxiliar Operativo,37,1519265,183,Técnico
+E03463,Auxiliar Operativo,32,1534203,201,Técnico
+E03464,Auxiliar Operativo,29,1529177,224,Bachiller
+E03465,Auxiliar Operativo,31,1646230,221,Técnico
+E03466,Auxiliar Operativo,29,1309828,175,Bachiller
+E03467,Auxiliar Operativo,37,1300000,227,Bachiller
+E03468,Auxiliar Operativo,22,1300000,171,Bachiller
+E03469,Auxiliar Operativo,26,1300000,160,Técnico
+E03470,Auxiliar Operativo,30,1487773,173,Técnico
+E03471,Auxiliar Operativo,32,1559361,172,Bachiller
+E03472,Auxiliar Operativo,37,1303227,225,Bachiller
+E03473,Auxiliar Operativo,23,1595521,179,Técnico
+E03474,Auxiliar Operativo,26,1378137,220,Técnico
+E03475,Auxiliar Operativo,22,1318845,166,Bachiller
+E03476,Auxiliar Operativo,30,1580116,197,Técnico
+E03477,Auxiliar Operativo,23,1550499,210,Técnico
+E03478,Auxiliar Operativo,25,1564158,164,Bachiller
+E03479,Auxiliar Operativo,29,1489989,163,Técnico
+E03480,Auxiliar Operativo,27,1397655,180,Técnico
+E03481,Auxiliar Operativo,23,1300000,173,Bachiller
+E03482,Auxiliar Operativo,34,1658404,167,Técnico
+E03483,Auxiliar Operativo,33,1371794,192,Bachiller
+E03484,Auxiliar Operativo,29,1300000,185,Bachiller
+E03485,Auxiliar Operativo,22,1462676,200,Bachiller
+E03486,Auxiliar Operativo,22,1558324,177,Bachiller
+E03487,Auxiliar Operativo,29,1534702,224,Bachiller
+E03488,Auxiliar Operativo,34,1300000,160,Bachiller
+E03489,Auxiliar Operativo,33,1441454,225,Técnico
+E03490,Auxiliar Operativo,37,1339633,206,Técnico
+E03491,Auxiliar Operativo,39,1438164,223,Bachiller
+E03492,Auxiliar Operativo,36,1799253,195,Técnico
+E03493,Auxiliar Operativo,32,1613524,182,Técnico
+E03494,Auxiliar Operativo,24,1598561,227,Técnico
+E03495,Auxiliar Operativo,23,1349875,188,Bachiller
+E03496,Auxiliar Operativo,23,1300000,196,Bachiller
+E03497,Auxiliar Operativo,25,1593876,226,Técnico
+E03498,Auxiliar Operativo,33,1300000,162,Bachiller
+E03499,Auxiliar Operativo,39,1382250,194,Bachiller
+E03500,Auxiliar Operativo,38,1405672,169,Bachiller
+E03501,Auxiliar Operativo,20,1442132,181,Bachiller
+E03502,Auxiliar Operativo,31,1411874,196,Bachiller
+E03503,Auxiliar Operativo,20,1459206,197,Bachiller
+E03504,Auxiliar Operativo,28,1728294,192,Bachiller
+E03505,Auxiliar Operativo,27,1549084,218,Bachiller
+E03506,Auxiliar Operativo,35,1300000,215,Técnico
+E03507,Auxiliar Operativo,25,1411880,179,Bachiller
+E03508,Auxiliar Operativo,39,1300000,182,Bachiller
+E03509,Auxiliar Operativo,34,1300000,170,Bachiller
+E03510,Auxiliar Operativo,27,1595070,195,Técnico
+E03511,Auxiliar Operativo,38,1407410,219,Bachiller
+E03512,Auxiliar Operativo,39,1300000,176,Bachiller
+E03513,Auxiliar Operativo,20,1497715,205,Técnico
+E03514,Auxiliar Operativo,27,1516268,193,Técnico
+E03515,Auxiliar Operativo,26,1664671,194,Técnico
+E03516,Auxiliar Operativo,28,1459036,194,Técnico
+E03517,Auxiliar Operativo,32,1451358,201,Bachiller
+E03518,Auxiliar Operativo,37,1355401,162,Bachiller
+E03519,Auxiliar Operativo,34,1530527,217,Técnico
+E03520,Auxiliar Operativo,39,1300000,213,Bachiller
+E03521,Auxiliar Operativo,38,1300000,221,Bachiller
+E03522,Auxiliar Operativo,25,1300000,195,Bachiller
+E03523,Auxiliar Operativo,36,1438876,221,Técnico
+E03524,Auxiliar Operativo,26,1554675,225,Bachiller
+E03525,Auxiliar Operativo,34,1626681,209,Técnico
+E03526,Auxiliar Operativo,27,1417074,170,Bachiller
+E03527,Auxiliar Operativo,37,1610590,219,Técnico
+E03528,Auxiliar Operativo,33,1489628,221,Técnico
+E03529,Auxiliar Operativo,35,1446624,180,Bachiller
+E03530,Auxiliar Operativo,36,1555668,208,Técnico
+E03531,Auxiliar Operativo,22,1582273,175,Técnico
+E03532,Auxiliar Operativo,36,1544050,160,Bachiller
+E03533,Auxiliar Operativo,32,1300000,171,Bachiller
+E03534,Auxiliar Operativo,25,1687096,205,Técnico
+E03535,Auxiliar Operativo,36,1419596,207,Técnico
+E03536,Auxiliar Operativo,21,1300000,193,Técnico
+E03537,Auxiliar Operativo,39,1530609,160,Bachiller
+E03538,Auxiliar Operativo,37,1440667,201,Bachiller
+E03539,Auxiliar Operativo,24,1844222,220,Técnico
+E03540,Auxiliar Operativo,34,1300000,211,Técnico
+E03541,Auxiliar Operativo,30,1300000,187,Técnico
+E03542,Auxiliar Operativo,23,1568183,189,Técnico
+E03543,Auxiliar Operativo,23,1300000,190,Bachiller
+E03544,Auxiliar Operativo,20,1525786,215,Bachiller
+E03545,Auxiliar Operativo,31,1549108,205,Bachiller
+E03546,Auxiliar Operativo,29,1426927,195,Técnico
+E03547,Auxiliar Operativo,28,1502828,174,Técnico
+E03548,Auxiliar Operativo,25,1300000,176,Bachiller
+E03549,Auxiliar Operativo,21,1300000,205,Bachiller
+E03550,Auxiliar Operativo,33,1300000,185,Bachiller
+E03551,Auxiliar Operativo,37,1762742,197,Técnico
+E03552,Auxiliar Operativo,39,1579332,167,Técnico
+E03553,Auxiliar Operativo,21,1300000,183,Bachiller
+E03554,Auxiliar Operativo,20,1300000,198,Bachiller
+E03555,Auxiliar Operativo,36,1300000,225,Bachiller
+E03556,Auxiliar Operativo,32,1300000,171,Técnico
+E03557,Auxiliar Operativo,21,1540029,225,Técnico
+E03558,Auxiliar Operativo,26,1712947,167,Técnico
+E03559,Auxiliar Operativo,29,1312508,196,Técnico
+E03560,Auxiliar Operativo,26,1700102,213,Técnico
+E03561,Auxiliar Operativo,29,1505457,172,Técnico
+E03562,Auxiliar Operativo,38,1486565,200,Técnico
+E03563,Auxiliar Operativo,26,1307107,214,Técnico
+E03564,Auxiliar Operativo,26,1300000,186,Bachiller
+E03565,Auxiliar Operativo,20,1300000,214,Técnico
+E03566,Auxiliar Operativo,25,1683137,198,Técnico
+E03567,Auxiliar Operativo,33,1716342,203,Técnico
+E03568,Auxiliar Operativo,27,1300000,166,Bachiller
+E03569,Auxiliar Operativo,30,1567029,205,Técnico
+E03570,Auxiliar Operativo,31,1300000,168,Bachiller
+E03571,Auxiliar Operativo,37,1477382,201,Técnico
+E03572,Auxiliar Operativo,24,1525230,184,Técnico
+E03573,Auxiliar Operativo,33,1422088,163,Técnico
+E03574,Auxiliar Operativo,35,1300000,177,Bachiller
+E03575,Auxiliar Operativo,28,1402444,169,Técnico
+E03576,Auxiliar Operativo,22,1309573,184,Técnico
+E03577,Auxiliar Operativo,21,1559545,222,Técnico
+E03578,Auxiliar Operativo,32,1462334,181,Técnico
+E03579,Auxiliar Operativo,24,1579784,185,Técnico
+E03580,Auxiliar Operativo,23,1395891,209,Bachiller
+E03581,Auxiliar Operativo,34,1300000,168,Bachiller
+E03582,Auxiliar Operativo,22,1448279,164,Bachiller
+E03583,Auxiliar Operativo,21,1446032,189,Técnico
+E03584,Auxiliar Operativo,34,1422020,215,Bachiller
+E03585,Auxiliar Operativo,27,1480531,175,Técnico
+E03586,Auxiliar Operativo,32,1491677,188,Bachiller
+E03587,Auxiliar Operativo,32,1429663,221,Bachiller
+E03588,Auxiliar Operativo,31,1413814,207,Bachiller
+E03589,Auxiliar Operativo,23,1300000,178,Bachiller
+E03590,Auxiliar Operativo,21,1471513,187,Técnico
+E03591,Auxiliar Operativo,37,1414795,221,Técnico
+E03592,Auxiliar Operativo,38,1460438,192,Bachiller
+E03593,Auxiliar Operativo,25,1300000,172,Bachiller
+E03594,Auxiliar Operativo,35,1581209,222,Técnico
+E03595,Auxiliar Operativo,30,1437277,181,Técnico
+E03596,Auxiliar Operativo,29,1366534,184,Bachiller
+E03597,Auxiliar Operativo,24,1300000,161,Bachiller
+E03598,Auxiliar Operativo,36,1780430,227,Técnico
+E03599,Auxiliar Operativo,30,1690231,208,Técnico
+E03600,Auxiliar Operativo,35,1328496,190,Bachiller
+E03601,Auxiliar Operativo,27,1300000,187,Bachiller
+E03602,Auxiliar Operativo,30,1677626,205,Técnico
+E03603,Auxiliar Operativo,26,1409782,166,Bachiller
+E03604,Auxiliar Operativo,23,1300000,209,Bachiller
+E03605,Auxiliar Operativo,29,1474736,188,Bachiller
+E03606,Auxiliar Operativo,33,1306477,225,Técnico
+E03607,Auxiliar Operativo,29,1650719,213,Técnico
+E03608,Auxiliar Operativo,31,1700777,195,Técnico
+E03609,Auxiliar Operativo,21,1534360,169,Bachiller
+E03610,Auxiliar Operativo,22,1401494,218,Técnico
+E03611,Auxiliar Operativo,30,1619169,182,Técnico
+E03612,Seguridad,49,1563594,180,Bachiller
+E03613,Seguridad,54,1608902,161,Bachiller
+E03614,Seguridad,38,1300000,226,Bachiller
+E03615,Seguridad,31,1668340,204,Bachiller
+E03616,Seguridad,44,1565213,181,Bachiller
+E03617,Seguridad,50,1326467,175,Bachiller
+E03618,Seguridad,42,1532054,200,Bachiller
+E03619,Seguridad,53,1616336,206,Bachiller
+E03620,Seguridad,52,1613129,224,Bachiller
+E03621,Seguridad,43,1621844,170,Bachiller
+E03622,Seguridad,49,1529697,187,Bachiller
+E03623,Seguridad,35,1578055,166,Bachiller
+E03624,Seguridad,50,1709922,185,Bachiller
+E03625,Seguridad,32,1541989,193,Bachiller
+E03626,Seguridad,42,1690278,182,Bachiller
+E03627,Seguridad,36,1362958,195,Bachiller
+E03628,Seguridad,31,1736908,196,Bachiller
+E03629,Seguridad,44,1524606,176,Bachiller
+E03630,Seguridad,38,1468358,170,Bachiller
+E03631,Seguridad,25,1688206,165,Bachiller
+E03632,Seguridad,47,1588332,194,Bachiller
+E03633,Seguridad,27,1760440,161,Bachiller
+E03634,Seguridad,25,1480489,176,Bachiller
+E03635,Seguridad,45,1635328,195,Bachiller
+E03636,Seguridad,53,1659310,227,Bachiller
+E03637,Seguridad,33,1798434,206,Bachiller
+E03638,Seguridad,39,1559815,206,Bachiller
+E03639,Seguridad,36,1499112,174,Bachiller
+E03640,Seguridad,49,1418221,206,Bachiller
+E03641,Seguridad,39,1513773,218,Bachiller
+E03642,Seguridad,37,1640337,188,Bachiller
+E03643,Seguridad,42,1495082,198,Bachiller
+E03644,Seguridad,29,1440964,223,Bachiller
+E03645,Seguridad,36,1699465,160,Bachiller
+E03646,Seguridad,51,1501837,173,Bachiller
+E03647,Seguridad,30,1339045,194,Bachiller
+E03648,Seguridad,37,1799630,192,Bachiller
+E03649,Seguridad,38,1562072,201,Bachiller
+E03650,Seguridad,27,1498149,167,Bachiller
+E03651,Seguridad,52,1535098,226,Bachiller
+E03652,Seguridad,49,1705360,193,Bachiller
+E03653,Seguridad,42,1492365,176,Bachiller
+E03654,Seguridad,41,1625212,221,Bachiller
+E03655,Seguridad,46,1324088,195,Bachiller
+E03656,Seguridad,52,1583393,222,Bachiller
+E03657,Seguridad,48,1575552,206,Bachiller
+E03658,Seguridad,43,1731189,184,Bachiller
+E03659,Seguridad,46,1300000,199,Bachiller
+E03660,Seguridad,32,1788674,204,Bachiller
+E03661,Seguridad,46,1432255,172,Bachiller
+E03662,Seguridad,48,1487280,179,Bachiller
+E03663,Seguridad,46,1421325,174,Bachiller
+E03664,Seguridad,25,1506128,204,Bachiller
+E03665,Seguridad,35,1456236,191,Bachiller
+E03666,Seguridad,45,1495086,170,Bachiller
+E03667,Seguridad,36,1306420,220,Bachiller
+E03668,Seguridad,52,1485640,211,Bachiller
+E03669,Seguridad,53,1567834,197,Bachiller
+E03670,Seguridad,29,1508883,194,Bachiller
+E03671,Seguridad,32,1303265,199,Bachiller
+E03672,Seguridad,28,1351532,175,Bachiller
+E03673,Seguridad,32,1493516,184,Bachiller
+E03674,Seguridad,27,1300000,225,Bachiller
+E03675,Seguridad,51,1613674,183,Bachiller
+E03676,Seguridad,44,1451870,184,Bachiller
+E03677,Seguridad,51,1435230,189,Bachiller
+E03678,Seguridad,41,1492783,217,Bachiller
+E03679,Seguridad,34,1303170,190,Bachiller
+E03680,Seguridad,38,1473083,173,Bachiller
+E03681,Seguridad,47,1300000,196,Bachiller
+E03682,Seguridad,51,1757007,173,Bachiller
+E03683,Seguridad,47,1312173,193,Bachiller
+E03684,Seguridad,28,1428583,162,Bachiller
+E03685,Seguridad,26,1574842,168,Bachiller
+E03686,Seguridad,41,1490114,173,Bachiller
+E03687,Seguridad,50,1647503,210,Bachiller
+E03688,Seguridad,52,1416523,209,Bachiller
+E03689,Seguridad,54,1780664,213,Bachiller
+E03690,Seguridad,54,1300000,214,Bachiller
+E03691,Seguridad,45,1300000,175,Bachiller
+E03692,Seguridad,29,1650543,202,Bachiller
+E03693,Seguridad,46,1616103,207,Bachiller
+E03694,Seguridad,31,1709370,206,Bachiller
+E03695,Seguridad,48,1409566,202,Bachiller
+E03696,Seguridad,43,1674165,204,Bachiller
+E03697,Seguridad,39,1408669,210,Bachiller
+E03698,Seguridad,45,1300000,166,Bachiller
+E03699,Seguridad,46,1754382,160,Bachiller
+E03700,Seguridad,46,1448067,201,Bachiller
+E03701,Seguridad,48,1576407,193,Bachiller
+E03702,Seguridad,38,1671714,223,Bachiller
+E03703,Seguridad,45,1411209,224,Bachiller
+E03704,Seguridad,54,1497959,191,Bachiller
+E03705,Seguridad,27,1712498,181,Bachiller
+E03706,Seguridad,49,1595779,213,Bachiller
+E03707,Seguridad,43,1467947,209,Bachiller
+E03708,Seguridad,51,1548027,208,Bachiller
+E03709,Seguridad,47,1855871,191,Bachiller
+E03710,Seguridad,38,1794721,162,Bachiller
+E03711,Seguridad,37,1529659,193,Bachiller
+E03712,Seguridad,37,1507471,222,Bachiller
+E03713,Seguridad,28,1560299,175,Bachiller
+E03714,Seguridad,53,1496892,192,Bachiller
+E03715,Seguridad,40,1702730,221,Bachiller
+E03716,Seguridad,49,1379169,171,Bachiller
+E03717,Seguridad,39,1468064,221,Bachiller
+E03718,Seguridad,38,1475944,175,Bachiller
+E03719,Seguridad,28,1351947,222,Bachiller
+E03720,Seguridad,39,1585303,185,Bachiller
+E03721,Seguridad,47,1597238,167,Bachiller
+E03722,Seguridad,25,1591062,169,Bachiller
+E03723,Seguridad,46,1300000,170,Bachiller
+E03724,Seguridad,48,1890941,203,Bachiller
+E03725,Seguridad,48,1340957,213,Bachiller
+E03726,Seguridad,34,1550932,173,Bachiller
+E03727,Seguridad,33,1403480,193,Bachiller
+E03728,Seguridad,44,1617722,222,Bachiller
+E03729,Seguridad,29,1577477,220,Bachiller
+E03730,Seguridad,43,1488737,206,Bachiller
+E03731,Seguridad,35,1721010,192,Bachiller
+E03732,Seguridad,27,1793734,221,Bachiller
+E03733,Seguridad,48,1546687,210,Bachiller
+E03734,Seguridad,50,1586009,221,Bachiller
+E03735,Seguridad,26,1568817,201,Bachiller
+E03736,Seguridad,48,1654024,190,Bachiller
+E03737,Seguridad,50,1676060,221,Bachiller
+E03738,Seguridad,30,1481647,188,Bachiller
+E03739,Seguridad,46,1518695,209,Bachiller
+E03740,Seguridad,41,1429706,215,Bachiller
+E03741,Seguridad,25,1439299,188,Bachiller
+E03742,Seguridad,35,1667687,167,Bachiller
+E03743,Seguridad,48,1493137,212,Bachiller
+E03744,Seguridad,40,1671691,190,Bachiller
+E03745,Seguridad,54,1491890,185,Bachiller
+E03746,Seguridad,30,1548092,161,Bachiller
+E03747,Seguridad,39,1520567,171,Bachiller
+E03748,Seguridad,36,1426905,219,Bachiller
+E03749,Seguridad,28,1571139,163,Bachiller
+E03750,Seguridad,52,1506853,201,Bachiller
+E03751,Seguridad,36,1672170,169,Bachiller
+E03752,Seguridad,40,1482830,199,Bachiller
+E03753,Seguridad,38,1350616,204,Bachiller
+E03754,Seguridad,54,1592758,228,Bachiller
+E03755,Seguridad,26,1559804,172,Bachiller
+E03756,Seguridad,33,1423623,216,Bachiller
+E03757,Seguridad,40,1571161,185,Bachiller
+E03758,Seguridad,34,1541898,210,Bachiller
+E03759,Seguridad,34,1432213,198,Bachiller
+E03760,Seguridad,36,1479398,193,Bachiller
+E03761,Seguridad,25,1685652,163,Bachiller
+E03762,Seguridad,28,1482387,217,Bachiller
+E03763,Seguridad,27,1437500,192,Bachiller
+E03764,Seguridad,46,1580049,198,Bachiller
+E03765,Seguridad,27,1526856,170,Bachiller
+E03766,Seguridad,42,1628178,214,Bachiller
+E03767,Seguridad,54,1430499,208,Bachiller
+E03768,Seguridad,33,1677156,201,Bachiller
+E03769,Seguridad,44,1300000,211,Bachiller
+E03770,Seguridad,43,1425216,187,Bachiller
+E03771,Seguridad,33,1604830,208,Bachiller
+E03772,Seguridad,29,1570343,173,Bachiller
+E03773,Seguridad,38,1304318,179,Bachiller
+E03774,Seguridad,46,1483417,225,Bachiller
+E03775,Seguridad,43,1351528,216,Bachiller
+E03776,Seguridad,26,1410134,205,Bachiller
+E03777,Seguridad,47,1645811,177,Bachiller
+E03778,Seguridad,33,1342573,176,Bachiller
+E03779,Seguridad,43,1575836,184,Bachiller
+E03780,Seguridad,33,1630316,178,Bachiller
+E03781,Seguridad,52,1829342,186,Bachiller
+E03782,Seguridad,30,1595542,223,Bachiller
+E03783,Seguridad,54,1554425,201,Bachiller
+E03784,Seguridad,54,1368190,171,Bachiller
+E03785,Seguridad,31,1327421,201,Bachiller
+E03786,Seguridad,38,1324627,190,Bachiller
+E03787,Seguridad,39,1300000,209,Bachiller
+E03788,Seguridad,31,1706000,207,Bachiller
+E03789,Seguridad,51,1675374,182,Bachiller
+E03790,Seguridad,50,1714892,209,Bachiller
+E03791,Seguridad,42,1438013,168,Bachiller
+E03792,Seguridad,50,1855997,165,Bachiller
+E03793,Seguridad,34,1723500,228,Bachiller
+E03794,Seguridad,41,1300000,171,Bachiller
+E03795,Seguridad,30,1666150,183,Bachiller
+E03796,Seguridad,26,1574488,170,Bachiller
+E03797,Seguridad,50,1595267,172,Bachiller
+E03798,Seguridad,52,1523934,179,Bachiller
+E03799,Seguridad,41,1420691,192,Bachiller
+E03800,Seguridad,53,1485026,188,Bachiller
+E03801,Seguridad,32,1554907,178,Bachiller
+E03802,Seguridad,35,1502596,188,Bachiller
+E03803,Seguridad,40,1471900,197,Bachiller
+E03804,Seguridad,31,1300000,222,Bachiller
+E03805,Seguridad,46,1650420,175,Bachiller
+E03806,Seguridad,35,1677732,198,Bachiller
+E03807,Seguridad,41,1620888,183,Bachiller
+E03808,Seguridad,31,1514151,216,Bachiller
+E03809,Seguridad,51,1573882,185,Bachiller
+E03810,Seguridad,46,1649067,171,Bachiller
+E03811,Seguridad,54,1524323,192,Bachiller
+E03812,Seguridad,39,1473070,201,Bachiller
+E03813,Seguridad,36,1300000,190,Bachiller
+E03814,Seguridad,26,1482407,175,Bachiller
+E03815,Seguridad,53,1452197,178,Bachiller
+E03816,Seguridad,42,1516276,222,Bachiller
+E03817,Seguridad,40,1300000,204,Bachiller
+E03818,Seguridad,29,1537016,181,Bachiller
+E03819,Seguridad,44,1453349,225,Bachiller
+E03820,Seguridad,41,1618765,224,Bachiller
+E03821,Seguridad,51,1664687,175,Bachiller
+E03822,Seguridad,52,1832865,205,Bachiller
+E03823,Seguridad,27,1580163,217,Bachiller
+E03824,Seguridad,48,1461432,166,Bachiller
+E03825,Seguridad,28,1520157,228,Bachiller
+E03826,Seguridad,33,1547731,212,Bachiller
+E03827,Seguridad,31,1501805,170,Bachiller
+E03828,Seguridad,39,1300000,197,Bachiller
+E03829,Seguridad,31,1556521,165,Bachiller
+E03830,Seguridad,41,1300000,183,Bachiller
+E03831,Seguridad,37,1364274,189,Bachiller
+E03832,Seguridad,53,1607682,186,Bachiller
+E03833,Seguridad,39,1608018,168,Bachiller
+E03834,Seguridad,27,1300000,165,Bachiller
+E03835,Seguridad,35,1714330,211,Bachiller
+E03836,Seguridad,40,1617427,228,Bachiller
+E03837,Seguridad,38,1639872,182,Bachiller
+E03838,Seguridad,46,1501448,172,Bachiller
+E03839,Seguridad,38,1607705,211,Bachiller
+E03840,Seguridad,32,1511237,224,Bachiller
+E03841,Seguridad,43,1316233,228,Bachiller
+E03842,Seguridad,30,1695688,213,Bachiller
+E03843,Seguridad,46,1641282,191,Bachiller
+E03844,Seguridad,47,1416991,173,Bachiller
+E03845,Seguridad,54,1577548,190,Bachiller
+E03846,Seguridad,50,1545804,183,Bachiller
+E03847,Seguridad,38,1389774,183,Bachiller
+E03848,Seguridad,36,1401540,173,Bachiller
+E03849,Seguridad,42,1705580,229,Bachiller
+E03850,Seguridad,39,1462598,227,Bachiller
+E03851,Seguridad,48,1693100,211,Bachiller
+E03852,Seguridad,33,1566963,222,Bachiller
+E03853,Seguridad,53,1496573,198,Bachiller
+E03854,Seguridad,40,1464669,218,Bachiller
+E03855,Seguridad,42,1404964,215,Bachiller
+E03856,Seguridad,41,1448095,196,Bachiller
+E03857,Seguridad,26,1457940,190,Bachiller
+E03858,Seguridad,45,1687366,214,Bachiller
+E03859,Seguridad,31,1460687,219,Bachiller
+E03860,Seguridad,50,1300000,203,Bachiller
+E03861,Seguridad,49,1300000,199,Bachiller
+E03862,Seguridad,31,1643274,201,Bachiller
+E03863,Seguridad,41,1729037,212,Bachiller
+E03864,Seguridad,27,1455032,221,Bachiller
+E03865,Seguridad,27,1408499,206,Bachiller
+E03866,Seguridad,30,1571488,194,Bachiller
+E03867,Seguridad,51,1665043,174,Bachiller
+E03868,Seguridad,51,1313116,177,Bachiller
+E03869,Seguridad,50,1443891,173,Bachiller
+E03870,Seguridad,54,1552974,227,Bachiller
+E03871,Seguridad,37,1451543,189,Bachiller
+E03872,Seguridad,37,1300000,194,Bachiller
+E03873,Seguridad,54,1322346,167,Bachiller
+E03874,Seguridad,46,1506376,165,Bachiller
+E03875,Seguridad,33,1596894,221,Bachiller
+E03876,Seguridad,46,1300000,208,Bachiller
+E03877,Seguridad,38,1467875,223,Bachiller
+E03878,Seguridad,43,1418894,184,Bachiller
+E03879,Seguridad,36,1523347,189,Bachiller
+E03880,Seguridad,28,1300000,186,Bachiller
+E03881,Seguridad,25,1480432,190,Bachiller
+E03882,Seguridad,34,1632968,213,Bachiller
+E03883,Seguridad,47,1518979,190,Bachiller
+E03884,Seguridad,27,1660335,189,Bachiller
+E03885,Seguridad,47,1482380,170,Bachiller
+E03886,Seguridad,30,1456975,222,Bachiller
+E03887,Seguridad,40,1391127,199,Bachiller
+E03888,Seguridad,51,1653737,211,Bachiller
+E03889,Seguridad,26,1577339,205,Bachiller
+E03890,Seguridad,54,1430795,205,Bachiller
+E03891,Seguridad,25,1476999,229,Bachiller
+E03892,Seguridad,50,1300000,163,Bachiller
+E03893,Seguridad,51,1492530,219,Bachiller
+E03894,Seguridad,38,1562340,161,Bachiller
+E03895,Seguridad,45,1659549,214,Bachiller
+E03896,Seguridad,33,1418905,194,Bachiller
+E03897,Seguridad,45,1463848,187,Bachiller
+E03898,Seguridad,42,1658424,198,Bachiller
+E03899,Seguridad,42,1705819,197,Bachiller
+E03900,Seguridad,33,1474862,160,Bachiller
+E03901,Seguridad,29,1600147,189,Bachiller
+E03902,Seguridad,25,1431359,161,Bachiller
+E03903,Seguridad,33,1305400,218,Bachiller
+E03904,Seguridad,50,1399979,216,Bachiller
+E03905,Seguridad,51,1489568,202,Bachiller
+E03906,Seguridad,47,1713127,212,Bachiller
+E03907,Seguridad,49,1662299,223,Bachiller
+E03908,Seguridad,45,1622486,217,Bachiller
+E03909,Seguridad,40,1553633,168,Bachiller
+E03910,Seguridad,35,1593883,187,Bachiller
+E03911,Seguridad,29,1300000,227,Bachiller
+E03912,Seguridad,25,1594704,182,Bachiller
+E03913,Seguridad,43,1851344,178,Bachiller
+E03914,Seguridad,53,1606738,214,Bachiller
+E03915,Seguridad,52,1642686,164,Bachiller
+E03916,Seguridad,36,1539618,218,Bachiller
+E03917,Seguridad,53,1434958,164,Bachiller
+E03918,Seguridad,29,1589558,208,Bachiller
+E03919,Seguridad,47,1501037,201,Bachiller
+E03920,Seguridad,33,1529831,207,Bachiller
+E03921,Seguridad,52,1385440,182,Bachiller
+E03922,Seguridad,45,1409274,206,Bachiller
+E03923,Seguridad,30,1486013,176,Bachiller
+E03924,Seguridad,26,1300000,182,Bachiller
+E03925,Seguridad,26,1445472,217,Bachiller
+E03926,Seguridad,50,1540668,180,Bachiller
+E03927,Seguridad,25,1520347,229,Bachiller
+E03928,Seguridad,26,1951478,173,Bachiller
+E03929,Seguridad,28,1395411,166,Bachiller
+E03930,Seguridad,48,1552467,228,Bachiller
+E03931,Seguridad,45,1501666,213,Bachiller
+E03932,Seguridad,41,1568001,176,Bachiller
+E03933,Seguridad,40,1586305,205,Bachiller
+E03934,Seguridad,32,1651349,201,Bachiller
+E03935,Seguridad,45,1644189,195,Bachiller
+E03936,Seguridad,41,1507573,188,Bachiller
+E03937,Seguridad,48,1561942,171,Bachiller
+E03938,Seguridad,30,1514938,183,Bachiller
+E03939,Seguridad,35,1609759,215,Bachiller
+E03940,Seguridad,32,1375752,171,Bachiller
+E03941,Seguridad,26,1328259,160,Bachiller
+E03942,Seguridad,41,1326604,182,Bachiller
+E03943,Seguridad,48,1899262,206,Bachiller
+E03944,Seguridad,29,1626914,196,Bachiller
+E03945,Seguridad,46,1666801,200,Bachiller
+E03946,Seguridad,27,1302010,174,Bachiller
+E03947,Seguridad,36,1392341,181,Bachiller
+E03948,Seguridad,50,1867751,188,Bachiller
+E03949,Seguridad,46,1435618,160,Bachiller
+E03950,Seguridad,42,1372966,189,Bachiller
+E03951,Seguridad,37,1620585,203,Bachiller
+E03952,Seguridad,33,1443489,181,Bachiller
+E03953,Seguridad,42,1675148,162,Bachiller
+E03954,Seguridad,45,1661001,162,Bachiller
+E03955,Seguridad,51,1443001,188,Bachiller
+E03956,Seguridad,46,1604221,162,Bachiller
+E03957,Seguridad,45,1620988,183,Bachiller
+E03958,Seguridad,33,1686368,192,Bachiller
+E03959,Seguridad,38,1480668,220,Bachiller
+E03960,Seguridad,26,1540228,185,Bachiller
+E03961,Seguridad,30,1592426,223,Bachiller
+E03962,Seguridad,48,1300000,217,Bachiller
+E03963,Seguridad,30,1483730,229,Bachiller
+E03964,Seguridad,53,1330477,203,Bachiller
+E03965,Seguridad,37,1529105,225,Bachiller
+E03966,Seguridad,28,1461111,227,Bachiller
+E03967,Seguridad,36,1300000,193,Bachiller
+E03968,Seguridad,27,1639749,168,Bachiller
+E03969,Seguridad,51,1517348,180,Bachiller
+E03970,Seguridad,44,1568343,218,Bachiller
+E03971,Seguridad,54,1625025,181,Bachiller
+E03972,Seguridad,46,1585302,219,Bachiller
+E03973,Seguridad,41,1375004,205,Bachiller
+E03974,Seguridad,52,1561059,185,Bachiller
+E03975,Seguridad,52,1333500,191,Bachiller
+E03976,Seguridad,37,1545646,182,Bachiller
+E03977,Seguridad,44,1661596,186,Bachiller
+E03978,Seguridad,31,1460911,197,Bachiller
+E03979,Seguridad,32,1621413,216,Bachiller
+E03980,Seguridad,47,1528528,219,Bachiller
+E03981,Seguridad,28,1515526,213,Bachiller
+E03982,Seguridad,31,1765289,198,Bachiller
+E03983,Seguridad,45,1500449,191,Bachiller
+E03984,Seguridad,28,1584065,223,Bachiller
+E03985,Seguridad,49,1675319,171,Bachiller
+E03986,Seguridad,50,1606831,166,Bachiller
+E03987,Seguridad,42,1639555,182,Bachiller
+E03988,Seguridad,46,1461168,190,Bachiller
+E03989,Seguridad,30,1338991,180,Bachiller
+E03990,Seguridad,51,1578959,213,Bachiller
+E03991,Seguridad,40,1518787,169,Bachiller
+E03992,Seguridad,40,1657281,215,Bachiller
+E03993,Seguridad,31,1476453,217,Bachiller
+E03994,Seguridad,26,1560579,207,Bachiller
+E03995,Seguridad,53,1630296,161,Bachiller
+E03996,Seguridad,54,1445961,200,Bachiller
+E03997,Seguridad,32,1300000,218,Bachiller
+E03998,Seguridad,34,1576135,191,Bachiller
+E03999,Seguridad,34,1473597,167,Bachiller
+E04000,Seguridad,29,1355446,229,Bachiller
